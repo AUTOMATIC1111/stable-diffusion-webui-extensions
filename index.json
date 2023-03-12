@@ -16,7 +16,8 @@
         "online": "an extension which requires wifi to use, often API related.",
         "animation": "an extension related to creating videos with stable diffusion.",
         "query": "extracting info from images.",
-        "science": "experimentation with stable diffusion."
+        "science": "experimentation with stable diffusion.",
+        "extras": "adds new functionality to the extras tab."
     },
     "extensions": [
         {
@@ -437,7 +438,7 @@
             "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization.git",
             "description": "Using pre-trained models, produce pixel art out of images in the extras tab.",
             "added": "2023-01-23",
-            "tags": ["editing"]
+            "tags": ["editing", "extras"]
         },
         {
             "name": "haku-img",
@@ -760,6 +761,13 @@
             "description": "Allows to store pictures and their metadata in a database. (supports MongoDB)",
             "added": "2023-03-12",
             "tags": ["script"]
+        },
+        {
+            "name": "stable-diffusion-webui-rembg",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git",
+            "description": "Removes backgrounds from pictures.",
+            "added": "2023-03-12",
+            "tags": ["script", "extras"]
         },
         {
             "name": "zh_CN Localization",
