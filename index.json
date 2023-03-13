@@ -774,7 +774,7 @@
             "url": "https://github.com/Bing-su/sd-webui-tunnels.git",
             "description": "Add alternatives to the default tunneling methods. (including cloudflared)",
             "added": "2023-03-13",
-            "tags": ["script"]
+            "tags": ["script", "online"]
         },
         {
             "name": "zh_CN Localization",
