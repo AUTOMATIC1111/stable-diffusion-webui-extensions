@@ -873,6 +873,13 @@
             "description": "Old unmaintained localizations that used to be a part of main repository",
             "added": "2022-11-08",
             "tags": ["localization"]
+        },
+        {
+            "name": "zh_Hans Localization",
+            "url": "https://github.com/wfjsw/stable-diffusion-webui-localization-zh_Hans.git",
+            "description": "Simplified Chinese localization.",
+            "added": "2023-03-13",
+            "tags": ["localization"]
         }
     ]
 }
