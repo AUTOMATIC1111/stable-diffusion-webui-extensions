@@ -721,13 +721,6 @@
             "tags": ["tab", "animation"]
         },
         {
-            "name": "ModelScope text2video",
-            "url": "https://github.com/deforum-art/sd-webui-modelscope-text2video.git",
-            "description": "Implementation of ModelScope text2video using only Auto1111 webui dependencies.",
-            "added": "2023-03-19",
-            "tags": ["tab", "animation"]
-        },
-        {
             "name": "VRAM Estimator",
             "url": "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git",
             "description": "Runs txt2img, img2img, highres-fix at increasing dimensions and batch sizes until OOM, and outputs data to graph.",
@@ -789,6 +782,13 @@
             "description": "Edit the pose of 3D models in the WebUI, and generate Openpose/Depth/Normal/Canny maps for ControlNet.",
             "added": "2023-03-16",
             "tags": ["tab"]
+        },
+        {
+            "name": "ModelScope text2video",
+            "url": "https://github.com/deforum-art/sd-webui-modelscope-text2video.git",
+            "description": "Implementation of ModelScope text2video using only Auto1111 webui dependencies.",
+            "added": "2023-03-19",
+            "tags": ["tab", "animation"]
         },
         {
             "name": "zh_CN Localization",
