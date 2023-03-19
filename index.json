@@ -721,6 +721,13 @@
             "tags": ["tab", "animation"]
         },
         {
+            "name": "ModelScope text2video",
+            "url": "https://github.com/deforum-art/sd-webui-modelscope-text2video.git",
+            "description": "Preserves the UI state after reload/restart.",
+            "added": "2023-03-19",
+            "tags": ["tab", "animation"]
+        },
+        {
             "name": "VRAM Estimator",
             "url": "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git",
             "description": "Runs txt2img, img2img, highres-fix at increasing dimensions and batch sizes until OOM, and outputs data to graph.",
