@@ -784,6 +784,13 @@
             "tags": ["tab"]
         },
         {
+            "name": "sd-webui-enable-checker",
+            "url": "https://github.com/shirayu/sd-webui-enable-checker.git",
+            "description": "Switch background color by clicking \"Enable\" buttons in SD Web UI",
+            "added": "2023-03-19",
+            "tags": ["script"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
