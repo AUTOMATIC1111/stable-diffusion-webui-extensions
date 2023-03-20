@@ -784,9 +784,30 @@
             "tags": ["tab"]
         },
         {
+            "name": "sd-webui-enable-checker",
+            "url": "https://github.com/shirayu/sd-webui-enable-checker.git",
+            "description": "Switch background color by clicking the Enable buttons in SD Web UI",
+            "added": "2023-03-19",
+            "tags": ["script"]
+        },
+        {
+            "name": "stable-diffusion-webui-state",
+            "url": "https://github.com/ilian6806/stable-diffusion-webui-state.git",
+            "description": "Preserves the UI state after reload/restart.",
+            "added": "2023-03-19",
+            "tags": ["script"]
+        },
+        {
+            "name": "ModelScope text2video",
+            "url": "https://github.com/deforum-art/sd-webui-modelscope-text2video.git",
+            "description": "Implementation of ModelScope text2video using only Auto1111 webui dependencies.",
+            "added": "2023-03-19",
+            "tags": ["tab", "animation"]
+        },
+        {
             "name": "Aspect Ratio Helper",
             "url": "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git",
-            "description": "Easily scale dimensions while retaining the same aspect ratio",
+            "description": "Easily scale dimensions while retaining the same aspect ratio.",
             "added": "2023-03-20",
             "tags": ["script", "dropdown", "UI related"]
         },
