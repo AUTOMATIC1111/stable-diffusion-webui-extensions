@@ -786,7 +786,14 @@
         {
             "name": "sd-webui-enable-checker",
             "url": "https://github.com/shirayu/sd-webui-enable-checker.git",
-            "description": "Switch background color by clicking \"Enable\" buttons in SD Web UI",
+            "description": "Switch background color by clicking the Enable buttons in SD Web UI",
+            "added": "2023-03-19",
+            "tags": ["script"]
+        },
+        {
+            "name": "stable-diffusion-webui-state",
+            "url": "https://github.com/ilian6806/stable-diffusion-webui-state.git",
+            "description": "Preserves the UI state after reload/restart.",
             "added": "2023-03-19",
             "tags": ["script"]
         },
