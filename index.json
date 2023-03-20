@@ -798,6 +798,20 @@
             "tags": ["script"]
         },
         {
+            "name": "ModelScope text2video",
+            "url": "https://github.com/deforum-art/sd-webui-modelscope-text2video.git",
+            "description": "Implementation of ModelScope text2video using only Auto1111 webui dependencies.",
+            "added": "2023-03-19",
+            "tags": ["tab", "animation"]
+        },
+        {
+            "name": "Aspect Ratio Helper",
+            "url": "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git",
+            "description": "Easily scale dimensions while retaining the same aspect ratio.",
+            "added": "2023-03-20",
+            "tags": ["script", "dropdown", "UI related"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
