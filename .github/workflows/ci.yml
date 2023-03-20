@@ -1,0 +1,25 @@
+---
+name: CI
+"on":
+  push:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  ci:
+    strategy:
+      matrix:
+        python-version: ["3.10"]
+        os: [ubuntu-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v3.4.0
+      - uses: actions/setup-python@v4.5.0
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - run: |
+          python ./validate_json.py -i ./index.json
