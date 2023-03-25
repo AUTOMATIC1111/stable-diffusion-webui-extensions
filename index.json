@@ -812,6 +812,13 @@
             "tags": ["script", "dropdown", "UI related"]
         },
         {
+            "name": "PromptHub",
+            "url": "https://github.com/Zetaphor/PromptHub.git",
+            "description": "Provides prompt history and more robust management of saved prompts.",
+            "added": "2023-03-25",
+            "tags": ["prompting", "UI related"]
+        },        
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
