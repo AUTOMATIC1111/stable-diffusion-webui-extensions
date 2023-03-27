@@ -817,7 +817,21 @@
             "description": "Provides prompt history and more robust management of saved prompts.",
             "added": "2023-03-25",
             "tags": ["prompting", "UI related"]
-        },        
+        },
+        {
+            "name": "Canvas Zoom",
+            "url" : "https://github.com/richrobber2/canvas-zoom.git",
+            "description": "Added the ability to scale Inpaint, Sketch, and Inpaint Sketch. Adds useful hotkeys",
+            "added": "2023-03-27",
+            "tags": ["UI related"]
+        },
+        {
+            "name": "Regional Prompter",
+            "url": "https://github.com/hako-mikan/sd-webui-regional-prompter.git",
+            "description": "Specify different prompts for different regions; an alternative method and potential improvement to latent couple.",
+            "added": "2023-03-26",
+            "tags": ["manipulations"]
+        },
         {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
