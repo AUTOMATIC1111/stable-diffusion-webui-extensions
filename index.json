@@ -812,6 +812,13 @@
             "tags": ["script", "dropdown", "UI related"]
         },
         {
+            "name": "Canvas Zoom",
+            "url" : "https://github.com/richrobber2/canvas-zoom.git",
+            "description": "Added the ability to scale Inpaint, Sketch, and Inpaint Sketch. Adds useful hotkeys",
+            "added": "2023-03-27",
+            "tags": ["UI related"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
