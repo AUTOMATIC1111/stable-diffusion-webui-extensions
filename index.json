@@ -812,6 +812,13 @@
             "tags": ["script", "dropdown", "UI related"]
         },
         {
+            "name": "Canvas Zoom",
+            "url" : "https://github.com/richrobber2/canvas-zoom.git",
+            "description": "Added the ability to scale Inpaint, Sketch, and Inpaint Sketch. Adds useful hotkeys",
+            "added": "2023-03-27",
+            "tags": ["UI related"]
+        },
+        {
             "name": "Regional Prompter",
             "url": "https://github.com/hako-mikan/sd-webui-regional-prompter.git",
             "description": "Specify different prompts for different regions; an alternative method and potential improvement to latent couple.",
