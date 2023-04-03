@@ -943,6 +943,13 @@
             "description": "Old unmaintained localizations that used to be a part of main repository",
             "added": "2022-11-08",
             "tags": ["localization"]
+        },
+        {
+            "name": "Abysz LAB",
+            "url": "https://github.com/AbyszOne/Abysz-LAB-Ext",
+            "description": "Temporal Coherence Tools",
+            "added": "2023-04-01",
+            "tags": ["tab", "animation"]
         }
     ]
 }
