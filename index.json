@@ -943,6 +943,13 @@
             "description": "Old unmaintained localizations that used to be a part of main repository",
             "added": "2022-11-08",
             "tags": ["localization"]
+        },
+        {
+            "name": "WebUI Community Extension",
+            "url": "https://github.com/learners-superpumped/newtype_v3.git",
+            "description": "WebUI community which can be added by extensions where users can earn fame and gain.",
+            "added": "2023-04-03",
+            "tags": ["tab"]
         }
     ]
 }
