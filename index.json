@@ -947,9 +947,9 @@
         {
             "name": "WebUI Community Extension",
             "url": "https://github.com/learners-superpumped/newtype_v3.git",
-            "description": "WebUI community which can be added by extensions where users can earn fame and gain.",
+            "description": "WebUI community where user can see other user's promt and information. Also you can upload your own photo if you save section.",
             "added": "2023-04-03",
-            "tags": ["tab"]
+            "tags": ["online"]
         }
     ]
 }
