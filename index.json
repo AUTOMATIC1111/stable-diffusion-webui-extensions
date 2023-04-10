@@ -709,7 +709,7 @@
         {
             "name": "a1111-sd-webui-locon",
             "url": "https://github.com/KohakuBlueleaf/a1111-sd-webui-locon.git",
-            "description": "An extension for loading LoCon networks in webui.",
+            "description": "loading LoCon/LyCoris networks in webui. NOTE: depreciated in favor of https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris, due to error with with other lora ext.",
             "added": "2023-03-04",
             "tags": ["script"]
         },
@@ -866,6 +866,13 @@
             "description": "PBRemTools(Precise background remover tools) is a collection of tools to crop backgrounds from a single picture with high accuracy.",
             "added": "2023-04-05",
             "tags": ["extras", "editing"]
+        },
+        {
+            "name": "a1111-sd-webui-lycoris",
+            "url": "https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git",
+            "description": "Load lycoris: non-conventional rank adapters; in separate networks gallery tab.",
+            "added": "2023-04-10",
+            "tags": ["script"]
         },
         {
             "name": "zh_CN Localization",
