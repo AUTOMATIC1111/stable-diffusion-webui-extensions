@@ -875,6 +875,13 @@
             "tags": ["script"]
         },
         {
+            "name": "sd-segment-anything",
+            "url": "https://github.com/jtydhr88/sd-segment-anything.git",
+            "description": "A custom extension for stable diffusion webui to integrate Meta SAM to segment your image.",
+            "added": "2023-04-12",
+            "tags": ["tab"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
