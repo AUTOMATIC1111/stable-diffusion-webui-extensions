@@ -978,6 +978,13 @@
             "description": "Old unmaintained localizations that used to be a part of main repository",
             "added": "2022-11-08",
             "tags": ["localization"]
+        },
+        {
+            "name": "WebUI Feed Extension",
+            "url": "https://github.com/todhm/sd_feed.git",
+            "description": "Share your images with the community and receive reputation based on the feedback you receive from other",
+            "added": "2023-04-13",
+            "tags": ["online", "tab"]
         }
     ]
 }
