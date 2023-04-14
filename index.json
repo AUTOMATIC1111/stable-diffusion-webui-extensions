@@ -707,13 +707,6 @@
             "tags": ["script"]
         },
         {
-            "name": "a1111-sd-webui-locon",
-            "url": "https://github.com/KohakuBlueleaf/a1111-sd-webui-locon.git",
-            "description": "loading LoCon/LyCoris networks in webui. NOTE: depreciated in favor of https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris, due to error with with other lora ext.",
-            "added": "2023-03-04",
-            "tags": ["script"]
-        },
-        {
             "name": "ebsynth_utility",
             "url": "https://github.com/s9roll7/ebsynth_utility.git",
             "description": "Extension for creating videos using img2img and ebsynth. Output edited videos using ebsynth. Works with ControlNet extension.",
@@ -876,11 +869,18 @@
         },
         {
             "name": "sd-canvas-editor",
-            "url": "https://github.com/jtydhr88/sd-canvas-editor",
+            "url": "https://github.com/jtydhr88/sd-canvas-editor.git",
             "description": "A full capability canvas editor which you can use layer, text, image, elements and so on.",
             "added": "2023-04-13",
             "tags": ["tab", "online"]
         },
+		{
+			"name": "Infinite Zoom",
+			"url": "https://github.com/v8hid/infinite-zoom-automatic1111-webui.git",
+			"description": "allows users to create infinite zoom effect videos using stable diffusion outpainting method.",
+			"added": "2023-04-13",
+			"tags": ["tab", "animation"]
+		},
         {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
