@@ -875,6 +875,13 @@
             "tags": ["script"]
         },
         {
+            "name": "sd-canvas-editor",
+            "url": "https://github.com/jtydhr88/sd-canvas-editor",
+            "description": "A full capability canvas editor which you can use layer, text, image, elements and so on.",
+            "added": "2023-04-13",
+            "tags": ["tab", "online"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
