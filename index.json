@@ -17,7 +17,8 @@
         "animation": "an extension related to creating videos with stable diffusion.",
         "query": "extracting info from images.",
         "science": "experimentation with stable diffusion.",
-        "extras": "adds new functionality to the extras tab."
+        "extras": "adds new functionality to the extras tab.",
+	"prompt translation": "an extension that translates prompts from one language to another."
     },
     "extensions": [
         {
@@ -823,14 +824,14 @@
             "url": "https://github.com/hyd998877/stable-diffusion-webui-auto-translate-language.git",
             "description": "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.",
             "added": "2023-03-24",
-            "tags": ["UI related"]
+            "tags": ["UI related", "prompt translation"]
         }, 
         {
             "name": "Prompt Translator",
             "url": "https://github.com/ParisNeo/prompt_translator.git",
             "description": "Allows users to generate images based on prompts written in 50 different languages. It translates the prompts to english from a selected source language before generating the image.",
             "added": "2023-03-28",
-            "tags": ["prompting"]
+            "tags": ["prompting", "prompt translation"]
         },
         {
             "name": "Abysz LAB",
