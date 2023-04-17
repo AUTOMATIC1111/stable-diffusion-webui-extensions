@@ -882,6 +882,13 @@
 			"tags": ["tab", "animation"]
 		},
         {
+			"name": "Bug Infinite",
+			"url": "https://github.com/avantcontra/sd-webui-bug-infinite",
+			"description": "An infinite zoom effect tool of Stable Diffusion Webui extension, supports different resolutions and zoom direction.",
+			"added": "2023-04-17",
+			"tags": ["script"]
+		},
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
