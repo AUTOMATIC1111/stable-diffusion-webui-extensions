@@ -152,6 +152,13 @@
             "description": "Provides an interface to browse created images in the web browser.",
             "added": "2022-11-01",
             "tags": ["tab", "UI related"]
+        }, 
+	{
+            "name": "Infinite image browsing",
+            "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing.git",
+            "description": "A fast image browser that allows you to browse all images without paging, with a layout similar to VS Code, and optional transfer with Baidu netdisk.",
+            "added": "2023-4-16",
+            "tags": ["tab", "UI related", "online"]
         },
         {
             "name": "Inspiration",
