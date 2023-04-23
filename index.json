@@ -897,7 +897,7 @@
         },
         {
             "name": "zh_TW Localization",
-            "url": "https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW",
+            "url": "https://github.com/harukaxxxx/stable-diffusion-webui-localization-zh_TW.git",
             "description": "Traditional Chinese localization",
             "added": "2022-11-09",
             "tags": ["localization"]
