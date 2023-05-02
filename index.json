@@ -224,6 +224,13 @@
             "tags": ["UI related"]
         },
         {
+            "name": "Nevysha's Comfy UI",
+            "url": "https://github.com/Nevysha/a1111-nevysha-comfy-ui.git",
+            "description": "UI extension with improved UI/UX. Resizable panels, full screen inpainting, and a dark theme.",
+            "added": "2023-05-02",
+            "tags": ["UI related"]
+        },
+        {
             "name": "Catppuccin Theme",
             "url": "https://github.com/catppuccin/stable-diffusion-webui.git",
             "description": "Adds various custom themes",
