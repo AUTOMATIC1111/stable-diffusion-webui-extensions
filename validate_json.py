@@ -3,7 +3,7 @@
 import argparse
 import json
 from pathlib import Path
-
+import datetime
 
 def operation(
     *,
@@ -29,6 +29,8 @@ def operation(
 
             for _tag in extension["tags"]:
                 assert _tag in tags
+
+            datetime.date.fromisoformat(extension['added']), "Incorrect data format, should be YYYY-MM-DD"
 
 
 def get_opts() -> argparse.Namespace:
