@@ -224,6 +224,13 @@
             "tags": ["UI related"]
         },
         {
+            "name": "Nevysha's Cozy Nest",
+            "url": "https://github.com/Nevysha/Cozy-Nest.git",
+            "description": "Extension for an improved UI/UX. Find your cozy spot on Auto1111's webui!.",
+            "added": "2023-05-02",
+            "tags": ["UI related"]
+        },
+        {
             "name": "Catppuccin Theme",
             "url": "https://github.com/catppuccin/stable-diffusion-webui.git",
             "description": "Adds various custom themes",
