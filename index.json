@@ -157,7 +157,7 @@
             "name": "Infinite image browsing",
             "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing.git",
             "description": "A fast image browser that allows browsing all images without paging, and supports joint search using image parameters, with a layout similar to VS Code.",
-            "added": "2023-4-16",
+            "added": "2023-04-16",
             "tags": ["tab", "UI related"]
         },
         {
