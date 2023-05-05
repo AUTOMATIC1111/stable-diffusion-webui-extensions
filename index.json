@@ -1002,7 +1002,7 @@
         },
         {
             "name": "Model Organizer",
-            "url": "https://github.com/alexandersokol/sd-model-organizer",
+            "url": "https://github.com/alexandersokol/sd-model-organizer.git",
             "description": "Extension that allows to store information about different models needed for Stable Diffusion WebUI, add information, description, notes and download them.",
             "added": "2023-05-05",
             "tags": ["tab", "UI related"]
