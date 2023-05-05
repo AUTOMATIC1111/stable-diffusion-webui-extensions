@@ -999,6 +999,13 @@
             "description": "Old unmaintained localizations that used to be a part of main repository",
             "added": "2022-11-08",
             "tags": ["localization"]
+        },
+        {
+            "name": "Model Organizer",
+            "url": "https://github.com/alexandersokol/sd-model-organizer",
+            "description": "Extension that allows to store information about different models needed for Stable Diffusion WebUI, add information, description, notes and download them.",
+            "added": "2023-05-05",
+            "tags": ["tab", "UI related"]
         }
     ]
 }
