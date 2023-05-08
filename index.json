@@ -447,6 +447,13 @@
             "added": "2022-12-24",
             "tags": ["editing"]
         },
+	{
+            "name": "Pixel",
+            "url": "https://github.com/Leodotpy/sd-pixel.git",
+            "description": "Quickly and easily perform downscaling, color palette limiting, and other useful pixel art effects through the extras tab.",
+            "added": "2023-05-05",
+            "tags": ["editing", "extras"]
+        },
         {
             "name": "Pixelization",
             "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization.git",
@@ -1006,6 +1013,13 @@
             "description": "Allows to store and manage own model collections, add information, notes, previews, download links of model. Easily download from any external direct link or shared file link from Google Drive. Share own models collection with json file or use remote Firestore database to make it available and synced on several devices.",
             "added": "2023-05-05",
             "tags": ["tab", "UI related", "online"]
+        },
+        {
+            "name": "SD-CN-Animation",
+            "url": "https://github.com/volotat/SD-CN-Animation.git",
+            "description": "Allows users to create video2video and text2video animations using any SD models as a backbone. Please, make sure that 'sd-webui-controlnet' extension is also installed.",
+            "added": "2023-05-06",
+            "tags": ["tab", "animation"]
         }
     ]
 }
