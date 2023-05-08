@@ -1013,6 +1013,13 @@
             "description": "Allows users to create video2video and text2video animations using any SD models as a backbone. Please, make sure that 'sd-webui-controlnet' extension is also installed.",
             "added": "2023-05-06",
             "tags": ["tab", "animation"]
+        },
+        {
+            "name": "sd-webui-prompt-all-in-one",
+            "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
+            "description": "Improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface that offers features such as automatic translation, history records, and favorites.",
+            "added": "2023-05-08",
+            "tags": ["UI related", "prompting", "localization"]
         }
     ]
 }
