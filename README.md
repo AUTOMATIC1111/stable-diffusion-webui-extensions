@@ -10,13 +10,13 @@ If you wish to add your extension to the index, write a short extension descript
 
 A list of available `tags` can be found at the top of index.json
 
-- The `online` tag is **required** for any extension that connections to external server during regular use aside from one time downloading of assets.
+- `online` tag is **Required** for any extension that connections to external server during regular use aside from one time downloading of assets.
 
-- The `ads` tag is **required** for any extension that contains advertisements or self-advertisement in the extension itself.
+- `ads` tag is **Required** for any extension that contains advertisements or self-advertisement in the extension itself.
 
-- The `localization` tag is for localization files only, not for extension that adds localization functionalities such as translator.
+- `localization` tag is for localization files only, not for extension that adds localization functionalities such as translator.
 
-- The `installed` tag it is used internally by webui and not to be used for extension categorization.
+- `installed` tag it is used internally by webui and not to be used for extension categorization.
 
 ## Notes
 
@@ -28,4 +28,4 @@ A list of available `tags` can be found at the top of index.json
 
 - Even if you're not the author of the extension, you can submit the extension for them.
 
-- If you wish to have your extension removed, or believes the description does not describe your extension properly, please open the issue or pull request.
+- If you wish to have your extension removed, or believes the description does not properly describe your extension, please open the issue or pull request.
