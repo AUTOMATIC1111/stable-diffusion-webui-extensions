@@ -1,4 +1,4 @@
-# This is the index of extensions for Stable Diffusion web UI
+# This is the Extension Index of Stable Diffusion Web UI
 
 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) downloads `index.json` from this repo to show user the list of available extensions.
 
