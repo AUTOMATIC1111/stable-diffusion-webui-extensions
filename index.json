@@ -152,7 +152,7 @@
             "description": "Provides an interface to browse created images in the web browser.",
             "added": "2022-11-01",
             "tags": ["tab", "UI related"]
-        }, 
+        },
 	{
             "name": "Infinite image browsing",
             "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing.git",
@@ -845,7 +845,7 @@
             "description": "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.",
             "added": "2023-03-24",
             "tags": ["UI related"]
-        }, 
+        },
         {
             "name": "Prompt Translator",
             "url": "https://github.com/ParisNeo/prompt_translator.git",
@@ -1027,6 +1027,13 @@
             "description": "A Multipurpose toolkit for pruning, editing and fixing models.",
             "added": "2023-05-10",
             "tags": ["tab", "models"]
+        },
+        {
+            "name": "sd-webui-prompt-all-in-one",
+            "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
+            "description": "Improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface that offers features such as automatic translation, history records, and favorites.",
+            "added": "2023-05-08",
+            "tags": ["UI related", "prompting", "ads", "online"]
         }
     ]
 }
