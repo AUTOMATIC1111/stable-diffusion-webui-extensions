@@ -22,7 +22,7 @@ A list of available `tags` can be found at the top of index.json
 
 - An extension will need to be functioning for it to be included.
 
-- If extension is non-functioning an not maintained, we might redirect it to a fork or remove it form the index.
+- If extension is no longer functional and not maintained, we might redirect it to a fork or remove it form the index.
 
 - Not all extensions will be accepted, we will review the extension and make an assessment.
 
