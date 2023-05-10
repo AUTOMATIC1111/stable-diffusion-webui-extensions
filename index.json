@@ -953,7 +953,7 @@
         },
         {
             "name": "ja_JP Localization",
-            "url": "https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP",
+            "url": "https://github.com/AI-Creators-Society/stable-diffusion-webui-localization-ja_JP",
             "description": "Japanese localization",
             "added": "2022-11-07",
             "tags": ["localization"]
