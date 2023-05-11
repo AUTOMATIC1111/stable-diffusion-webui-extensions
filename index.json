@@ -903,6 +903,13 @@
             "tags": ["tab", "animation"]
         },
         {
+            "name": "Eye Mask",
+            "url": "https://github.com/ilian6806/stable-diffusion-webui-eyemask.git",
+            "description": "Marks eyes or faces in an image.",
+            "added": "2023-05-11",
+            "tags": ["script", "dropdown", "manipulations"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
