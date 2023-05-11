@@ -1034,6 +1034,13 @@
             "description": "Improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface that offers features such as automatic translation, history records, and favorites.",
             "added": "2023-05-08",
             "tags": ["UI related", "prompting", "online"]
+        },
+	{
+            "name": "Weight Gradient",
+            "url": "https://github.com/DingoBite/weight_gradient",
+            "description": "Allows you to dynamically change the weights of tokens during generation. Useful in morphing.",
+            "added": "2023-05-11",
+            "tags": ["prompting"]
         }
     ]
 }
