@@ -1034,6 +1034,13 @@
             "description": "Improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface that offers features such as automatic translation, history records, and favorites.",
             "added": "2023-05-08",
             "tags": ["UI related", "prompting", "online"]
+        },
+        {
+            "name": "sd-model-preview-xd",
+            "url": "https://github.com/CurtisDS/sd-model-preview-xd",
+            "description": "Adds model, LoRA and embedding previews to the UI including preview images, descriptions and LoRA prompt lists.",
+            "added": "2023-05-12",
+            "tags": ["tab", "UI related"]
         }
     ]
 }
