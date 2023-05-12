@@ -1034,6 +1034,13 @@
             "description": "Improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface that offers features such as automatic translation, history records, and favorites.",
             "added": "2023-05-08",
             "tags": ["UI related", "prompting", "online"]
+        },
+        {
+            "name": "!After Detailer",
+            "url": "https://github.com/Bing-su/adetailer.git",
+            "description": "Automatic detection, masking and inpainting tool for details",
+            "added": "2023-05-12",
+            "tags": ["manipulations"]
         }
     ]
 }
