@@ -1041,6 +1041,13 @@
             "description": "Automatic detection, masking and inpainting tool for details",
             "added": "2023-05-12",
             "tags": ["manipulations"]
+        },
+        {
+            "name": "Weight Gradient",
+            "url": "https://github.com/DingoBite/weight_gradient",
+            "description": "Allows you to dynamically change the weights of tokens during generation. Useful in morphing.",
+            "added": "2023-05-11",
+            "tags": ["prompting"]
         }
     ]
 }
