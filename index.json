@@ -1041,6 +1041,27 @@
             "description": "Adds model, LoRA and embedding previews to the UI including preview images, descriptions and LoRA prompt lists.",
             "added": "2023-05-12",
             "tags": ["tab", "UI related"]
+        },
+        {
+            "name": "!After Detailer",
+            "url": "https://github.com/Bing-su/adetailer.git",
+            "description": "Automatic detection, masking and inpainting tool for details",
+            "added": "2023-05-12",
+            "tags": ["manipulations"]
+        },
+        {
+            "name": "Weight Gradient",
+            "url": "https://github.com/DingoBite/weight_gradient",
+            "description": "Allows you to dynamically change the weights of tokens during generation. Useful in morphing.",
+            "added": "2023-05-11",
+            "tags": ["prompting"]
+        },
+        {
+            "name": "One Button Prompt",
+            "url": "https://github.com/AIrjen/OneButtonPrompt",
+            "description": "One Button Prompt is a script for beginners and advanced users that generates an entire prompt from scratch. It is random, but controlled. You simply load up the script and press generate, and let it inspire you.",
+            "added": "2023-05-14",
+            "tags": ["script","prompting"]
         }
     ]
 }
