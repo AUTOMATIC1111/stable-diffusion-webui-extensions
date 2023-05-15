@@ -1022,6 +1022,13 @@
             "tags": ["tab", "UI related", "online"]
         },
         {
+            "name": "Stable Diffusion Webui Civitai Helper",
+            "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git",
+            "description": "Download or populate models with metadata and preview image from civitai.com",
+            "added": "2023-05-16",
+            "tags": ["tab", "UI related", "online"]
+        },
+        {
             "name": "SD-CN-Animation",
             "url": "https://github.com/volotat/SD-CN-Animation.git",
             "description": "Allows users to create video2video and text2video animations using any SD models as a backbone. Please, make sure that 'sd-webui-controlnet' extension is also installed.",
