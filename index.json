@@ -1083,6 +1083,13 @@
             "description": "One Button Prompt is a script for beginners and advanced users that generates an entire prompt from scratch. It is random, but controlled. You simply load up the script and press generate, and let it inspire you.",
             "added": "2023-05-14",
             "tags": ["script","prompting"]
+        },
+        {
+            "name": "miniPaint",
+            "url": "https://github.com/0Tick/a1111-mini-paint",
+            "description": "The miniPaint extension allows for better image editing capabilites. Edit images simply direct inside the webui!",
+            "added": "2023-05-16",
+            "tags": ["editing","tab","editing"]
         }
     ]
 }
