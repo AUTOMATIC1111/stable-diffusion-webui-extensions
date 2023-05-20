@@ -1089,7 +1089,7 @@
             "url": "https://github.com/0Tick/a1111-mini-paint",
             "description": "The miniPaint extension allows for better image editing capabilites. Edit images simply direct inside the webui!",
             "added": "2023-05-16",
-            "tags": ["editing","tab","editing"]
+            "tags": ["tab","editing"]
         }
     ]
 }
