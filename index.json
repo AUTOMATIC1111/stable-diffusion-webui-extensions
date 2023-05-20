@@ -1085,6 +1085,13 @@
             "tags": ["script","prompting"]
         },
         {
+            "name": "Miaoshouai Assistant",
+            "url": "https://github.com/miaoshouai/miaoshouai-assistant.git",
+            "description": "Miaoshouai Assistant allows you to enhance your automatic1111 webui user experience, including updating boot settings, managing and downloading your models, prompts from a single tab.",
+            "added": "2023-05-18",
+            "tags": ["tab", "models", "UI related", "online", "ads"]
+        },
+        {
             "name": "miniPaint",
             "url": "https://github.com/0Tick/a1111-mini-paint",
             "description": "The miniPaint extension allows for better image editing capabilites. Edit images simply direct inside the webui!",
