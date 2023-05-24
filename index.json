@@ -1118,6 +1118,13 @@
 	          "description": "Generate batches more quickly by chaining together separate webui instances",
 	          "added": "2023-05-23",
 	          "tags": ["script"]
-	      }
+	      },
+        {
+            "name": "StableStudio Adapter",
+            "url": "https://github.com/jtydhr88/sd-webui-StableStudio.git",
+            "description": "A custom extension for webui to extend rest APIs to do some local operations, using in StableStudio.",
+            "added": "2023-05-24",
+            "tags": ["script"]
+        }
     ]
 }
