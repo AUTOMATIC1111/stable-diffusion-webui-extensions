@@ -21,6 +21,13 @@
     },
     "extensions": [
         {
+            "name": "Stable Diffusion AWS Extension",
+            "url": "https://github.com/awslabs/stable-diffusion-aws-extension.git",
+            "description": "Allow user to migrate existing workloads including ckpt merge, model training, model inferencing onto AWS",
+            "added": "2023-05-01",
+            "tags": ["tab", "training"]
+        },
+        {
             "name": "Aesthetic Gradients",
             "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git",
             "description": "Allows training an embedding from one or few pictures, specifically meant for applying styles. Also, allows use of these specific embeddings to generated images.",
