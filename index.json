@@ -511,6 +511,13 @@
             "tags": ["manipulations"]
         },
         {
+            "name": "Neutral Prompt",
+            "url": "https://github.com/ljleb/sd-webui-neutral-prompt.git",
+            "description": "Adds new keywords for manipulating noise blending and prompt interactions. Allows for organizing prompts in a hierarchical manner instead of a flat list.",
+            "added": "2023-05-28",
+            "tags": ["manipulations"]
+        },
+        {
             "name": "Dynamic Thresholding",
             "url": "https://github.com/mcmonkeyprojects/sd-dynamic-thresholding.git",
             "description": "Adds customizable dynamic thresholding to allow high CFG Scale values without the burning / 'pop art' effect.",
