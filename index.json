@@ -820,8 +820,8 @@
         },
         {
             "name": "text2video",
-            "url": "https://github.com/deforum-art/sd-webui-text2video.git",
-            "description": "Implementation of text2video diffusion models, such as ModelScope or VideoCrafter, using only Auto1111 webui dependencies.",
+            "url": "https://github.com/kabachuha/sd-webui-text2video.git",
+            "description": "Brings a range of true text2video models, such as ModelScope and Videocrafter, into the WebUI.",
             "added": "2023-03-19",
             "tags": ["tab", "animation"]
         },
