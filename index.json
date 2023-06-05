@@ -1126,13 +1126,13 @@
             "added": "2023-05-23",
             "tags": ["script", "UI related", "prompting"]
         },
-	      {
-	          "name": "Distributed",
-	          "url": "https://github.com/papuSpartan/stable-diffusion-webui-distributed.git",
-	          "description": "Generate batches more quickly by chaining together separate webui instances",
-	          "added": "2023-05-23",
-	          "tags": ["script"]
-	      },
+	{
+	    "name": "Distributed",
+	    "url": "https://github.com/papuSpartan/stable-diffusion-webui-distributed.git",
+	    "description": "Generate batches more quickly by chaining together separate webui instances",
+	    "added": "2023-05-23",
+	    "tags": ["script"]
+	},
         {
             "name": "StableStudio Adapter",
             "url": "https://github.com/jtydhr88/sd-webui-StableStudio.git",
@@ -1153,6 +1153,13 @@
             "description": "Generate images with Lua scripts in Stable Diffusion webui.",
             "added": "2023-05-29",
             "tags": ["tab", "science"]
+        },
+        {
+            "name": "Model Downloader",
+            "url": "https://github.com/Iyashinouta/sd-model-downloader.git",
+            "description": "Alternative tool for Downloading Models, Recommended for Cloud users.",
+            "added": "2023-06-05",
+            "tags": ["tab", "script", "online"]
         }
     ]
 }
