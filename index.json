@@ -1160,6 +1160,13 @@
             "description": "Alternative tool for Downloading Models, Recommended for Cloud users.",
             "added": "2023-06-05",
             "tags": ["tab", "script", "online"]
+        },
+	{
+            "name": "Clip I/O",
+            "url": "https://github.com/Filexor/Clip_IO.git",
+            "description": "The extension allows you to investigate embeddings/conditioning and feed conditioning to Stable Diffusion.",
+            "added": "2023-06-06",
+            "tags": ["script", "tab", "science"]
         }
     ]
 }
