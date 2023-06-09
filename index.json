@@ -21,6 +21,13 @@
     },
     "extensions": [
         {
+            "name": "Txt/Img to 3D Model",
+            "url": "https://github.com/huchenlei/sd-webui-openpose-editor",
+            "description": "An extension integrated OpenAI Shap-E that allow you to generate 3D model from prompt or image",
+            "added": "2023-06-09",
+            "tags": ["tab"]
+        },
+        {
             "name": "sd-webui-openpose-editor",
             "url": "https://github.com/huchenlei/sd-webui-openpose-editor",
             "description": "Integrated openpose editor for ControlNet. Full hand/face support.",
