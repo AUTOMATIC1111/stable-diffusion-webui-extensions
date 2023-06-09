@@ -1209,6 +1209,13 @@
             "description": "Create QR Codes for ControlNet.",
             "added": "2023-06-08",
             "tags": ["script", "tab"]
+        },
+        {
+            "name": "sd-webui-faceswap",
+            "url": "https://github.com/Ynn/sd-webui-faceswap",
+            "description": "Enable face swapping with reference image.",
+            "added": "2023-06-09",
+            "tags": ["editing","manipulations"]
         }
     ]
 }
