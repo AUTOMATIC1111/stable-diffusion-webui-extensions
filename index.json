@@ -1195,6 +1195,13 @@
             "description": "The Inpaint Anything extension performs SD inpainting, cleaner, ControlNet inpaint, and sending a mask to img2img, using a mask selected from the segmentation output of Segment Anything.",
             "added": "2023-06-09",
             "tags": ["tab", "editing", "manipulations"]
+        },
+	    {
+            "name": "QR Code Generator",
+            "url": "https://github.com/missionfloyd/webui-qrcode-generator.git",
+            "description": "Create QR Codes for ControlNet.",
+            "added": "2023-06-08",
+            "tags": ["script", "tab"]
         }
     ]
 }
