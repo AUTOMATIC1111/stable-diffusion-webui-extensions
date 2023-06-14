@@ -1225,6 +1225,13 @@
             "tags": ["editing","manipulations"]
         },
         {
+            "name": "sd-webui-color-enhance",
+            "url": "https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git",
+            "description": "Enhance image colors using GIMP/GEGL \"Color Enhance\" algorithm.",
+            "added": "2023-06-10",
+            "tags": ["editing", "extras"]
+        },
+        {
             "name": "sd-webui-bluescape",
             "url": "https://github.com/Bluescape/sd-webui-bluescape",
             "description": "Upload generated images to a Bluescape workspace for review and collaboration.",
