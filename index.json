@@ -20,6 +20,14 @@
         "extras": "adds new functionality to the extras tab."
     },
     "extensions": [
+	    
+        {
+           "name": "ua_UA Localization",
+            "url": "https://github.com/razorback456/webui-localization-ua_UA",
+            "description": "Ukrainian localization",
+            "added": "2023-06-18",
+            "tags": ["localization"]
+        },
         {
             "name": "Batch Checkpoints and Prompts",
             "url": "https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
