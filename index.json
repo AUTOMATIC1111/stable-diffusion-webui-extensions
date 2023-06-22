@@ -20,6 +20,13 @@
         "extras": "adds new functionality to the extras tab."
     },
     "extensions": [
+        {
+            "name": "Agent Scheduler",
+            "url": "https://github.com/ArtVentureX/sd-webui-agent-scheduler.git",
+            "description": "Queue task and task history",
+            "added": "2023-06-23",
+            "tags": ["tab"]
+        },
 	    {
             "name": "TemporalKit",
             "url": "https://github.com/CiaraStrawberry/TemporalKit",
