@@ -21,11 +21,10 @@ def operation(
                 "name",
                 "url",
                 "description",
-                "description",
                 "added",
                 "tags",
             ]:
-                assert required_key in extension
+                assert required_key in extension, f"missing key: {required_key}"
 
             for _tag in extension["tags"]:
                 assert _tag in tags

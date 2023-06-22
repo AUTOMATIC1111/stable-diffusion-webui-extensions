@@ -20,9 +20,15 @@
         "extras": "adds new functionality to the extras tab."
     },
     "extensions": [
-	    
+	    {
+            "name": "TemporalKit",
+            "url": "https://github.com/CiaraStrawberry/TemporalKit",
+            "description": "An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension",
+            "added": "2023-06-22",
+            "tags": ["extras", "animation"]
+        },
         {
-           "name": "ua_UA Localization",
+            "name": "ua_UA Localization",
             "url": "https://github.com/razorback456/webui-localization-ua_UA",
             "description": "Ukrainian localization",
             "added": "2023-06-18",
