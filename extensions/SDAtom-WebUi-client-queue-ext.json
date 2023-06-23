@@ -1,0 +1,11 @@
+{
+    "name": "Web UI client queue",
+    "url": "https://github.com/Kryptortio/SDAtom-WebUi-client-queue-ext.git",
+    "description": "Adds a queue function to the web ui that processes a set of settings one or more times, it can then load a different set of settings and so on.",
+    "added": "2023-05-23",
+    "tags": [
+        "script",
+        "UI related",
+        "prompting"
+    ]
+}

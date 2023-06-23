@@ -1,0 +1,11 @@
+{
+    "name": "Eye Mask",
+    "url": "https://github.com/ilian6806/stable-diffusion-webui-eyemask.git",
+    "description": "Puts an end to poorly drawn eyes by automatically identifying and redrawing them.",
+    "added": "2023-05-11",
+    "tags": [
+        "script",
+        "dropdown",
+        "manipulations"
+    ]
+}

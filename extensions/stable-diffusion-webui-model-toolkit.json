@@ -1,0 +1,10 @@
+{
+    "name": "Model toolkit",
+    "url": "https://github.com/arenasys/stable-diffusion-webui-model-toolkit.git",
+    "description": "A Multipurpose toolkit for pruning, editing and fixing models.",
+    "added": "2023-05-10",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}

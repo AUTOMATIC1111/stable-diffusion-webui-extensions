@@ -1,0 +1,9 @@
+{
+    "name": "Save Intermediate Images",
+    "url": "https://github.com/AlUlkesh/sd_save_intermediate_images.git",
+    "description": "Save intermediate images during the sampling process. You can also make videos from the intermediate images.",
+    "added": "2022-12-22",
+    "tags": [
+        "script"
+    ]
+}

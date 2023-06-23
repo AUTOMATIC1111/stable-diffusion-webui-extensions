@@ -1,0 +1,10 @@
+{
+    "name": "SuperMerger",
+    "url": "https://github.com/hako-mikan/sd-webui-supermerger.git",
+    "description": "Merge and run without saving to drive. Sequential XY merge generations; extract and merge loras, bind loras to ckpt, merge block weights, and more.",
+    "added": "2023-02-18",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}

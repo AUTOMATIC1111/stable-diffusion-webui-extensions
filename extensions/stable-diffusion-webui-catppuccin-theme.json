@@ -1,0 +1,9 @@
+{
+    "name": "Catppuccin Theme",
+    "url": "https://github.com/catppuccin/stable-diffusion-webui.git",
+    "description": "Adds various custom themes",
+    "added": "2023-02-04",
+    "tags": [
+        "UI related"
+    ]
+}

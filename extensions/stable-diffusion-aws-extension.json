@@ -1,0 +1,11 @@
+{
+    "name": "Stable Diffusion AWS Extension",
+    "url": "https://github.com/awslabs/stable-diffusion-aws-extension.git",
+    "description": "Allow user to migrate existing workloads including ckpt merge, model training, model inferencing onto AWS",
+    "added": "2023-06-01",
+    "tags": [
+        "tab",
+        "training",
+        "online"
+    ]
+}

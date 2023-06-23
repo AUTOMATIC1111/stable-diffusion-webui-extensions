@@ -1,0 +1,9 @@
+{
+    "name": "CFG-Schedule-for-Automatic1111-SD",
+    "url": "https://github.com/guzuligo/CFG-Schedule-for-Automatic1111-SD.git",
+    "description": "These scripts allow for dynamic CFG control during generation steps. With the right settings, this could help get the details of high CFG without damaging the generated image even with low denoising in img2img.",
+    "added": "2023-03-04",
+    "tags": [
+        "script"
+    ]
+}

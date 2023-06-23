@@ -1,0 +1,10 @@
+{
+    "name": "Inspiration",
+    "url": "https://github.com/yfszzx/stable-diffusion-webui-inspiration.git",
+    "description": "Randomly display the pictures of the artist's or artistic genres typical style, more pictures of this artist or genre is displayed after selecting. So you don't have to worry about how hard it is to choose the right style of art when you create.",
+    "added": "2022-11-01",
+    "tags": [
+        "tab",
+        "UI related"
+    ]
+}

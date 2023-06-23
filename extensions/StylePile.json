@@ -1,0 +1,9 @@
+{
+    "name": "StylePile",
+    "url": "https://github.com/some9000/StylePile.git",
+    "description": "An easy way to mix and match elements to prompts that affect the style of the result.",
+    "added": "2022-11-24",
+    "tags": [
+        "prompting"
+    ]
+}

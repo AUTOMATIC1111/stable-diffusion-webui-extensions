@@ -1,0 +1,9 @@
+{
+    "name": "Riffusion",
+    "url": "https://github.com/enlyth/sd-webui-riffusion.git",
+    "description": "Use Riffusion model to produce music in gradio. To replicate original interpolation technique, input the prompt travel extension output frames into the riffusion tab.",
+    "added": "2022-12-19",
+    "tags": [
+        "tab"
+    ]
+}

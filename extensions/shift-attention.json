@@ -1,0 +1,9 @@
+{
+    "name": "shift-attention",
+    "url": "https://github.com/yownas/shift-attention.git",
+    "description": "Generate a sequence of images shifting attention in the prompt. This script enables you to give a range to the weight of tokens in a prompt and then generate a sequence of images stepping from the first one to the second.",
+    "added": "2022-11-09",
+    "tags": [
+        "animation"
+    ]
+}

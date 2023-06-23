@@ -1,0 +1,10 @@
+{
+    "name": "Merge Board",
+    "url": "https://github.com/bbc-mc/sdweb-merge-board.git",
+    "description": "Multiple lane merge support(up to 10). Save and Load your merging combination as Recipes, which is simple text.",
+    "added": "2022-11-21",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}

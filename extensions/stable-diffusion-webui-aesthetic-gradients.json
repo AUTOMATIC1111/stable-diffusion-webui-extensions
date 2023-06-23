@@ -1,0 +1,11 @@
+{
+    "name": "Aesthetic Gradients",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git",
+    "description": "Allows training an embedding from one or few pictures, specifically meant for applying styles. Also, allows use of these specific embeddings to generated images.",
+    "added": "2022-11-01",
+    "tags": [
+        "tab",
+        "dropdown",
+        "training"
+    ]
+}

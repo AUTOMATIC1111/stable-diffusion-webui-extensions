@@ -1,0 +1,9 @@
+{
+    "name": "Sonar",
+    "url": "https://github.com/Kahsolt/stable-diffusion-webui-sonar.git",
+    "description": "Improve the generated image quality, searches for similar (yet even better!) images in the neighborhood of some known image, focuses on single prompt optimization rather than traveling between multiple prompts.",
+    "added": "2023-01-12",
+    "tags": [
+        "manipulations"
+    ]
+}

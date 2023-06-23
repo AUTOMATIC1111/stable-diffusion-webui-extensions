@@ -1,0 +1,9 @@
+{
+    "name": "Regional Prompter",
+    "url": "https://github.com/hako-mikan/sd-webui-regional-prompter.git",
+    "description": "Specify different prompts for different regions; an alternative method and potential improvement to latent couple.",
+    "added": "2023-03-26",
+    "tags": [
+        "manipulations"
+    ]
+}

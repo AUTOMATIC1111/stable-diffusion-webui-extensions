@@ -1,0 +1,9 @@
+{
+    "name": "Video Loopback",
+    "url": "https://github.com/fishslot/video_loopback_for_webui.git",
+    "description": "A video2video script that tries to improve on the temporal consistency and flexibility of normal vid2vid.",
+    "added": "2023-02-13",
+    "tags": [
+        "animation"
+    ]
+}

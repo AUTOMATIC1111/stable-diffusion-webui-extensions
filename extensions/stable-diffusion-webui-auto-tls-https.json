@@ -1,0 +1,9 @@
+{
+    "name": "Auto TLS-HTTPS",
+    "url": "https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git",
+    "description": "Allows you to easily, or even completely automatically start using HTTPS.",
+    "added": "2022-11-14",
+    "tags": [
+        "script"
+    ]
+}

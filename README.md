@@ -4,7 +4,7 @@
 
 ## How to submit extension
 
-If you wish to add your extension to the index, write a short extension description along with the current date and tag your extension appropriately, then open as an issue or pull request ty!
+If you wish to add your extension to the index, fill in the `extension_template.json` and add it into the extensions dir, write a short extension description along with the current date and tag your extension appropriately, then open as a pull request ty!
 
 ## Tags
 

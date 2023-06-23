@@ -1,0 +1,9 @@
+{
+    "name": "StableSR",
+    "url": "https://github.com/pkuliyi2015/sd-webui-stablesr.git",
+    "description": "WebUI extension for StableSR - a powerful upscaler for both realistic and anime images",
+    "added": "2023-05-22",
+    "tags": [
+        "manipulations"
+    ]
+}

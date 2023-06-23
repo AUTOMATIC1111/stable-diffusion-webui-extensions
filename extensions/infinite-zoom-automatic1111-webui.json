@@ -1,0 +1,10 @@
+{
+    "name": "Infinite Zoom",
+    "url": "https://github.com/v8hid/infinite-zoom-automatic1111-webui.git",
+    "description": "allows users to create infinite zoom effect videos using stable diffusion outpainting method.",
+    "added": "2023-04-13",
+    "tags": [
+        "tab",
+        "animation"
+    ]
+}

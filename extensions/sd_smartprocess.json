@@ -1,0 +1,11 @@
+{
+    "name": "Smart Process",
+    "url": "https://github.com/d8ahazard/sd_smartprocess.git",
+    "description": "Smart pre-process including auto subject identification, caption subject swapping, and upscaling/facial restoration.",
+    "added": "2022-11-12",
+    "tags": [
+        "tab",
+        "editing",
+        "training"
+    ]
+}

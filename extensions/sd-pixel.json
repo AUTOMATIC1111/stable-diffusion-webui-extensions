@@ -1,0 +1,10 @@
+{
+    "name": "Pixel",
+    "url": "https://github.com/Leodotpy/sd-pixel.git",
+    "description": "Quickly and easily perform downscaling, color palette limiting, and other useful pixel art effects through the extras tab.",
+    "added": "2023-05-05",
+    "tags": [
+        "editing",
+        "extras"
+    ]
+}

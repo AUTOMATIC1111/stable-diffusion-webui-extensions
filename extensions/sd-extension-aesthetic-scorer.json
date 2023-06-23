@@ -1,0 +1,9 @@
+{
+    "name": "Aesthetic Scorer",
+    "url": "https://github.com/vladmandic/sd-extension-aesthetic-scorer.git",
+    "description": "Uses existing CLiP model with an additional small pretrained model to calculate perceived aesthetic score of an image.",
+    "added": "2023-01-21",
+    "tags": [
+        "query"
+    ]
+}

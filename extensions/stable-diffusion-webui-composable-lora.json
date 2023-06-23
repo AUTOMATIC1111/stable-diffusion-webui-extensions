@@ -1,0 +1,9 @@
+{
+    "name": "Composable LoRA",
+    "url": "https://github.com/a2569875/stable-diffusion-webui-composable-lora.git",
+    "description": "Enables using AND keyword(composable diffusion) to limit LoRAs to subprompts. Useful when paired with Latent Couple extension.",
+    "added": "2023-06-23",
+    "tags": [
+        "manipulations"
+    ]
+}

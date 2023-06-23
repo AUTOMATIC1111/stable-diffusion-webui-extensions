@@ -1,0 +1,10 @@
+{
+    "name": "Clip Interrogator",
+    "url": "https://github.com/pharmapsychotic/clip-interrogator-ext.git",
+    "description": "Clip Interrogator by pharmapsychotic ported to an extension. Features a variety of clip models and interrogate settings.",
+    "added": "2023-02-21",
+    "tags": [
+        "tab",
+        "query"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "model-keyword",
+    "url": "https://github.com/mix1009/model-keyword.git",
+    "description": "Inserts matching keyword(s) to the prompt automatically. Update this extension to get the latest model+keyword mappings.",
+    "added": "2022-12-28",
+    "tags": [
+        "prompting"
+    ]
+}

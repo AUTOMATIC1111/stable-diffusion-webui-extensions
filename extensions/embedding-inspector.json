@@ -1,0 +1,10 @@
+{
+    "name": "embedding-inspector",
+    "url": "https://github.com/tkalayci71/embedding-inspector.git",
+    "description": "Inspect any token(a word) or Textual-Inversion embeddings and find out which embeddings are similar. You can mix, modify, or create the embeddings in seconds.",
+    "added": "2022-12-06",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}

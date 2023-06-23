@@ -1,0 +1,11 @@
+{
+    "name": "Embedding Merge",
+    "url": "https://github.com/klimaleksus/stable-diffusion-webui-embedding-merge.git",
+    "description": "Merging Textual Inversion embeddings at runtime from string literals. Phrases and weight values also supported.",
+    "added": "2023-02-09",
+    "tags": [
+        "tab",
+        "models",
+        "manipulations"
+    ]
+}

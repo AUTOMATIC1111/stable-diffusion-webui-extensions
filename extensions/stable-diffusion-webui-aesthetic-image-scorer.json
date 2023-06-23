@@ -1,0 +1,9 @@
+{
+    "name": "Aesthetic Image Scorer",
+    "url": "https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer.git",
+    "description": "Calculates aesthetic score for generated images using CLIP+MLP Aesthetic Score Predictor based on Chad Scorer",
+    "added": "2022-11-01",
+    "tags": [
+        "query"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Artists to study",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-artists-to-study.git",
+    "description": "Shows a gallery of generated pictures by artists separated into categories.",
+    "added": "2022-11-01",
+    "tags": [
+        "tab",
+        "UI related"
+    ]
+}

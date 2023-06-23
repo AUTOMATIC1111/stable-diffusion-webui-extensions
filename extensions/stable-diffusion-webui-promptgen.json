@@ -1,0 +1,10 @@
+{
+    "name": "Promptgen",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen.git",
+    "description": "Use transformers models to generate prompts.",
+    "added": "2023-01-18",
+    "tags": [
+        "tab",
+        "prompting"
+    ]
+}

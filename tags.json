@@ -1,0 +1,19 @@
+{
+    "script": "a general extension that adds functionality",
+    "localization": "a localization extension that translates web ui into another language",
+    "tab": "adds a tab",
+    "dropdown": "adds a dropbear in the ui",
+    "ads": "contains ads",
+    "installed": "an extension that is already installed",
+    "training": "new type of training / assists with training.",
+    "models": "conversion and merging related.",
+    "UI related": "enhances the display or user interface experience.",
+    "prompting": "assists with writing words, for prompts.",
+    "editing": "an extension that changes images, not using stable diffusion.",
+    "manipulations": "an extension that changes images with stable diffusion.",
+    "online": "an extension which requires wifi to use, often API related.",
+    "animation": "an extension related to creating videos with stable diffusion.",
+    "query": "extracting info from images.",
+    "science": "experimentation with stable diffusion.",
+    "extras": "adds new functionality to the extras tab."
+}

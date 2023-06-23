@@ -1,0 +1,9 @@
+{
+    "name": "sd-webui-openpose-editor",
+    "url": "https://github.com/huchenlei/sd-webui-openpose-editor.git",
+    "description": "Integrated openpose editor for ControlNet. Full hand/face support.",
+    "added": "2023-06-07",
+    "tags": [
+        "editing"
+    ]
+}

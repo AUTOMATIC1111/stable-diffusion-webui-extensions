@@ -1,0 +1,9 @@
+{
+    "name": "LoRA Block Weight",
+    "url": "https://github.com/hako-mikan/sd-webui-lora-block-weight.git",
+    "description": "Applies LoRA strength; block by block on the fly. Includes presets, weight analysis, randomization, XY plot.",
+    "added": "2023-02-28",
+    "tags": [
+        "models"
+    ]
+}

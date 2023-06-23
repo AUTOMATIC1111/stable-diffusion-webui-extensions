@@ -1,0 +1,10 @@
+{
+    "name": "e621 Prompt",
+    "url": "https://github.com/nochnoe/sd-webui-e621-prompt.git",
+    "description": "Request tags of an image from e621 and convert them into a prompt",
+    "added": "2023-06-15",
+    "tags": [
+        "online",
+        "prompting"
+    ]
+}

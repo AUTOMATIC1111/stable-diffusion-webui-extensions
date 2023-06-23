@@ -1,0 +1,9 @@
+{
+    "name": "Steps Animation",
+    "url": "https://github.com/vladmandic/sd-extension-steps-animation.git",
+    "description": "Create animation sequence from denoised intermediate steps.",
+    "added": "2023-01-21",
+    "tags": [
+        "animation"
+    ]
+}

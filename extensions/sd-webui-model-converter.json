@@ -1,0 +1,10 @@
+{
+    "name": "Model Converter",
+    "url": "https://github.com/Akegarasu/sd-webui-model-converter.git",
+    "description": "Convert models to fp16/bf16 no-ema/ema-only safetensors. Convert/copy/delete any parts of model: unet, text encoder(clip), vae.",
+    "added": "2023-01-05",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}

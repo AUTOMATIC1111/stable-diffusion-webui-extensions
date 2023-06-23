@@ -1,0 +1,10 @@
+{
+    "name": "Animator",
+    "url": "https://github.com/Animator-Anon/animator_extension.git",
+    "description": "A basic img2img script that will dump frames and build a video file. Suitable for creating interesting zoom-in warping movies. This is intended to be a versatile toolset to help you automate some img2img tasks.",
+    "added": "2023-01-11",
+    "tags": [
+        "tab",
+        "animation"
+    ]
+}

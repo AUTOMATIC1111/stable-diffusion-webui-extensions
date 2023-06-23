@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-segment-anything",
+    "url": "https://github.com/continue-revolution/sd-webui-segment-anything.git",
+    "description": "Segment Anything for Stable Diffusion WebUI. Automatically generate high-quality segmentations/masks for images by clicking or text prompting. Aim for connecting WebUI and ControlNet with Segment Anything and GroundingDINO to enhance Stable Diffusion/ControlNet inpainting (both single image and batch process), enhance ControlNet semantic segmentation, automate image matting and create LoRA/LyCORIS training set.",
+    "added": "2023-06-07",
+    "tags": [
+        "script",
+        "dropdown"
+    ]
+}

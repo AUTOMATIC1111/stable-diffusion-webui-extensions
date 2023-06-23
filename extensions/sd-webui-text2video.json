@@ -1,0 +1,10 @@
+{
+    "name": "text2video",
+    "url": "https://github.com/kabachuha/sd-webui-text2video.git",
+    "description": "Brings a range of true text2video models, such as ModelScope and Videocrafter, into the WebUI.",
+    "added": "2023-03-19",
+    "tags": [
+        "tab",
+        "animation"
+    ]
+}

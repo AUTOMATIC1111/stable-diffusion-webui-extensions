@@ -1,0 +1,9 @@
+{
+    "name": "seed travel",
+    "url": "https://github.com/yownas/seed_travel.git",
+    "description": "Small script for AUTOMATIC1111/stable-diffusion-webui to create images that exists between seeds.",
+    "added": "2022-11-09",
+    "tags": [
+        "animation"
+    ]
+}

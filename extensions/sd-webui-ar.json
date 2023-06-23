@@ -1,0 +1,9 @@
+{
+    "name": "Aspect Ratio selector",
+    "url": "https://github.com/alemelis/sd-webui-ar.git",
+    "description": "Adds image aspect ratio selector buttons.",
+    "added": "2023-02-04",
+    "tags": [
+        "UI related"
+    ]
+}

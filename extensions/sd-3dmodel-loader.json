@@ -1,0 +1,9 @@
+{
+    "name": "3D Model&Pose Loader",
+    "url": "https://github.com/jtydhr88/sd-3dmodel-loader.git",
+    "description": "Load your 3D model/animation inside webui, or edit model pose as well, then send screenshot to txt2img or img2img to ControlNet.",
+    "added": "2023-03-11",
+    "tags": [
+        "tab"
+    ]
+}

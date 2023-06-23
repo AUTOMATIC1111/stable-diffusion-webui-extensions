@@ -1,0 +1,11 @@
+{
+    "name": "Model Organizer",
+    "url": "https://github.com/alexandersokol/sd-model-organizer.git",
+    "description": "Allows to store and manage own model collections, add information, notes, previews, download links of model. Easily download from any external direct link or shared file link from Google Drive. Share own models collection with json file or use remote Firestore database to make it available and synced on several devices.",
+    "added": "2023-05-05",
+    "tags": [
+        "tab",
+        "UI related",
+        "online"
+    ]
+}

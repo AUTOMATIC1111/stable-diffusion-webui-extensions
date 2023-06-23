@@ -1,0 +1,9 @@
+{
+    "name": "Preset Utilities",
+    "url": "https://github.com/Gerschel/sd_web_ui_preset_utils.git",
+    "description": "Preset utility tool for ui. Offers compatibility with custom scripts. (to a limit)",
+    "added": "2022-12-19",
+    "tags": [
+        "UI related"
+    ]
+}

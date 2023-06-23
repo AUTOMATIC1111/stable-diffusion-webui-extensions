@@ -1,0 +1,11 @@
+{
+    "name": "Model Preset Manager",
+    "url": "https://github.com/rifeWithKaiju/model_preset_manager.git",
+    "description": "Lets you create and apply presets per model for all generation data (e.g. prompt, negative prompt, cfg_scale, resolution, sampler, clip skip, steps, etc). Also automatically fetches model trigger words and thumbnails from Civitai.",
+    "added": "2023-05-15",
+    "tags": [
+        "online",
+        "prompting",
+        "tab"
+    ]
+}

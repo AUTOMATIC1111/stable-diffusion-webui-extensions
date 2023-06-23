@@ -1,0 +1,11 @@
+{
+    "name": "Stable Diffusion Webui Civitai Helper",
+    "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git",
+    "description": "Download or populate models with metadata and preview image from civitai.com",
+    "added": "2023-05-16",
+    "tags": [
+        "tab",
+        "UI related",
+        "online"
+    ]
+}

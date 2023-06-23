@@ -1,0 +1,9 @@
+{
+    "name": "Randomize",
+    "url": "https://github.com/innightwolfsleep/stable-diffusion-webui-randomize.git",
+    "description": "Allows for random parameters during txt2img generation. This script will function with others as well. Original author: https://git.mmaker.moe/mmaker/stable-diffusion-webui-randomize",
+    "added": "2022-11-11",
+    "tags": [
+        "prompting"
+    ]
+}

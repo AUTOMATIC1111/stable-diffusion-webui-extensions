@@ -1,0 +1,10 @@
+{
+    "name": "Lua",
+    "url": "https://github.com/yownas/sd-webui-lua.git",
+    "description": "Generate images with Lua scripts in Stable Diffusion webui.",
+    "added": "2023-05-29",
+    "tags": [
+        "tab",
+        "science"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "zh_CN Localization",
+    "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
+    "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
+    "added": "2022-11-06",
+    "tags": [
+        "localization"
+    ]
+}

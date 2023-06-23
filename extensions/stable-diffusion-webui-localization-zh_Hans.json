@@ -1,0 +1,9 @@
+{
+    "name": "zh_Hans Localization",
+    "url": "https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans.git",
+    "description": "Simplified Chinese localization.",
+    "added": "2023-03-13",
+    "tags": [
+        "localization"
+    ]
+}
