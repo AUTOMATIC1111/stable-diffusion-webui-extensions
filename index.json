@@ -21,6 +21,13 @@
     },
     "extensions": [
         {
+            "name": "Deforum",
+            "url": "https://github.com/deforum-art/sd-webui-deforum.git",
+            "description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
+            "added": "2023-06-25",
+            "tags": ["extras", "animation"]
+        },
+        {
             "name": "Agent Scheduler",
             "url": "https://github.com/ArtVentureX/sd-webui-agent-scheduler.git",
             "description": "Queue task and task history",
