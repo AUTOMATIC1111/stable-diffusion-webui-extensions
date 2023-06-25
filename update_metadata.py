@@ -24,6 +24,7 @@ def get_github_metadata(extension: dict):
             extension["github_description"] = responce_json.get("description")
             extension["stars"] = responce_json.get("stargazers_count")
             extension["default_branch"] = responce_json.get("default_branch")
+            extension["created_at"] = responce_json.get("created_at")
 
             # get metadata of default branch
             if responce_json.get("default_branch"):
