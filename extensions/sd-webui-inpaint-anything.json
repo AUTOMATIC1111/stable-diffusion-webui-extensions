@@ -1,0 +1,11 @@
+{
+    "name": "Inpaint Anything",
+    "url": "https://github.com/Uminosachi/sd-webui-inpaint-anything.git",
+    "description": "The Inpaint Anything extension performs SD inpainting, cleaner, ControlNet inpaint, and sending a mask to img2img, using a mask selected from the segmentation output of Segment Anything.",
+    "added": "2023-06-09",
+    "tags": [
+        "tab",
+        "editing",
+        "manipulations"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Embeddings editor",
+    "url": "https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor.git",
+    "description": "Allows you to manually edit textual inversion embeddings using sliders.",
+    "added": "2022-11-06",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}

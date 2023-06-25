@@ -1,0 +1,10 @@
+{
+    "name": "Stable Horde Client",
+    "url": "https://github.com/natanjunges/stable-diffusion-webui-stable-horde.git",
+    "description": "Stable Horde Client. Generate pictures using other user's PC. Useful if u have no GPU.",
+    "added": "2023-01-11",
+    "tags": [
+        "tab",
+        "online"
+    ]
+}

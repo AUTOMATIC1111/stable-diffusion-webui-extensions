@@ -1,0 +1,10 @@
+{
+    "name": "Hypernetwork-Monkeypatch-Extension",
+    "url": "https://github.com/aria1th/Hypernetwork-MonkeyPatch-Extension.git",
+    "description": "Extension that provides additional training features for hypernetwork training. Also supports using multiple hypernetworks for inference.",
+    "added": "2023-01-12",
+    "tags": [
+        "tab",
+        "training"
+    ]
+}

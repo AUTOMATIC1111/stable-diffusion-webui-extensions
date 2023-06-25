@@ -1,0 +1,11 @@
+{
+    "name": "Styles Editor",
+    "url": "https://github.com/chrisgoringe/Styles-Editor.git",
+    "description": "Adds a spreadsheet-style editor for saved styles, with support for filtering, search and replace, and subdividing styles into multiple files",
+    "added": "2023-06-06",
+    "tags": [
+        "tab",
+        "UI related",
+        "prompting"
+    ]
+}

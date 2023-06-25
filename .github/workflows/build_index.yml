@@ -1,0 +1,37 @@
+name: Build index
+
+on:
+    workflow_dispatch:
+    push:
+      branches:
+        - master
+      paths:
+        - 'extensions/**.json'
+        - 'tags.json'
+        - 'index.json'
+
+permissions:
+    contents: write
+
+jobs:
+    build-extension-index-jobs:
+        runs-on: ubuntu-latest
+
+        steps:
+        - uses: actions/checkout@v3
+        - uses: actions/setup-python@v4
+          with:
+            python-version: '3.11'
+
+        - name: build extension index
+          run: python ./build_index.py
+
+        - name: git-commit
+          uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: 'Build index'
+            commit_options: '--no-verify'
+            file_pattern: '*.json'
+            status_options: '--untracked-files=no'
+            skip_fetch: true    
+            skip_checkout: true

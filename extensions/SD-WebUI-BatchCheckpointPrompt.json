@@ -1,0 +1,9 @@
+{
+    "name": "Batch Checkpoints and Prompts",
+    "url": "https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
+    "description": "Test a base prompt with different checkpoints and for the checkpoints specific prompt templates ",
+    "added": "2023-06-16",
+    "tags": [
+        "script"
+    ]
+}

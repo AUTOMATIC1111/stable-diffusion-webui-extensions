@@ -1,0 +1,9 @@
+{
+    "name": "Gelbooru Prompt",
+    "url": "https://github.com/antis0007/sd-webui-gelbooru-prompt.git",
+    "description": "Extension that gets tags for saved gelbooru images in AUTOMATIC1111's Stable Diffusion webui",
+    "added": "2022-12-20",
+    "tags": [
+        "online"
+    ]
+}

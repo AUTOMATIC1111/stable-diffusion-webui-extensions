@@ -1,0 +1,10 @@
+{
+    "name": "mine-diffusion",
+    "url": "https://github.com/fropych/mine-diffusion.git",
+    "description": "This extension converts images into blocks and creates schematics for easy importing into Minecraft using the Litematica mod.",
+    "added": "2023-02-11",
+    "tags": [
+        "tab",
+        "online"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Neutral Prompt",
+    "url": "https://github.com/ljleb/sd-webui-neutral-prompt.git",
+    "description": "Adds new keywords for manipulating noise blending and prompt interactions. Allows for organizing prompts in a hierarchical manner instead of a flat list.",
+    "added": "2023-05-28",
+    "tags": [
+        "manipulations"
+    ]
+}

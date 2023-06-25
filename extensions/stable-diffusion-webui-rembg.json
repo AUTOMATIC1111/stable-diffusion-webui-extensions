@@ -1,0 +1,10 @@
+{
+    "name": "stable-diffusion-webui-rembg",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git",
+    "description": "Removes backgrounds from pictures.",
+    "added": "2023-03-12",
+    "tags": [
+        "script",
+        "extras"
+    ]
+}

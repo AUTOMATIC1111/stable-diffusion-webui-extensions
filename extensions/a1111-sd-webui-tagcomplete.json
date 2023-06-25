@@ -1,0 +1,9 @@
+{
+    "name": "Booru tag autocompletion",
+    "url": "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git",
+    "description": "Displays autocompletion hints for tags from image booru boards such as Danbooru. Uses local tag CSV files and includes a config for customization.",
+    "added": "2022-11-04",
+    "tags": [
+        "prompting"
+    ]
+}

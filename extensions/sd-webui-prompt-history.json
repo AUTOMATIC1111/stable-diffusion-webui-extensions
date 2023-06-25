@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-prompt_history",
+    "url": "https://github.com/namkazt/sd-webui-prompt-history",
+    "description": "Automatic store your generation info with image and apply back anytime.",
+    "added": "2023-06-14",
+    "tags": [
+        "UI related",
+        "tab"
+    ]
+}

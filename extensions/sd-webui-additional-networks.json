@@ -1,0 +1,9 @@
+{
+    "name": "Kohya-ss Additional Networks",
+    "url": "https://github.com/kohya-ss/sd-webui-additional-networks.git",
+    "description": "Allows the Web UI to use LoRAs (1.X and 2.X) to generate images. Also allows editing .safetensors networks prompt metadata.",
+    "added": "2023-01-06",
+    "tags": [
+        "models"
+    ]
+}

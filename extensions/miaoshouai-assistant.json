@@ -1,0 +1,13 @@
+{
+    "name": "Miaoshouai Assistant",
+    "url": "https://github.com/miaoshouai/miaoshouai-assistant.git",
+    "description": "Miaoshouai Assistant allows you to enhance your automatic1111 webui user experience, including updating boot settings, managing and downloading your models, prompts from a single tab.",
+    "added": "2023-05-18",
+    "tags": [
+        "tab",
+        "models",
+        "UI related",
+        "online",
+        "ads"
+    ]
+}

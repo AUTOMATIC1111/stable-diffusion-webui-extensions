@@ -1,0 +1,9 @@
+{
+    "name": "Prompt Fusion",
+    "url": "https://github.com/ljleb/prompt-fusion-extension.git",
+    "description": "Adds prompt-travel and shift-attention-like interpolations (see exts), but during/within the sampling steps. Always-on + works w/ existing prompt-editing syntax. Various interpolation modes. See their wiki for more info.",
+    "added": "2023-01-28",
+    "tags": [
+        "manipulations"
+    ]
+}

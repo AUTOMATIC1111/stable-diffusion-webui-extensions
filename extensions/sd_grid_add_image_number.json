@@ -1,0 +1,9 @@
+{
+    "name": "Add image number to grid",
+    "url": "https://github.com/AlUlkesh/sd_grid_add_image_number.git",
+    "description": "Add the image's number to its picture in the grid.",
+    "added": "2023-01-01",
+    "tags": [
+        "script"
+    ]
+}

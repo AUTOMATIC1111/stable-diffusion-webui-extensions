@@ -1,0 +1,9 @@
+{
+    "name": "tr_TR Localization",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-localization-tr_TR",
+    "description": "Turkish localization",
+    "added": "2022-11-12",
+    "tags": [
+        "localization"
+    ]
+}

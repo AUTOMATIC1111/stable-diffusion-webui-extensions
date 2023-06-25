@@ -1,0 +1,11 @@
+{
+    "name": "Negative Prompt Weight",
+    "url": "https://github.com/muerrilla/stable-diffusion-NPW.git",
+    "description": "Allows users to set a global weight for the negative prompt.",
+    "added": "2023-04-02",
+    "tags": [
+        "script",
+        "manipulations",
+        "prompting"
+    ]
+}

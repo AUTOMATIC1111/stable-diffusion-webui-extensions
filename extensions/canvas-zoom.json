@@ -1,0 +1,9 @@
+{
+    "name": "Canvas Zoom",
+    "url": "https://github.com/richrobber2/canvas-zoom.git",
+    "description": "Added the ability to scale Inpaint, Sketch, and Inpaint Sketch. Adds useful hotkeys",
+    "added": "2023-03-27",
+    "tags": [
+        "UI related"
+    ]
+}

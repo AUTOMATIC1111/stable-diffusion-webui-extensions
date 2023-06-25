@@ -1,0 +1,10 @@
+{
+    "name": "Dataset Tag Editor",
+    "url": "https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor.git",
+    "description": "Feature-rich UI tab that allows image viewing, search-filtering and editing.",
+    "added": "2022-11-01",
+    "tags": [
+        "tab",
+        "training"
+    ]
+}

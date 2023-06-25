@@ -1,0 +1,10 @@
+{
+    "name": "Quick Tab Switch",
+    "url": "https://github.com/AJpon/a1111-sd-webui-quickswitch.git",
+    "description": "Simple tab switcher for Stable Diffusion WebUI. From now on, no matter how many tabs you add, no more finding for them by yourself!",
+    "added": "2023-05-26",
+    "tags": [
+        "script",
+        "UI related"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "ko_KR Localization",
+    "url": "https://github.com/36DB/stable-diffusion-webui-localization-ko_KR",
+    "description": "Korean localization",
+    "added": "2022-11-06",
+    "tags": [
+        "localization"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "DH Patch",
+    "url": "https://github.com/d8ahazard/sd_auto_fix.git",
+    "description": "Random patches by D8ahazard. Auto-load config YAML files for v2, 2.1 models; patch latent-diffusion to fix attention on 2.1 models (black boxes without no-half), whatever else I come up with.",
+    "added": "2022-12-16",
+    "tags": [
+        "script"
+    ]
+}

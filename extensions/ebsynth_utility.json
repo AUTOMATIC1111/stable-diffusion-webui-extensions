@@ -1,0 +1,10 @@
+{
+    "name": "ebsynth_utility",
+    "url": "https://github.com/s9roll7/ebsynth_utility.git",
+    "description": "Extension for creating videos using img2img and ebsynth. Output edited videos using ebsynth. Works with ControlNet extension.",
+    "added": "2023-03-04",
+    "tags": [
+        "tab",
+        "animation"
+    ]
+}

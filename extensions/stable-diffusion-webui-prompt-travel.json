@@ -1,0 +1,9 @@
+{
+    "name": "prompt travel",
+    "url": "https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel.git",
+    "description": "Extension script for AUTOMATIC1111/stable-diffusion-webui to travel between prompts in latent space.",
+    "added": "2022-11-11",
+    "tags": [
+        "animation"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Depth Image I/O",
+    "url": "https://github.com/AnonymousCervine/depth-image-io-for-SDWebui.git",
+    "description": "An extension to allow managing custom depth inputs to Stable Diffusion depth2img models.",
+    "added": "2023-01-17",
+    "tags": [
+        "manipulations"
+    ]
+}

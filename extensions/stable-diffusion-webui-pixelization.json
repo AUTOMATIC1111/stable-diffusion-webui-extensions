@@ -1,0 +1,10 @@
+{
+    "name": "Pixelization",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization.git",
+    "description": "Using pre-trained models, produce pixel art out of images in the extras tab.",
+    "added": "2023-01-23",
+    "tags": [
+        "editing",
+        "extras"
+    ]
+}

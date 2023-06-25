@@ -1,0 +1,9 @@
+{
+    "name": "ABG_extension",
+    "url": "https://github.com/KutsuyaYuki/ABG_extension.git",
+    "description": "Automatically remove backgrounds. Uses an onnx model fine-tuned for anime images. Runs on GPU.",
+    "added": "2022-12-24",
+    "tags": [
+        "editing"
+    ]
+}

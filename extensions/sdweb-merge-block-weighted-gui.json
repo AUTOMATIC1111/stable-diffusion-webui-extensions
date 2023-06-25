@@ -1,0 +1,10 @@
+{
+    "name": "Merge Block Weighted",
+    "url": "https://github.com/bbc-mc/sdweb-merge-block-weighted-gui.git",
+    "description": "Merge models with separate rate for each 25 U-Net block (input, middle, output).",
+    "added": "2023-01-13",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}

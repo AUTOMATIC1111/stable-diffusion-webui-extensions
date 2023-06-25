@@ -1,0 +1,10 @@
+{
+    "name": "System Info",
+    "url": "https://github.com/vladmandic/sd-extension-system-info.git",
+    "description": "System Info tab for WebUI which shows realtime information of the server. Also supports sending crowdsourced inference data as an option.",
+    "added": "2023-01-21",
+    "tags": [
+        "script",
+        "tab"
+    ]
+}

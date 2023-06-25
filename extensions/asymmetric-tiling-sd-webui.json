@@ -1,0 +1,9 @@
+{
+    "name": "Asymmetric Tiling",
+    "url": "https://github.com/tjm35/asymmetric-tiling-sd-webui.git",
+    "description": "An always visible script extension to configure seamless image tiling independently for the X and Y axes.",
+    "added": "2023-01-13",
+    "tags": [
+        "manipulations"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "haku-img",
+    "url": "https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img.git",
+    "description": "Image utils extension. Allows blending, layering, hue and color adjustments, blurring and sketch effects, and basic pixelization.",
+    "added": "2023-01-17",
+    "tags": [
+        "tab",
+        "editing"
+    ]
+}

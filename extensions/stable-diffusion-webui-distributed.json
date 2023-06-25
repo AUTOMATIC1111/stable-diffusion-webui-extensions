@@ -1,0 +1,9 @@
+{
+    "name": "Distributed",
+    "url": "https://github.com/papuSpartan/stable-diffusion-webui-distributed.git",
+    "description": "Generate batches more quickly by chaining together separate webui instances",
+    "added": "2023-05-23",
+    "tags": [
+        "script"
+    ]
+}

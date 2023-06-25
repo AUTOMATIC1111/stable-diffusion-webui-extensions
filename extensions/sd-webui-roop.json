@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-roop",
+    "url": "https://github.com/s0md3v/sd-webui-roop",
+    "description": "Enable face swapping with reference image.",
+    "added": "2023-06-18",
+    "tags": [
+        "editing",
+        "manipulations"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Prompt Translator",
+    "url": "https://github.com/ParisNeo/prompt_translator.git",
+    "description": "Allows users to generate images based on prompts written in 50 different languages. It translates the prompts to english from a selected source language before generating the image.",
+    "added": "2023-03-28",
+    "tags": [
+        "prompting"
+    ]
+}

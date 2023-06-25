@@ -1,0 +1,10 @@
+{
+    "name": "sd-model-preview-xd",
+    "url": "https://github.com/CurtisDS/sd-model-preview-xd",
+    "description": "Adds model, LoRA and embedding previews to the UI including preview images, descriptions and LoRA prompt lists.",
+    "added": "2023-05-12",
+    "tags": [
+        "tab",
+        "UI related"
+    ]
+}

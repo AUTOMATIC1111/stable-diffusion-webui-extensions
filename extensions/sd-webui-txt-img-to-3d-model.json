@@ -1,0 +1,9 @@
+{
+    "name": "Txt/Img to 3D Model",
+    "url": "https://github.com/jtydhr88/sd-webui-txt-img-to-3d-model.git",
+    "description": "An extension integrated OpenAI Shap-E that allow you to generate 3D model from prompt or image",
+    "added": "2023-06-09",
+    "tags": [
+        "tab"
+    ]
+}

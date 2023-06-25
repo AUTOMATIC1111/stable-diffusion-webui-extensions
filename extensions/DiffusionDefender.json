@@ -1,0 +1,9 @@
+{
+    "name": "Diffusion Defender",
+    "url": "https://github.com/WildBanjos/DiffusionDefender.git",
+    "description": "Prompt blacklist, find and replace, for semi-private and public instances.",
+    "added": "2022-12-20",
+    "tags": [
+        "script"
+    ]
+}

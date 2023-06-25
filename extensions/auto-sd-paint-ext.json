@@ -1,0 +1,9 @@
+{
+    "name": "auto-sd-paint-ext",
+    "url": "https://github.com/Interpause/auto-sd-paint-ext.git",
+    "description": "Krita Plugin.",
+    "added": "2022-11-04",
+    "tags": [
+        "editing"
+    ]
+}

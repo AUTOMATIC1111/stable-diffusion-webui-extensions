@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-prompt-all-in-one",
+    "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
+    "description": "Improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface that offers features such as automatic translation, history records, and favorites.",
+    "added": "2023-05-08",
+    "tags": [
+        "UI related",
+        "prompting",
+        "online"
+    ]
+}

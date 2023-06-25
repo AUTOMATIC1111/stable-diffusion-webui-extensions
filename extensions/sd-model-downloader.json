@@ -1,0 +1,11 @@
+{
+    "name": "Model Downloader",
+    "url": "https://github.com/Iyashinouta/sd-model-downloader.git",
+    "description": "Alternative tool for Downloading Models, Recommended for Cloud users.",
+    "added": "2023-06-05",
+    "tags": [
+        "tab",
+        "script",
+        "online"
+    ]
+}

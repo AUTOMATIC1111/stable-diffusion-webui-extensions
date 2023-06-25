@@ -1,0 +1,9 @@
+{
+    "name": "Batch Face Swap",
+    "url": "https://github.com/kex0/batch-face-swap.git",
+    "description": "Automatically detects faces and replaces them.",
+    "added": "2023-01-13",
+    "tags": [
+        "editing"
+    ]
+}

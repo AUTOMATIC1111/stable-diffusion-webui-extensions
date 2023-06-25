@@ -1,0 +1,9 @@
+{
+    "name": "stable-diffusion-webui-state",
+    "url": "https://github.com/ilian6806/stable-diffusion-webui-state.git",
+    "description": "Preserves the UI state after reload/restart.",
+    "added": "2023-03-19",
+    "tags": [
+        "script"
+    ]
+}

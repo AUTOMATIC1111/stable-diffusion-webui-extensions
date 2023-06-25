@@ -1,12 +1,20 @@
----
-name: CI
+name: Validate json
+
 "on":
+  workflow_dispatch:
   push:
+    paths:
+      - 'extensions/**.json'
+      - 'tags.json'
   pull_request:
     types:
       - opened
       - synchronize
       - reopened
+    paths:
+      - 'extensions/**.json'
+      - 'tags.json'
+      - 'index.json'
 
 jobs:
   ci:

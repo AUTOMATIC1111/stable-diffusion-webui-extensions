@@ -1,0 +1,9 @@
+{
+    "name": "novelai-2-local-prompt",
+    "url": "https://github.com/animerl/novelai-2-local-prompt.git",
+    "description": "Add a button to convert the prompts used in NovelAI for use in the WebUI. In addition, add a button that allows you to recall a previously used prompt.",
+    "added": "2022-11-05",
+    "tags": [
+        "prompting"
+    ]
+}

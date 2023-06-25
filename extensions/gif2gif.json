@@ -1,0 +1,9 @@
+{
+    "name": "gif2gif",
+    "url": "https://github.com/LonicaMewinsky/gif2gif.git",
+    "description": "A script for img2img that extract a gif frame by frame for img2img generation and recombine them back into an animated gif",
+    "added": "2023-02-09",
+    "tags": [
+        "animation"
+    ]
+}

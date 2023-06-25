@@ -1,0 +1,9 @@
+{
+    "name": "Depth Maps",
+    "url": "https://github.com/thygate/stable-diffusion-webui-depthmap-script.git",
+    "description": "Depth Maps, Stereo Image, 3D Mesh and Video generator extension.",
+    "added": "2022-11-30",
+    "tags": [
+        "editing"
+    ]
+}

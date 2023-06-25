@@ -1,0 +1,10 @@
+{
+    "name": "QR Code Generator",
+    "url": "https://github.com/missionfloyd/webui-qrcode-generator.git",
+    "description": "Create QR Codes for ControlNet.",
+    "added": "2023-06-08",
+    "tags": [
+        "script",
+        "tab"
+    ]
+}

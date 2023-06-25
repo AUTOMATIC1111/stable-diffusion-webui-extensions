@@ -1,0 +1,9 @@
+{
+    "name": "de_DE Localization",
+    "url": "https://github.com/Strothis/stable-diffusion-webui-de_DE",
+    "description": "German localization",
+    "added": "2022-11-07",
+    "tags": [
+        "localization"
+    ]
+}

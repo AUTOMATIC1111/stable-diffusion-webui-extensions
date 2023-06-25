@@ -1,0 +1,9 @@
+{
+    "name": "Ultimate SD Upscale",
+    "url": "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git",
+    "description": "More advanced options for SD Upscale, less artifacts than original using higher denoise ratio (0.3-0.5).",
+    "added": "2023-01-10",
+    "tags": [
+        "manipulations"
+    ]
+}

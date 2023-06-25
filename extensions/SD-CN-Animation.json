@@ -1,0 +1,10 @@
+{
+    "name": "SD-CN-Animation",
+    "url": "https://github.com/volotat/SD-CN-Animation.git",
+    "description": "Allows users to create video2video and text2video animations using any SD models as a backbone. Please, make sure that 'sd-webui-controlnet' extension is also installed.",
+    "added": "2023-05-06",
+    "tags": [
+        "tab",
+        "animation"
+    ]
+}

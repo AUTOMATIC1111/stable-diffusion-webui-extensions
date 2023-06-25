@@ -1,0 +1,10 @@
+{
+    "name": "Prompt Generator",
+    "url": "https://github.com/imrayya/stable-diffusion-webui-Prompt_Generator.git",
+    "description": "generate a prompt from a small base prompt using distilgpt2. Adds a tab with additional control of the model.",
+    "added": "2022-12-30",
+    "tags": [
+        "tab",
+        "prompting"
+    ]
+}

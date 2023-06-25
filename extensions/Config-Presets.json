@@ -1,0 +1,9 @@
+{
+    "name": "Config-Presets",
+    "url": "https://github.com/Zyin055/Config-Presets.git",
+    "description": "Adds a configurable dropdown to allow you to change UI preset settings in the txt2img and img2img tabs.",
+    "added": "2022-12-13",
+    "tags": [
+        "UI related"
+    ]
+}

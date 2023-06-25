@@ -1,0 +1,10 @@
+{
+    "name": "Custom Diffusion",
+    "url": "https://github.com/guaneec/custom-diffusion-webui.git",
+    "description": "Custom Diffusion is, in short, finetuning-lite with TI, instead of tuning the whole model. Similar speed and memory requirements to TI and supposedly gives better results in less steps.",
+    "added": "2023-01-28",
+    "tags": [
+        "tab",
+        "training"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "PBRemTools",
+    "url": "https://github.com/mattyamonaca/PBRemTools.git",
+    "description": "PBRemTools(Precise background remover tools) is a collection of tools to crop backgrounds from a single picture with high accuracy.",
+    "added": "2023-04-05",
+    "tags": [
+        "extras",
+        "editing"
+    ]
+}

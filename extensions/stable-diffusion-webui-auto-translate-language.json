@@ -1,0 +1,9 @@
+{
+    "name": "Auto Translate",
+    "url": "https://github.com/hyd998877/stable-diffusion-webui-auto-translate-language.git",
+    "description": "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.",
+    "added": "2023-03-24",
+    "tags": [
+        "UI related"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Multiple Hypernetworks",
+    "url": "https://github.com/antis0007/sd-webui-multiple-hypernetworks.git",
+    "description": "Adds the ability to apply multiple hypernetworks at once. Apply multiple hypernetworks sequentially, with different weights.",
+    "added": "2023-01-13",
+    "tags": [
+        "script"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Discord - Dynamic Rich Presence",
+    "url": "https://github.com/davehornik/sd-discord-rich_presence.git",
+    "description": "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.",
+    "added": "2023-04-04",
+    "tags": [
+        "online",
+        "script"
+    ]
+}

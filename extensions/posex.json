@@ -1,0 +1,9 @@
+{
+    "name": "posex",
+    "url": "https://github.com/hnmr293/posex.git",
+    "description": "Estimated Image Generator for Pose2Image. This extension allows moving the openpose figure in 3d space.",
+    "added": "2023-03-04",
+    "tags": [
+        "script"
+    ]
+}

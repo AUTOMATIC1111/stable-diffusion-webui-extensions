@@ -1,0 +1,24 @@
+{
+    "name": "Extension Name",
+    "url": "https://github.com/<OWNER>/<REPO>.git",
+    "description": "Extension description",
+    "tags": [
+        "script",
+        "localization",
+        "tab",
+        "dropdown",
+        "ads",
+        "installed",
+        "training",
+        "models",
+        "UI related",
+        "prompting",
+        "editing",
+        "manipulations",
+        "online",
+        "animation",
+        "query",
+        "science",
+        "extras"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-color-enhance",
+    "url": "https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git",
+    "description": "Enhance image colors using GIMP/GEGL \"Color Enhance\" algorithm.",
+    "added": "2023-06-10",
+    "tags": [
+        "editing",
+        "extras"
+    ]
+}

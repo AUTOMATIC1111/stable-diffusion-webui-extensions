@@ -1,0 +1,9 @@
+{
+    "name": "3D Openpose Editor",
+    "url": "https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git",
+    "description": "Edit the pose of 3D models in the WebUI, and generate Openpose/Depth/Normal/Canny maps for ControlNet.",
+    "added": "2023-03-16",
+    "tags": [
+        "tab"
+    ]
+}

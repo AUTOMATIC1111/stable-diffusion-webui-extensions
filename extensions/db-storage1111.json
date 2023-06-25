@@ -1,0 +1,9 @@
+{
+    "name": "db-storage1111",
+    "url": "https://github.com/takoyaro/db-storage1111.git",
+    "description": "Enables the storage of pictures and their metadata in a MongoDB database.",
+    "added": "2023-03-12",
+    "tags": [
+        "script"
+    ]
+}

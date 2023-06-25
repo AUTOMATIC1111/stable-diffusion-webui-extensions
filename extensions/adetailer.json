@@ -1,0 +1,9 @@
+{
+    "name": "!After Detailer",
+    "url": "https://github.com/Bing-su/adetailer.git",
+    "description": "Automatic detection, masking and inpainting tool for details",
+    "added": "2023-05-12",
+    "tags": [
+        "manipulations"
+    ]
+}
