@@ -4,5 +4,6 @@
     "description": "Fetch tags from Danbooru images link",
     "tags": [
         "online"
-    ]
+    ],
+    "added": "2023-06-25"
 }
