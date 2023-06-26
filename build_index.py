@@ -49,9 +49,9 @@ for extensions_url, extension in extensions.items():
         existing_extensions[extensions_url].update(extension)
     else:
         existing_extensions[extensions_url] = extension
-extensions = existing_extensions.values()
+extensions = list(existing_extensions.values())
 
-extension_index = {'tags': tags, 'extensions': list(extensions)}
+extension_index = {'tags': tags, 'extensions': extensions}
 
 with open('index.json', 'w') as f:
     json.dump(extension_index, f, indent=4)
