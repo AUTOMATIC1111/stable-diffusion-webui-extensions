@@ -1,0 +1,7 @@
+{
+  "name": "Lobe Theme",
+  "url": "https://github.com/canisminor1990/sd-webui-lobe-theme.git",
+  "description": "The modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme.",
+  "added": "2023-06-28",
+  "tags": ["UI related"]
+}
