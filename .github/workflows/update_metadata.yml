@@ -15,6 +15,8 @@ jobs:
         steps:
         - name: Checkout
           uses: actions/checkout@v3
+          with:
+            fetch-depth: 2
         
         - name: Setup python
           uses: actions/setup-python@v4
@@ -24,12 +26,16 @@ jobs:
         - name: Update extension metadata
           run: python ./update_metadata.py --max-thread 20 --github-token ${{ secrets.GITHUB_TOKEN }}
 
+        - name: Get last commit message
+          id: last-commit-message
+          run: |
+            echo "msg=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+        
         - name: Commit
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
-            commit_message: 'Update metadata'
-            commit_options: '--no-verify'
+            commit_message: ${{ steps.last-commit-message.outputs.msg }}
+            commit_options: '--amend --no-edit'
             file_pattern: '*.json'
-            status_options: '--untracked-files=no'
-            skip_fetch: true    
-            skip_checkout: true
+            push_options: '--force'
+            skip_fetch: true
