@@ -1,0 +1,11 @@
+{
+    "name": "Pixel art",
+    "url": "https://github.com/mrreplicart/sd-webui-pixelart.git",
+    "description": "Extension that provides basic functionality for pixel art: downscaling, palette limiting, grayscale, black&white, ability to change image colors with custom color palette",
+    "tags": [
+        "script",
+        "editing",
+        "extras"
+    ],
+    "added": "2023-06-28"
+}
