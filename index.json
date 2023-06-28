@@ -1761,6 +1761,24 @@
                 "extras"
             ],
             "added": "2023-06-28"
+        },
+        {
+            "name": "Lobe Theme",
+            "url": "https://github.com/canisminor1990/sd-webui-lobe-theme.git",
+            "description": "The modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme.",
+            "added": "2023-06-28",
+            "tags": [
+                "UI related"
+            ]
+        },
+        {
+            "name": "Kitchen Theme",
+            "url": "https://github.com/canisminor1990/sd-webui-kitchen-theme-legacy.git",
+            "description": "Custom Theme.",
+            "added": "2023-02-28",
+            "tags": [
+                "UI related"
+            ]
         }
     ]
 }
