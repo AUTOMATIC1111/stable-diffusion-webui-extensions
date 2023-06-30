@@ -2,11 +2,6 @@ name: Validate json
 
 "on":
   workflow_dispatch:
-  push:
-    paths:
-      - 'extensions/**.json'
-      - 'tags.json'
-      - 'index.json'
   pull_request:
     types:
       - opened
@@ -16,7 +11,12 @@ name: Validate json
       - 'extensions/**.json'
       - 'tags.json'
       - 'index.json'
+  workflow_run:
+    workflows: [Build index, Update metadata]
+    types:
+      - completed
 
+    
 jobs:
   validate-json:
     strategy:
