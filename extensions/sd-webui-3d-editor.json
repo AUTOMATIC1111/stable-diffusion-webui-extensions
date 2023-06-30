@@ -1,0 +1,9 @@
+{
+    "name": "3D Editor",
+    "url": "https://github.com/jtydhr88/sd-webui-3d-editor.git",
+    "description": "3D modeling features (add/edit basic elements, load your custom model, modify scene and so on), then send screenshot to txt2img or img2img as your ControlNet's reference image, basing on ThreeJS editor.",
+    "tags": [
+        "tab"
+    ],
+    "added": "2023-06-30"
+}
