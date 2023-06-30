@@ -16,15 +16,8 @@ permissions:
 jobs:
     build-extension-index-jobs:
         runs-on: ubuntu-latest
-
+        if: github.event.repository.fork == false
         steps:
-        - name: Check if base repository
-          run: |
-            if [ "${{ github.repository }}" != "AUTOMATIC1111/stable-diffusion-webui-extensions" ]; then
-              echo "This is a forked repository. Exiting..."
-              exit 0
-            fi
-
         - name: Checkout
           uses: actions/checkout@v3
           with:
