@@ -1,0 +1,9 @@
+{
+    "name": "Aspect Ratio selector plus",
+    "url": "https://github.com/LEv145/--sd-webui-ar-plus",
+    "description": "Fork of Aspect Ratio selector with new features and logic for aspect ratio",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-06-30"
+}
