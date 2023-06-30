@@ -18,10 +18,18 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
+        - name: Check if base repository
+          run: |
+            if [ "${{ github.repository }}" != "AUTOMATIC1111/stable-diffusion-webui-extensions" ]; then
+              echo "This is a forked repository. Exiting..."
+              exit 0
+            fi
+
         - name: Checkout
           uses: actions/checkout@v3
           with:
             fetch-depth: 2
+
         - name: Setup python
           uses: actions/setup-python@v4
           with:

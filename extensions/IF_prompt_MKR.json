@@ -1,0 +1,10 @@
+{
+    "name": "IF_prompt_MKR",
+    "url": "https://github.com/if-ai/IF_prompt_MKR.git",
+    "description": "Creates prompts using a local LlMs via Oobabooga text webUI API",
+    "tags": [
+        "script",
+        "prompting"
+    ],
+    "added": "2023-06-30"
+}
