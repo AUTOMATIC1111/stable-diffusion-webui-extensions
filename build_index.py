@@ -37,7 +37,6 @@ extensions = {}
 for f in Path('extensions').iterdir():
     if f.is_file() and f.suffix.lower() == '.json':        
         extension = read_extension(f)
-        assert extension['url'] not in extensions.keys(), f'duplicate extensions: {extension["url"]}'
         extensions[extension['url']] = extension
 
 with open('index.json', 'r') as f:

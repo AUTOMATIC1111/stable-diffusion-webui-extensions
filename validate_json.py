@@ -4,6 +4,10 @@ import argparse
 import json
 from pathlib import Path
 import datetime
+from re import compile
+from collections import Counter
+
+git_url_pattern = compile(r'(https://[^ ]+?)(?:(?:\.git)$|$)')
 
 def operation(
     *,
@@ -76,9 +80,22 @@ def validate_extension_entry(file: Path):
             datetime.date.fromisoformat(extension.get('added'))
         except:
             assert False, f"{file} Incorrect added data format, YYYY-MM-DD"
+    git_url = git_url_pattern.match(extension['url'])
+    assert git_url, f'invalid URL: "{extension["url"]}"'
+    return git_url.group(1)
+
+
+def duplicate_test(lst: list):
+    counts = Counter(lst)
+    duplicates = [element for element, count in counts.items() if count > 1]
+    assert len(duplicates) == 0, f'duplicate extension: {duplicates}'
+    return duplicates
+
 
 if __name__ == "__main__":
+    urls = []
     for f in Path('extensions').iterdir():
         if f.is_file() and f.suffix.lower() == '.json':        
-            validate_extension_entry(f)
+            urls.append(validate_extension_entry(f))
+    duplicate_test(urls)
     main()

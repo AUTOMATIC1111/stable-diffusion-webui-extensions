@@ -4,6 +4,7 @@ from argparse import ArgumentParser
 from concurrent.futures import ThreadPoolExecutor, wait
 from urllib.request import Request, urlopen
 
+github_repo_pattern = compile(r'https://github\.com/([^/ ]+/[^/ ]+?)(?:(?:\.git$)|$)')
 
 def get_github_api(url: str):
     try:
@@ -58,7 +59,6 @@ def get_github_metadata(extension: dict):
             get_github_api_call_failed = True
 
 
-
 if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("--max-thread", "-m", type=int, default=1, required=False)
@@ -66,7 +66,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     headers = {'authorization': f'Bearer {args.github_token}'} if args.github_token else {}
-    github_repo_pattern = compile(r'https://github\.com/([^/]+/[^/]+?)(?:(?:\.git)|$)')
     get_github_api_call_failed = False
 
     with open('index.json', 'r') as f:

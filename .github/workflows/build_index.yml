@@ -31,10 +31,12 @@ jobs:
         - name: Build extension index
           run: python ./build_index.py
 
+        - name: Validate index
+          run: python ./validate_json.py -i ./index.json
+
         - name: Get last commit message
           id: last-commit-message
-          run: |
-            echo "msg=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+          run: echo "msg=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
 
         - name: Commit
           uses: stefanzweifel/git-auto-commit-action@v4
