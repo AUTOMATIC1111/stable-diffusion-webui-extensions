@@ -1,0 +1,9 @@
+{
+    "name": "SD Delete Button",
+    "url": "https://github.com/AlUlkesh/sd_delete_button.git",
+    "description": "Add a delete button for txt2img and img2img using Send2Trash",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-06-30"
+}
