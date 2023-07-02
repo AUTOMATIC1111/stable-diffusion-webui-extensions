@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-qrcode-toolkit",
+    "url": "https://github.com/antfu/sd-webui-qrcode-toolkit.git",
+    "description": "Integration with Anthony's QR Toolkit for easy QR Code generation and verification.",
+    "added": "2023-07-02",
+    "tags": [
+        "tab",
+        "editing",
+        "online"
+    ]
+}
