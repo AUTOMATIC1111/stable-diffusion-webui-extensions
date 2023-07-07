@@ -20,6 +20,16 @@
     },
     "extensions": [
         {
+            "name": "SadTalker",
+            "url": "https://github.com/OpenTalker/SadTalker",
+            "description": "Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "added": "2023-07-07",
+            "tags": [
+                "tab",
+                "animation"
+            ]
+        },
+        {
             "name": "Agent Scheduler",
             "url": "https://github.com/ArtVentureX/sd-webui-agent-scheduler.git",
             "description": "Queue task and task history",
