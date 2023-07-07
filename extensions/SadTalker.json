@@ -1,0 +1,10 @@
+{
+    "name": "SadTalker",
+    "url": "https://github.com/OpenTalker/SadTalker.git",
+    "description": "Generating talking head videos with facial image and speech audio",
+    "tags": [
+        "tab",
+        "animation"
+    ],
+    "added": "2023-07-07"
+}
