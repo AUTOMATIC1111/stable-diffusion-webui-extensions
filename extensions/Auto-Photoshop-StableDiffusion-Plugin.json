@@ -1,0 +1,9 @@
+{
+    "name": "Auto-Photoshop-StableDiffusion-Plugin",
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin.git",
+    "description": "Adds API routes for Auto-Photoshop-StableDiffusion-Plugin",
+    "tags": [
+        "script"
+    ],
+    "added": "2023-07-07"
+}
