@@ -1,0 +1,10 @@
+{
+    "name": "Civitai Shortcut",
+    "url": "https://github.com/sunnyark/civitai-shortcut.git",
+    "description": "This extension allows you to register the models available on civitai as favorites (shortcuts) in sdui, and then you can download the models using the registered shortcuts when needed.",
+    "tags": [
+        "models",
+        "extras"
+    ],
+    "added": "2023-07-08"
+}
