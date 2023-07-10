@@ -1,0 +1,8 @@
+{
+    "name": "just test",
+    "url": "https://this_is_a_test.com/just/a_test.git",
+    "description": "Extension description",
+    "tags": [
+        "script"
+    ]
+}
