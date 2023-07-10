@@ -1,6 +1,6 @@
 {
     "name": "WD 1.4 Tagger",
-    "url": "https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git",
+    "url": "https://github.com/picobyte/stable-diffusion-webui-wd14-tagger.git",
     "description": "Interrogates single or multiple image files using various alternative models, similar to deepdanbooru interrogate.",
     "added": "2022-11-20",
     "tags": [
