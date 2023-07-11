@@ -4,7 +4,6 @@
     "description": "Iteratively improves image quality and detail via user-controlled, gradual resolution increments.",
     "tags": [
         "script",
-        "img2img",
         "manipulations"
     ]
 }
