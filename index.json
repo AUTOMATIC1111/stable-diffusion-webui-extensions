@@ -19,6 +19,22 @@
         "extras": "adds new functionality to the extras tab."
     },
     "extensions": [
+       {
+            "name": "Gandalf",
+            "url": "https://github.com/limithit/Mask2Background.git",
+            "description": "It is to give the product for the background",
+            "added": "2023-07-11",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "limithit/Mask2Background",
+            "github_description": null,
+            "stars": 1,
+            "default_branch": "main",
+            "created_at": "2023-07-09T09:35:16Z",
+            "default_branch_commit_sha": "93ea1f7aa0ad5da19c0b88708ae9097a08bece4d",
+            "commit_time": "2023-07-11T03:44:56Z"
+        },
         {
             "name": "Agent Scheduler",
             "url": "https://github.com/ArtVentureX/sd-webui-agent-scheduler.git",
