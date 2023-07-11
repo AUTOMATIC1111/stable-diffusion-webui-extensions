@@ -3177,6 +3177,16 @@
             "created_at": "2023-06-04T15:33:34Z",
             "default_branch_commit_sha": "a1b59d66ca84f2539907b0fd1919c7b3aaa305e3",
             "commit_time": "2023-07-09T20:41:00Z"
+        },
+        {
+            "name": "Loopback Scaler",
+            "url": "https://github.com/Elldreth/loopback_scaler.git",
+            "description": "Iteratively improves image quality and detail via user-controlled, gradual resolution increments.",
+            "tags": [
+                "script",
+                "manipulations"
+            ],
+            "added": "2023-07-11"
         }
     ]
 }
