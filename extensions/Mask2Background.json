@@ -1,0 +1,9 @@
+{
+    "name": "Mask2Background",
+    "url": "https://github.com/limithit/Mask2Background.git",
+    "description": "Take a png image, generate a background and mask, then send it to img2img to generate a new backgrou",
+    "tags": [
+        "tab"
+    ],
+    "added": "2023-07-11"
+}
