@@ -1,0 +1,9 @@
+{
+    "name": "Model Scanner",
+    "url": "https://github.com/ddomen/sd-webui-model-scanner.git",
+    "description": "Perform security and sanity check on stable diffusion and ML models",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}
