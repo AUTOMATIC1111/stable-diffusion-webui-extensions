@@ -2263,6 +2263,13 @@
             "commit_time": "2023-06-02T11:15:19Z"
         },
         {
+            "name": "mov2mov",
+            "url": "https://github.com/DavG25/sd-webui-mov2mov.git",
+            "description": "Convert videos to AI-generated videos using Stable Diffusion with automatic frame-by-frame processing. Supports MODNet and ControlNet.",
+            "added": "2023-04-29",
+            "tags": ["tab", "animation"]
+        },
+        {
             "name": "zh_CN Localization",
             "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
             "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
