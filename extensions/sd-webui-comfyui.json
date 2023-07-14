@@ -1,0 +1,11 @@
+{
+    "name": "ComfyUI Tab",
+    "url": "https://github.com/ModelSurge/sd-webui-comfyui.git",
+    "description": "Embed ComfyUI in its own tab for convenience",
+    "tags": [
+        "script",
+        "tab",
+        "UI related"
+    ],
+    "added": "2023-07-14"
+}

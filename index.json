@@ -3209,6 +3209,17 @@
             "created_at": "2023-07-11T06:56:21Z",
             "default_branch_commit_sha": "6cf0f329599a19254bde91d2916af7ac90025090",
             "commit_time": "2023-07-14T03:57:22Z"
+        },
+        {
+            "name": "ComfyUI Tab",
+            "url": "https://github.com/ModelSurge/sd-webui-comfyui.git",
+            "description": "Embed ComfyUI in its own tab for convenience",
+            "tags": [
+                "script",
+                "tab",
+                "UI related"
+            ],
+            "added": "2023-07-14"
         }
     ]
 }
