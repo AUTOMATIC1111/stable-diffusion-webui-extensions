@@ -1,0 +1,3285 @@
+{
+    "tags": {
+        "script": "a general extension that adds functionality",
+        "localization": "a localization extension that translates web ui into another language",
+        "tab": "adds a tab",
+        "dropdown": "adds a dropdown in the ui",
+        "ads": "contains ads",
+        "installed": "an extension that is already installed",
+        "training": "new type of training / assists with training.",
+        "models": "conversion and merging related.",
+        "UI related": "enhances the display or user interface experience.",
+        "prompting": "assists with writing words, for prompts.",
+        "editing": "an extension that changes images, not using stable diffusion.",
+        "manipulations": "an extension that changes images with stable diffusion.",
+        "online": "an extension which requires wifi to use, often API related.",
+        "animation": "an extension related to creating videos with stable diffusion.",
+        "query": "extracting info from images.",
+        "science": "experimentation with stable diffusion.",
+        "extras": "adds new functionality to the extras tab."
+    },
+    "extensions": [
+        {
+            "name": "Agent Scheduler",
+            "url": "https://github.com/ArtVentureX/sd-webui-agent-scheduler.git",
+            "description": "Queue task and task history",
+            "added": "2023-06-23",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "ArtVentureX/sd-webui-agent-scheduler",
+            "github_description": null,
+            "stars": 229,
+            "default_branch": "main",
+            "created_at": "2023-05-16T04:35:16Z",
+            "default_branch_commit_sha": "bdd7de2574101063c385e95fcb5d62869f30d511",
+            "commit_time": "2023-07-12T03:30:16Z"
+        },
+        {
+            "name": "TemporalKit",
+            "url": "https://github.com/CiaraStrawberry/TemporalKit",
+            "description": "An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension",
+            "added": "2023-06-22",
+            "tags": [
+                "extras",
+                "animation"
+            ],
+            "full_name": "CiaraStrawberry/TemporalKit",
+            "github_description": "An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension",
+            "stars": 1299,
+            "default_branch": "main",
+            "created_at": "2023-04-12T20:58:28Z",
+            "default_branch_commit_sha": "504774d999861ca9d711ece91c78bf9eff5d312f",
+            "commit_time": "2023-05-07T21:37:21Z"
+        },
+        {
+            "name": "ua_UA Localization",
+            "url": "https://github.com/razorback456/webui-localization-ua_UA",
+            "description": "Ukrainian localization",
+            "added": "2023-06-18",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "razorback456/webui-localization-ua_UA",
+            "github_description": "\u041b\u043e\u043a\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f ua_UA Stable Diffusion webui",
+            "stars": 1,
+            "default_branch": "main",
+            "created_at": "2023-06-18T16:38:08Z",
+            "default_branch_commit_sha": "8e18812c938d1bfe933d8fd80f5daae0acef0c64",
+            "commit_time": "2023-07-06T23:32:33Z"
+        },
+        {
+            "name": "Batch Checkpoints and Prompts",
+            "url": "https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
+            "description": "Test a base prompt with different checkpoints and for the checkpoints specific prompt templates ",
+            "added": "2023-06-16",
+            "tags": [
+                "script"
+            ],
+            "full_name": "h43lb1t0/SD-WebUI-BatchCheckpointPrompt",
+            "github_description": "Test a base prompt with different checkpoints and for the checkpoints specific prompt templates",
+            "stars": 25,
+            "default_branch": "main",
+            "created_at": "2023-04-01T18:21:17Z",
+            "default_branch_commit_sha": "e9585ec048e4c3fb785d90f14701e5c8776480db",
+            "commit_time": "2023-07-11T07:39:35Z"
+        },
+        {
+            "name": "Kandinsky",
+            "url": "https://github.com/MMqd/kandinsky-for-automatic1111",
+            "description": "Adds a script to run Kandinsky 2.1",
+            "added": "2023-06-11",
+            "tags": [
+                "script",
+                "editing"
+            ],
+            "full_name": "MMqd/kandinsky-for-automatic1111",
+            "github_description": "Automatic1111 extension adding support for Kandinsky 2.1",
+            "stars": 88,
+            "default_branch": "main",
+            "created_at": "2023-06-11T02:39:57Z",
+            "default_branch_commit_sha": "578a3810aa4037ddbb41df905e9ab63cdd638ade",
+            "commit_time": "2023-06-19T00:12:49Z"
+        },
+        {
+            "name": "Txt/Img to 3D Model",
+            "url": "https://github.com/jtydhr88/sd-webui-txt-img-to-3d-model.git",
+            "description": "An extension integrated OpenAI Shap-E that allow you to generate 3D model from prompt or image",
+            "added": "2023-06-09",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "jtydhr88/sd-webui-txt-img-to-3d-model",
+            "github_description": "A custom extension for sd-webui that allow you to generate 3D model from txt or image, basing on OpenAI Shap-E.",
+            "stars": 169,
+            "default_branch": "master",
+            "created_at": "2023-06-09T04:11:02Z",
+            "default_branch_commit_sha": "33bde577a4700be23211cb45dc9acc55b63d5311",
+            "commit_time": "2023-07-07T03:42:17Z"
+        },
+        {
+            "name": "sd-webui-openpose-editor",
+            "url": "https://github.com/huchenlei/sd-webui-openpose-editor.git",
+            "description": "Integrated openpose editor for ControlNet. Full hand/face support.",
+            "added": "2023-06-07",
+            "tags": [
+                "editing"
+            ],
+            "full_name": "huchenlei/sd-webui-openpose-editor",
+            "github_description": "Openpose editor for ControlNet. Full hand/face support.",
+            "stars": 154,
+            "default_branch": "main",
+            "created_at": "2023-04-29T20:17:34Z",
+            "default_branch_commit_sha": "6534e9ee1a0b47e8886daedf53c0326cbcb6408f",
+            "commit_time": "2023-07-13T02:15:40Z"
+        },
+        {
+            "name": "sd-webui-segment-anything",
+            "url": "https://github.com/continue-revolution/sd-webui-segment-anything.git",
+            "description": "Segment Anything for Stable Diffusion WebUI. Automatically generate high-quality segmentations/masks for images by clicking or text prompting. Aim for connecting WebUI and ControlNet with Segment Anything and GroundingDINO to enhance Stable Diffusion/ControlNet inpainting (both single image and batch process), enhance ControlNet semantic segmentation, automate image matting and create LoRA/LyCORIS training set.",
+            "added": "2023-06-07",
+            "tags": [
+                "script",
+                "dropdown"
+            ],
+            "full_name": "continue-revolution/sd-webui-segment-anything",
+            "github_description": "Segment Anything for Stable Diffusion WebUI",
+            "stars": 2115,
+            "default_branch": "master",
+            "created_at": "2023-04-10T13:52:55Z",
+            "default_branch_commit_sha": "ffe263155d7f3ac4ee23a96262ecb77b9899ed95",
+            "commit_time": "2023-06-28T18:49:49Z"
+        },
+        {
+            "name": "Stable Diffusion AWS Extension",
+            "url": "https://github.com/awslabs/stable-diffusion-aws-extension.git",
+            "description": "Allow user to migrate existing workloads including ckpt merge, model training, model inferencing onto AWS",
+            "added": "2023-06-01",
+            "tags": [
+                "tab",
+                "training",
+                "online"
+            ],
+            "full_name": "awslabs/stable-diffusion-aws-extension",
+            "github_description": "Stable Diffusion AWS Extension User Guide",
+            "stars": 58,
+            "default_branch": "main",
+            "created_at": "2023-05-04T04:23:40Z",
+            "default_branch_commit_sha": "4c1615ccc280c1cea515f58027379408469b4ddc",
+            "commit_time": "2023-07-14T14:45:59Z"
+        },
+        {
+            "name": "Aesthetic Gradients",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git",
+            "description": "Allows training an embedding from one or few pictures, specifically meant for applying styles. Also, allows use of these specific embeddings to generated images.",
+            "added": "2022-11-01",
+            "tags": [
+                "tab",
+                "dropdown",
+                "training"
+            ],
+            "full_name": "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
+            "github_description": "Aesthetic gradients extension for web ui",
+            "stars": 336,
+            "default_branch": "master",
+            "created_at": "2022-10-22T09:22:04Z",
+            "default_branch_commit_sha": "2624e5dd4902cb731287b426ad483e741ece85bb",
+            "commit_time": "2023-01-06T10:59:30Z"
+        },
+        {
+            "name": "Dreambooth",
+            "url": "https://github.com/d8ahazard/sd_dreambooth_extension.git",
+            "description": "Dreambooth training based on Shivam Shiaro's repo, optimized for lower-VRAM GPUs.",
+            "added": "2022-11-07",
+            "tags": [
+                "tab",
+                "training"
+            ],
+            "full_name": "d8ahazard/sd_dreambooth_extension",
+            "github_description": null,
+            "stars": 1490,
+            "default_branch": "main",
+            "created_at": "2022-11-06T02:40:44Z",
+            "default_branch_commit_sha": "c2a5617c587b812b5a408143ddfb18fc49234edf",
+            "commit_time": "2023-07-08T13:35:47Z"
+        },
+        {
+            "name": "training-picker",
+            "url": "https://github.com/Maurdekye/training-picker.git",
+            "description": "Adds a tab to the webui that allows the user to automatically extract keyframes from video, and manually extract 512x512 crops of those frames for use in model training.",
+            "added": "2022-11-06",
+            "tags": [
+                "tab",
+                "training"
+            ],
+            "full_name": "Maurdekye/training-picker",
+            "github_description": "Extension for stable-diffusion-webui that allows the user to mux through the keyframes of a video, and automatically pick and export training examples from individual keyframes.",
+            "stars": 94,
+            "default_branch": "master",
+            "created_at": "2022-10-31T19:05:32Z",
+            "default_branch_commit_sha": "d2784b09b0f38964565c5dedd3707ce0839ab33b",
+            "commit_time": "2023-02-11T01:33:10Z"
+        },
+        {
+            "name": "Dataset Tag Editor",
+            "url": "https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor.git",
+            "description": "Feature-rich UI tab that allows image viewing, search-filtering and editing.",
+            "added": "2022-11-01",
+            "tags": [
+                "tab",
+                "training"
+            ],
+            "full_name": "toshiaki1729/stable-diffusion-webui-dataset-tag-editor",
+            "github_description": "Extension to edit dataset captions for SD web UI by AUTOMATIC1111",
+            "stars": 432,
+            "default_branch": "main",
+            "created_at": "2022-10-26T10:37:10Z",
+            "default_branch_commit_sha": "7a2f4c53fbce62b2bda3b220381985b75fdd6390",
+            "commit_time": "2023-06-05T10:12:00Z"
+        },
+        {
+            "name": "DreamArtist",
+            "url": "https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git",
+            "description": "Towards Controllable One-Shot Text-to-Image Generation via Contrastive Prompt-Tuning.",
+            "added": "2022-11-15",
+            "tags": [
+                "training"
+            ],
+            "full_name": "7eu7d7/DreamArtist-sd-webui-extension",
+            "github_description": "DreamArtist for Stable-Diffusion-webui extension",
+            "stars": 605,
+            "default_branch": "master",
+            "created_at": "2022-11-12T12:17:15Z",
+            "default_branch_commit_sha": "12f8077517b11199802f8d448d36ea573debae96",
+            "commit_time": "2023-04-24T05:53:26Z"
+        },
+        {
+            "name": "Hypernetwork-Monkeypatch-Extension",
+            "url": "https://github.com/aria1th/Hypernetwork-MonkeyPatch-Extension.git",
+            "description": "Extension that provides additional training features for hypernetwork training. Also supports using multiple hypernetworks for inference.",
+            "added": "2023-01-12",
+            "tags": [
+                "tab",
+                "training"
+            ],
+            "full_name": "aria1th/Hypernetwork-MonkeyPatch-Extension",
+            "github_description": "Extension that patches Hypernetwork structures and training",
+            "stars": 113,
+            "default_branch": "main",
+            "created_at": "2022-11-23T07:44:32Z",
+            "default_branch_commit_sha": "e1fb1870c30563fa8ef6013bf3cac9ad476907b2",
+            "commit_time": "2023-06-30T04:22:36Z"
+        },
+        {
+            "name": "Custom Diffusion",
+            "url": "https://github.com/guaneec/custom-diffusion-webui.git",
+            "description": "Custom Diffusion is, in short, finetuning-lite with TI, instead of tuning the whole model. Similar speed and memory requirements to TI and supposedly gives better results in less steps.",
+            "added": "2023-01-28",
+            "tags": [
+                "tab",
+                "training"
+            ],
+            "full_name": "guaneec/custom-diffusion-webui",
+            "github_description": "An unofficial implementation of Custom Diffusion for Automatic1111's WebUI.",
+            "stars": 56,
+            "default_branch": "master",
+            "created_at": "2023-01-18T03:51:21Z",
+            "default_branch_commit_sha": "006e46f6f19526cd84d3041664c6deed55036225",
+            "commit_time": "2023-05-14T02:45:38Z"
+        },
+        {
+            "name": "Smart Process",
+            "url": "https://github.com/d8ahazard/sd_smartprocess.git",
+            "description": "Smart pre-process including auto subject identification, caption subject swapping, and upscaling/facial restoration.",
+            "added": "2022-11-12",
+            "tags": [
+                "tab",
+                "editing",
+                "training"
+            ],
+            "full_name": "d8ahazard/sd_smartprocess",
+            "github_description": "Smart Pre-processing extension for Stable Diffusion",
+            "stars": 139,
+            "default_branch": "main",
+            "created_at": "2022-11-11T20:34:48Z",
+            "default_branch_commit_sha": "41fb35ef712e01829f1d1ab53a78f6ec45cba1df",
+            "commit_time": "2023-01-22T17:30:02Z"
+        },
+        {
+            "name": "Embeddings editor",
+            "url": "https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor.git",
+            "description": "Allows you to manually edit textual inversion embeddings using sliders.",
+            "added": "2022-11-06",
+            "tags": [
+                "tab",
+                "models"
+            ],
+            "full_name": "CodeExplode/stable-diffusion-webui-embedding-editor",
+            "github_description": "Embedding editor extension for web ui",
+            "stars": 47,
+            "default_branch": "main",
+            "created_at": "2022-11-06T07:36:50Z",
+            "default_branch_commit_sha": "c8f290230f9360729abc3a3a57fe1befc2d43b23",
+            "commit_time": "2022-12-04T04:55:54Z"
+        },
+        {
+            "name": "embedding-inspector",
+            "url": "https://github.com/tkalayci71/embedding-inspector.git",
+            "description": "Inspect any token(a word) or Textual-Inversion embeddings and find out which embeddings are similar. You can mix, modify, or create the embeddings in seconds.",
+            "added": "2022-12-06",
+            "tags": [
+                "tab",
+                "models"
+            ],
+            "full_name": "tkalayci71/embedding-inspector",
+            "github_description": "Embedding-inspector extension for AUTOMATIC1111/stable-diffusion-webui ",
+            "stars": 140,
+            "default_branch": "main",
+            "created_at": "2022-12-04T00:07:42Z",
+            "default_branch_commit_sha": "448b6d06859557c446fa3f53df5e732a11608537",
+            "commit_time": "2023-03-18T12:01:18Z"
+        },
+        {
+            "name": "Merge Board",
+            "url": "https://github.com/bbc-mc/sdweb-merge-board.git",
+            "description": "Multiple lane merge support(up to 10). Save and Load your merging combination as Recipes, which is simple text.",
+            "added": "2022-11-21",
+            "tags": [
+                "tab",
+                "models"
+            ],
+            "full_name": "bbc-mc/sdweb-merge-board",
+            "github_description": "Multi-step automation merge tool. Extension/Script for Stable Diffusion UI by AUTOMATIC1111 https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "stars": 55,
+            "default_branch": "master",
+            "created_at": "2022-11-07T16:25:50Z",
+            "default_branch_commit_sha": "c4eeb1607b84dc3149b39eec16f20a84c7108beb",
+            "commit_time": "2023-05-10T12:15:00Z"
+        },
+        {
+            "name": "Model Converter",
+            "url": "https://github.com/Akegarasu/sd-webui-model-converter.git",
+            "description": "Convert models to fp16/bf16 no-ema/ema-only safetensors. Convert/copy/delete any parts of model: unet, text encoder(clip), vae.",
+            "added": "2023-01-05",
+            "tags": [
+                "tab",
+                "models"
+            ],
+            "full_name": "Akegarasu/sd-webui-model-converter",
+            "github_description": "model convert extension for stable-diffusion-webui. supports convert fp16/bf16 no-ema/ema-only safetensors",
+            "stars": 203,
+            "default_branch": "main",
+            "created_at": "2023-01-05T03:50:13Z",
+            "default_branch_commit_sha": "2a3834d769d6c71b2125b56abe6b378ef75a6728",
+            "commit_time": "2023-06-28T13:41:44Z"
+        },
+        {
+            "name": "Kohya-ss Additional Networks",
+            "url": "https://github.com/kohya-ss/sd-webui-additional-networks.git",
+            "description": "Allows the Web UI to use LoRAs (1.X and 2.X) to generate images. Also allows editing .safetensors networks prompt metadata.",
+            "added": "2023-01-06",
+            "tags": [
+                "models"
+            ],
+            "full_name": "kohya-ss/sd-webui-additional-networks",
+            "github_description": null,
+            "stars": 1310,
+            "default_branch": "main",
+            "created_at": "2022-12-27T09:03:08Z",
+            "default_branch_commit_sha": "e9f3d622b5a98650008a685ea23b27eb810da35a",
+            "commit_time": "2023-05-23T12:31:15Z"
+        },
+        {
+            "name": "Merge Block Weighted",
+            "url": "https://github.com/bbc-mc/sdweb-merge-block-weighted-gui.git",
+            "description": "Merge models with separate rate for each 25 U-Net block (input, middle, output).",
+            "added": "2023-01-13",
+            "tags": [
+                "tab",
+                "models"
+            ],
+            "full_name": "bbc-mc/sdweb-merge-block-weighted-gui",
+            "github_description": "Merge models with separate rate for each 25 U-Net block (input, middle, output). Extension for Stable Diffusion UI by AUTOMATIC1111",
+            "stars": 266,
+            "default_branch": "master",
+            "created_at": "2022-12-15T05:29:22Z",
+            "default_branch_commit_sha": "8a62a753e791a75273863dd04958753f0df7532f",
+            "commit_time": "2023-01-19T21:31:06Z"
+        },
+        {
+            "name": "Embedding Merge",
+            "url": "https://github.com/klimaleksus/stable-diffusion-webui-embedding-merge.git",
+            "description": "Merging Textual Inversion embeddings at runtime from string literals. Phrases and weight values also supported.",
+            "added": "2023-02-09",
+            "tags": [
+                "tab",
+                "models",
+                "manipulations"
+            ],
+            "full_name": "klimaleksus/stable-diffusion-webui-embedding-merge",
+            "github_description": "Extension for AUTOMATIC1111/stable-diffusion-webui for creating and merging Textual Inversion embeddings at runtime from string literals.",
+            "stars": 50,
+            "default_branch": "master",
+            "created_at": "2023-01-28T22:14:57Z",
+            "default_branch_commit_sha": "c3cdd9ac227e56dfff728d44799918787e5f7e66",
+            "commit_time": "2023-07-01T13:50:07Z"
+        },
+        {
+            "name": "SuperMerger",
+            "url": "https://github.com/hako-mikan/sd-webui-supermerger.git",
+            "description": "Merge and run without saving to drive. Sequential XY merge generations; extract and merge loras, bind loras to ckpt, merge block weights, and more.",
+            "added": "2023-02-18",
+            "tags": [
+                "tab",
+                "models"
+            ],
+            "full_name": "hako-mikan/sd-webui-supermerger",
+            "github_description": "model merge extention for stable diffusion web ui",
+            "stars": 430,
+            "default_branch": "main",
+            "created_at": "2023-01-18T13:20:58Z",
+            "default_branch_commit_sha": "4f0a74939358d2efbef83eebf8ce99d43295879f",
+            "commit_time": "2023-07-14T11:36:46Z"
+        },
+        {
+            "name": "LoRA Block Weight",
+            "url": "https://github.com/hako-mikan/sd-webui-lora-block-weight.git",
+            "description": "Applies LoRA strength; block by block on the fly. Includes presets, weight analysis, randomization, XY plot.",
+            "added": "2023-02-28",
+            "tags": [
+                "models"
+            ],
+            "full_name": "hako-mikan/sd-webui-lora-block-weight",
+            "github_description": null,
+            "stars": 706,
+            "default_branch": "main",
+            "created_at": "2023-01-29T16:37:35Z",
+            "default_branch_commit_sha": "58eebb454d44d58d10cc60c0dbba9e9ad81e9c86",
+            "commit_time": "2023-07-14T10:36:49Z"
+        },
+        {
+            "name": "Image browser",
+            "url": "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git",
+            "description": "Provides an interface to browse created images in the web browser.",
+            "added": "2022-11-01",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "full_name": "AlUlkesh/stable-diffusion-webui-images-browser",
+            "github_description": "an images browse for stable-diffusion-webui",
+            "stars": 385,
+            "default_branch": "main",
+            "created_at": "2023-01-14T16:20:37Z",
+            "default_branch_commit_sha": "9229ed5e7e15608ec035d89cc5b2d19c3e629142",
+            "commit_time": "2023-07-14T16:02:11Z"
+        },
+        {
+            "name": "Infinite image browsing",
+            "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing.git",
+            "description": "A fast image browser that allows browsing all images without paging, and supports joint search using image parameters, with a layout similar to VS Code.",
+            "added": "2023-04-16",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "full_name": "zanllp/sd-webui-infinite-image-browsing",
+            "github_description": "A fast and powerful image browser for Stable Diffusion webui with infinite scrolling and joint search using image parameters. Viewing images in a matter of milliseconds.",
+            "stars": 335,
+            "default_branch": "main",
+            "created_at": "2023-03-07T18:26:27Z",
+            "default_branch_commit_sha": "7d8be944df1c02a237ad0f11bb25b1e00ce46f1e",
+            "commit_time": "2023-07-14T05:14:35Z"
+        },
+        {
+            "name": "Inspiration",
+            "url": "https://github.com/yfszzx/stable-diffusion-webui-inspiration.git",
+            "description": "Randomly display the pictures of the artist's or artistic genres typical style, more pictures of this artist or genre is displayed after selecting. So you don't have to worry about how hard it is to choose the right style of art when you create.",
+            "added": "2022-11-01",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "full_name": "yfszzx/stable-diffusion-webui-inspiration",
+            "github_description": null,
+            "stars": 97,
+            "default_branch": "main",
+            "created_at": "2022-10-20T14:21:15Z",
+            "default_branch_commit_sha": "0f3f699decfadcf88d7483d214877fbf96f1f488",
+            "commit_time": "2022-12-09T03:50:47Z"
+        },
+        {
+            "name": "Artists to study",
+            "url": "https://github.com/camenduru/stable-diffusion-webui-artists-to-study.git",
+            "description": "Shows a gallery of generated pictures by artists separated into categories.",
+            "added": "2022-11-01",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "full_name": "camenduru/stable-diffusion-webui-artists-to-study",
+            "github_description": null,
+            "stars": 65,
+            "default_branch": "master",
+            "created_at": "2022-10-25T16:07:14Z",
+            "default_branch_commit_sha": "5cd19f68f65e994fc2ef2700bed4d9efe28e48b4",
+            "commit_time": "2023-06-26T08:38:08Z"
+        },
+        {
+            "name": "Prompt Gallery",
+            "url": "https://github.com/dr413677671/PromptGallery-stable-diffusion-webui.git",
+            "description": "Build a yaml file filled with prompts of your character, hit generate, and quickly preview them by their word attributes and modifiers.",
+            "added": "2022-12-02",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "full_name": "dr413677671/PromptGallery-stable-diffusion-webui",
+            "github_description": "A prompt cookbook worked as stable-diffusion-webui extenstions.",
+            "stars": 113,
+            "default_branch": "main",
+            "created_at": "2022-11-24T12:58:58Z",
+            "default_branch_commit_sha": "89b20a588786a21639f3154d7fc46759d6a26fa2",
+            "commit_time": "2023-07-05T17:47:14Z"
+        },
+        {
+            "name": "Infinity Grid Generator",
+            "url": "https://github.com/mcmonkeyprojects/sd-infinity-grid-generator-script.git",
+            "description": "Build a yaml file with your chosen parameters, and generate infinite-dimensional grids. Built-in ability to add description text to fields. See readme for usage details.",
+            "added": "2022-12-09",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "mcmonkeyprojects/sd-infinity-grid-generator-script",
+            "github_description": "Infinite-Axis Grid Generator for Stable Diffusion!",
+            "stars": 104,
+            "default_branch": "master",
+            "created_at": "2022-12-08T18:25:14Z",
+            "default_branch_commit_sha": "75c557c4631e54d5c7331877d196cdb4924bea60",
+            "commit_time": "2023-07-01T04:55:47Z"
+        },
+        {
+            "name": "Config-Presets",
+            "url": "https://github.com/Zyin055/Config-Presets.git",
+            "description": "Adds a configurable dropdown to allow you to change UI preset settings in the txt2img and img2img tabs.",
+            "added": "2022-12-13",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "Zyin055/Config-Presets",
+            "github_description": "Extension for Automatic1111",
+            "stars": 145,
+            "default_branch": "main",
+            "created_at": "2022-12-13T07:05:08Z",
+            "default_branch_commit_sha": "30117f09a72b11c64054cb92f01bcef0db7fa13d",
+            "commit_time": "2023-06-30T20:24:38Z"
+        },
+        {
+            "name": "Preset Utilities",
+            "url": "https://github.com/Gerschel/sd_web_ui_preset_utils.git",
+            "description": "Preset utility tool for ui. Offers compatibility with custom scripts. (to a limit)",
+            "added": "2022-12-19",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "Gerschel/sd_web_ui_preset_utils",
+            "github_description": "Preset Manager moved private",
+            "stars": 171,
+            "default_branch": "master",
+            "created_at": "2022-12-15T10:09:22Z",
+            "default_branch_commit_sha": "6e5648df1a0944d9e255f6e893ec44d71baefb7c",
+            "commit_time": "2023-05-28T20:37:30Z"
+        },
+        {
+            "name": "openOutpaint extension",
+            "url": "https://github.com/zero01101/openOutpaint-webUI-extension.git",
+            "description": "A tab with the full openOutpaint UI. Run with the --api flag.",
+            "added": "2022-12-23",
+            "tags": [
+                "tab",
+                "UI related",
+                "editing"
+            ],
+            "full_name": "zero01101/openOutpaint-webUI-extension",
+            "github_description": "direct A1111 webUI extension for openOutpaint ",
+            "stars": 305,
+            "default_branch": "main",
+            "created_at": "2022-12-18T20:11:06Z",
+            "default_branch_commit_sha": "f8b28838747e0e2185024a37b7afe04d561797c4",
+            "commit_time": "2023-07-09T13:42:16Z"
+        },
+        {
+            "name": "quick-css",
+            "url": "https://github.com/Gerschel/sd-web-ui-quickcss.git",
+            "description": "Extension for quickly selecting and applying custom.css files, for customizing look and placement of elements in ui.",
+            "added": "2022-12-30",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "full_name": "Gerschel/sd-web-ui-quickcss",
+            "github_description": "I just setup a quick css apply using the style here https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5813 This is a tool for designers to worry more about designing their css, rather than worry about how to manage them for sd-web-ui",
+            "stars": 48,
+            "default_branch": "master",
+            "created_at": "2022-12-19T21:44:12Z",
+            "default_branch_commit_sha": "c7a7d097fe0c949c2699febb8cf058ff4137c0c0",
+            "commit_time": "2023-04-26T18:17:08Z"
+        },
+        {
+            "name": "Aspect Ratio selector",
+            "url": "https://github.com/alemelis/sd-webui-ar.git",
+            "description": "Adds image aspect ratio selector buttons.",
+            "added": "2023-02-04",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "alemelis/sd-webui-ar",
+            "github_description": "Select img aspect ratio from presets in sd-webui",
+            "stars": 116,
+            "default_branch": "main",
+            "created_at": "2023-02-02T10:36:43Z",
+            "default_branch_commit_sha": "04ee2c6c60ca4534ab7f2d22518a3c5d2001fe83",
+            "commit_time": "2023-07-06T10:14:29Z"
+        },
+        {
+            "name": "Nevysha's Cozy Nest",
+            "url": "https://github.com/Nevysha/Cozy-Nest.git",
+            "description": "Extension for an improved UI/UX. Find your cozy spot on Auto1111's webui!.",
+            "added": "2023-05-02",
+            "tags": [
+                "UI related",
+                "online"
+            ],
+            "full_name": "Nevysha/Cozy-Nest",
+            "github_description": "A collection of tweak to improve Auto1111 UI//UX",
+            "stars": 310,
+            "default_branch": "main",
+            "created_at": "2023-04-30T08:47:39Z",
+            "default_branch_commit_sha": "b55cadf6307aeebb514914f027d02c08c399cdef",
+            "commit_time": "2023-07-08T06:48:58Z"
+        },
+        {
+            "name": "Catppuccin Theme",
+            "url": "https://github.com/catppuccin/stable-diffusion-webui.git",
+            "description": "Adds various custom themes",
+            "added": "2023-02-04",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "catppuccin/stable-diffusion-webui",
+            "github_description": "\ud83e\uddd1\u200d\ud83c\udfa8 Soothing pastel theme for Stable Diffusion WebUI",
+            "stars": 203,
+            "default_branch": "main",
+            "created_at": "2022-12-29T20:58:40Z",
+            "default_branch_commit_sha": "6f1eebbec4dc1c191899e285ec19d319e34d213c",
+            "commit_time": "2023-04-06T18:22:37Z"
+        },
+        {
+            "name": "Bilingual Localization",
+            "url": "https://github.com/journey-ad/sd-webui-bilingual-localization.git",
+            "description": "Bilingual translation, no need to worry about how to find the original button. Compatible with language pack extensions, no need to re-import.",
+            "added": "2023-02-28",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "journey-ad/sd-webui-bilingual-localization",
+            "github_description": "Stable Diffusion web UI bilingual localization extensions. SD WebUI\u53cc\u8bed\u5bf9\u7167\u7ffb\u8bd1\u63d2\u4ef6",
+            "stars": 586,
+            "default_branch": "main",
+            "created_at": "2023-02-26T07:26:55Z",
+            "default_branch_commit_sha": "89a02280507627dc40b5d7562691d1f03208f152",
+            "commit_time": "2023-04-27T03:54:25Z"
+        },
+        {
+            "name": "Dynamic Prompts",
+            "url": "https://github.com/adieyal/sd-dynamic-prompts.git",
+            "description": "Implements an expressive template language for random or combinatorial prompt generation along with features to support deep wildcard directory structures.",
+            "added": "2022-11-01",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "adieyal/sd-dynamic-prompts",
+            "github_description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
+            "stars": 1209,
+            "default_branch": "main",
+            "created_at": "2022-10-08T17:58:22Z",
+            "default_branch_commit_sha": "7e2cf925f5fcdc5220d9215285420a2c9c96b555",
+            "commit_time": "2023-07-14T21:13:03Z"
+        },
+        {
+            "name": "Unprompted",
+            "url": "https://github.com/ThereforeGames/unprompted.git",
+            "description": "Allows you to include various shortcodes in your prompts. You can pull text from files, set up your own variables, process text through conditional functions, and so much more - it's like wildcards on steroids. It now includes integrations like hard-prompts made easy, ControlNet, txt2img2img and txt2mask.",
+            "added": "2022-11-04",
+            "tags": [
+                "prompting",
+                "ads"
+            ],
+            "full_name": "ThereforeGames/unprompted",
+            "github_description": "Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.",
+            "stars": 601,
+            "default_branch": "main",
+            "created_at": "2022-10-31T03:02:21Z",
+            "default_branch_commit_sha": "f5a0cdf56a5e8e0895fecde35942a69ffb6a1767",
+            "commit_time": "2023-07-03T20:59:08Z"
+        },
+        {
+            "name": "StylePile",
+            "url": "https://github.com/some9000/StylePile.git",
+            "description": "An easy way to mix and match elements to prompts that affect the style of the result.",
+            "added": "2022-11-24",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "some9000/StylePile",
+            "github_description": "A prompt generation helper script for AUTOMATIC1111/stable-diffusion-webui and compatible forks",
+            "stars": 493,
+            "default_branch": "main",
+            "created_at": "2022-10-18T13:48:02Z",
+            "default_branch_commit_sha": "85b549a10ff6c5b1604e980cd2107253b088e832",
+            "commit_time": "2023-04-13T18:42:34Z"
+        },
+        {
+            "name": "Booru tag autocompletion",
+            "url": "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git",
+            "description": "Displays autocompletion hints for tags from image booru boards such as Danbooru. Uses local tag CSV files and includes a config for customization.",
+            "added": "2022-11-04",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "DominikDoom/a1111-sd-webui-tagcomplete",
+            "github_description": "Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
+            "stars": 1814,
+            "default_branch": "main",
+            "created_at": "2022-10-11T17:33:14Z",
+            "default_branch_commit_sha": "737b697357af06eb2edb392a5b82d98f6e726637",
+            "commit_time": "2023-07-08T16:03:44Z"
+        },
+        {
+            "name": "novelai-2-local-prompt",
+            "url": "https://github.com/animerl/novelai-2-local-prompt.git",
+            "description": "Add a button to convert the prompts used in NovelAI for use in the WebUI. In addition, add a button that allows you to recall a previously used prompt.",
+            "added": "2022-11-05",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "animerl/novelai-2-local-prompt",
+            "github_description": "Script for Stable-Diffusion WebUI (AUTOMATIC1111) to convert the prompt format used by NovelAI.",
+            "stars": 60,
+            "default_branch": "main",
+            "created_at": "2022-10-23T08:28:06Z",
+            "default_branch_commit_sha": "0e03ca1a4726f02588a58a93b94f7e7b80e40a31",
+            "commit_time": "2023-01-28T06:33:03Z"
+        },
+        {
+            "name": "tokenizer",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer.git",
+            "description": "Adds a tab that lets you preview how CLIP model would tokenize your text.",
+            "added": "2022-11-05",
+            "tags": [
+                "tab",
+                "prompting"
+            ],
+            "full_name": "AUTOMATIC1111/stable-diffusion-webui-tokenizer",
+            "github_description": "An extension for stable-diffusion-webui that adds a tab that lets you preview how CLIP model would tokenize your text.",
+            "stars": 102,
+            "default_branch": "master",
+            "created_at": "2022-11-05T09:42:06Z",
+            "default_branch_commit_sha": "ac6d541c7032e9f9c69c8ead2ed201302b06a4fe",
+            "commit_time": "2022-12-10T12:58:31Z"
+        },
+        {
+            "name": "Randomize",
+            "url": "https://github.com/innightwolfsleep/stable-diffusion-webui-randomize.git",
+            "description": "Allows for random parameters during txt2img generation. This script will function with others as well. Original author: https://git.mmaker.moe/mmaker/stable-diffusion-webui-randomize",
+            "added": "2022-11-11",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "innightwolfsleep/stable-diffusion-webui-randomize",
+            "github_description": "Randomize txt2img generation params",
+            "stars": 17,
+            "default_branch": "master",
+            "created_at": "2023-01-02T16:36:16Z",
+            "default_branch_commit_sha": "c04c761144774f0aa2f73f07b3388bebc2e6eefa",
+            "commit_time": "2023-01-31T14:54:33Z"
+        },
+        {
+            "name": "conditioning-highres-fix",
+            "url": "https://github.com/klimaleksus/stable-diffusion-webui-conditioning-highres-fix.git",
+            "description": "This is Extension for rewriting Inpainting conditioning mask strength value relative to Denoising strength at runtime. This is useful for Inpainting models such as sd-v1-5-inpainting.ckpt",
+            "added": "2022-11-11",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "klimaleksus/stable-diffusion-webui-conditioning-highres-fix",
+            "github_description": "Extension for AUTOMATIC1111/stable-diffusion-webui for simplify usage of \"Inpainting conditioning mask strength\", greatly improving \"Highres. fix\" feature for sd-v1-5-inpainting model.",
+            "stars": 30,
+            "default_branch": "master",
+            "created_at": "2022-11-08T17:56:49Z",
+            "default_branch_commit_sha": "e01bfcf48fd1f689e135e5889d9b1d01844511c4",
+            "commit_time": "2023-01-04T18:39:42Z"
+        },
+        {
+            "name": "model-keyword",
+            "url": "https://github.com/mix1009/model-keyword.git",
+            "description": "Inserts matching keyword(s) to the prompt automatically. Update this extension to get the latest model+keyword mappings.",
+            "added": "2022-12-28",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "mix1009/model-keyword",
+            "github_description": "Automatic1111 WEBUI extension to autofill keyword for custom stable diffusion models and LORA models.",
+            "stars": 134,
+            "default_branch": "main",
+            "created_at": "2022-12-01T03:07:53Z",
+            "default_branch_commit_sha": "af488921b8ff6f55dd4051ca3d802d32bef36de0",
+            "commit_time": "2023-07-15T00:00:56Z"
+        },
+        {
+            "name": "Prompt Generator",
+            "url": "https://github.com/imrayya/stable-diffusion-webui-Prompt_Generator.git",
+            "description": "generate a prompt from a small base prompt using distilgpt2. Adds a tab with additional control of the model.",
+            "added": "2022-12-30",
+            "tags": [
+                "tab",
+                "prompting"
+            ],
+            "full_name": "imrayya/stable-diffusion-webui-Prompt_Generator",
+            "github_description": "An extension to AUTOMATIC1111 WebUI for stable diffusion which adds a prompt generator",
+            "stars": 170,
+            "default_branch": "master",
+            "created_at": "2022-12-29T00:40:40Z",
+            "default_branch_commit_sha": "31ec08338b2224432304fb90c459efc9b43a52b3",
+            "commit_time": "2023-05-08T11:29:45Z"
+        },
+        {
+            "name": "Promptgen",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen.git",
+            "description": "Use transformers models to generate prompts.",
+            "added": "2023-01-18",
+            "tags": [
+                "tab",
+                "prompting"
+            ],
+            "full_name": "AUTOMATIC1111/stable-diffusion-webui-promptgen",
+            "github_description": "stable-diffusion-webui-promptgen",
+            "stars": 294,
+            "default_branch": "master",
+            "created_at": "2023-01-18T09:50:34Z",
+            "default_branch_commit_sha": "84e58b5d655c6e6b140af2c3fd2f49a398e666f2",
+            "commit_time": "2023-01-20T11:15:12Z"
+        },
+        {
+            "name": "text2prompt",
+            "url": "https://github.com/toshiaki1729/stable-diffusion-webui-text2prompt.git",
+            "description": "Generates anime tags using databases and models for tokenizing.",
+            "added": "2023-02-11",
+            "tags": [
+                "tab",
+                "prompting"
+            ],
+            "full_name": "toshiaki1729/stable-diffusion-webui-text2prompt",
+            "github_description": "Extension to generate prompt from simple text for SD web UI by AUTOMATIC1111",
+            "stars": 135,
+            "default_branch": "main",
+            "created_at": "2022-12-27T17:05:47Z",
+            "default_branch_commit_sha": "c4d8cec126fb0711b6bb5f0c339d87bf8b8932d0",
+            "commit_time": "2023-02-24T08:29:55Z"
+        },
+        {
+            "name": "Prompt Translator",
+            "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
+            "description": "A integrated translator for translating prompts to English using Deepl or Baidu.",
+            "added": "2023-02-11",
+            "tags": [
+                "tab",
+                "prompting",
+                "online"
+            ],
+            "full_name": "butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
+            "github_description": "This extension can translate prompt from your native language into English, so you can write prompt with your native language",
+            "stars": 203,
+            "default_branch": "main",
+            "created_at": "2023-02-09T10:20:30Z",
+            "default_branch_commit_sha": "8169f9430b54bbac2a7ee2a752e6566570cafce1",
+            "commit_time": "2023-05-09T08:30:09Z"
+        },
+        {
+            "name": "Deforum",
+            "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui.git",
+            "description": "The official port of Deforum, an extensive script for 2D and 3D animations, supporting keyframable sequences, dynamic math parameters (even inside the prompts), dynamic masking, depth estimation and warping.",
+            "added": "2022-11-01",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "full_name": "deforum-art/sd-webui-deforum",
+            "github_description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
+            "stars": 1834,
+            "default_branch": "automatic1111-webui",
+            "created_at": "2022-10-14T22:29:12Z",
+            "default_branch_commit_sha": "858c4dd6fd030449c23882724c67ee9398b4fd05",
+            "commit_time": "2023-07-02T16:52:11Z"
+        },
+        {
+            "name": "Animator",
+            "url": "https://github.com/Animator-Anon/animator_extension.git",
+            "description": "A basic img2img script that will dump frames and build a video file. Suitable for creating interesting zoom-in warping movies. This is intended to be a versatile toolset to help you automate some img2img tasks.",
+            "added": "2023-01-11",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "full_name": "Animator-Anon/animator_extension",
+            "github_description": "Extension version of Animator script",
+            "stars": 58,
+            "default_branch": "main",
+            "created_at": "2023-02-02T05:59:56Z",
+            "default_branch_commit_sha": "27ce31b0d34820d7e1bf74b22c07f2885d52ffc3",
+            "commit_time": "2023-06-20T19:51:39Z"
+        },
+        {
+            "name": "gif2gif",
+            "url": "https://github.com/LonicaMewinsky/gif2gif.git",
+            "description": "A script for img2img that extract a gif frame by frame for img2img generation and recombine them back into an animated gif",
+            "added": "2023-02-09",
+            "tags": [
+                "animation"
+            ],
+            "full_name": "LonicaMewinsky/gif2gif",
+            "github_description": "Automatic1111 Animated Image (input/output) Extension",
+            "stars": 207,
+            "default_branch": "main",
+            "created_at": "2023-02-03T01:26:37Z",
+            "default_branch_commit_sha": "5121851e3941c420253f3a20a0f8e49bed86f0bb",
+            "commit_time": "2023-05-13T14:56:04Z"
+        },
+        {
+            "name": "Video Loopback",
+            "url": "https://github.com/fishslot/video_loopback_for_webui.git",
+            "description": "A video2video script that tries to improve on the temporal consistency and flexibility of normal vid2vid.",
+            "added": "2023-02-13",
+            "tags": [
+                "animation"
+            ],
+            "full_name": "fishslot/video_loopback_for_webui",
+            "github_description": null,
+            "stars": 298,
+            "default_branch": "main",
+            "created_at": "2023-01-16T12:12:19Z",
+            "default_branch_commit_sha": "4e0bf8c5b8dcf566b9f4f7ad8bc87fa9af0bba59",
+            "commit_time": "2023-04-21T12:08:15Z"
+        },
+        {
+            "name": "seed travel",
+            "url": "https://github.com/yownas/seed_travel.git",
+            "description": "Small script for AUTOMATIC1111/stable-diffusion-webui to create images that exists between seeds.",
+            "added": "2022-11-09",
+            "tags": [
+                "animation"
+            ],
+            "full_name": "yownas/seed_travel",
+            "github_description": "Small script for AUTOMATIC1111/stable-diffusion-webui to create images between two seeds",
+            "stars": 268,
+            "default_branch": "main",
+            "created_at": "2022-09-18T19:09:05Z",
+            "default_branch_commit_sha": "055213df08f32a1d33ed18ad4417335aa523cf38",
+            "commit_time": "2023-06-30T07:03:07Z"
+        },
+        {
+            "name": "shift-attention",
+            "url": "https://github.com/yownas/shift-attention.git",
+            "description": "Generate a sequence of images shifting attention in the prompt. This script enables you to give a range to the weight of tokens in a prompt and then generate a sequence of images stepping from the first one to the second.",
+            "added": "2022-11-09",
+            "tags": [
+                "animation"
+            ],
+            "full_name": "yownas/shift-attention",
+            "github_description": "In stable diffusion, generate a sequence of images shifting attention in the prompt.",
+            "stars": 138,
+            "default_branch": "main",
+            "created_at": "2022-09-30T19:45:09Z",
+            "default_branch_commit_sha": "0129f6b99109f6f7c9e4e2bee0d1dc5f96e62506",
+            "commit_time": "2023-06-30T07:04:38Z"
+        },
+        {
+            "name": "prompt travel",
+            "url": "https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel.git",
+            "description": "Extension script for AUTOMATIC1111/stable-diffusion-webui to travel between prompts in latent space.",
+            "added": "2022-11-11",
+            "tags": [
+                "animation"
+            ],
+            "full_name": "Kahsolt/stable-diffusion-webui-prompt-travel",
+            "github_description": "Travel between prompts in the latent space to make pseudo-animation, extension script for AUTOMATIC1111/stable-diffusion-webui.",
+            "stars": 149,
+            "default_branch": "main",
+            "created_at": "2022-11-10T14:01:14Z",
+            "default_branch_commit_sha": "98a65237aa9d6f8c52d3861edb83b74b6d133ebb",
+            "commit_time": "2023-07-05T04:40:59Z"
+        },
+        {
+            "name": "Steps Animation",
+            "url": "https://github.com/vladmandic/sd-extension-steps-animation.git",
+            "description": "Create animation sequence from denoised intermediate steps.",
+            "added": "2023-01-21",
+            "tags": [
+                "animation"
+            ],
+            "full_name": "vladmandic/sd-extension-steps-animation",
+            "github_description": "Save Interim Steps as Animation extension for SD WebUI",
+            "stars": 102,
+            "default_branch": "main",
+            "created_at": "2023-01-14T17:27:48Z",
+            "default_branch_commit_sha": "acac7f166d5613ebfddac4c0a286ba2e5f7f29d1",
+            "commit_time": "2023-06-30T03:49:37Z"
+        },
+        {
+            "name": "auto-sd-paint-ext",
+            "url": "https://github.com/Interpause/auto-sd-paint-ext.git",
+            "description": "Krita Plugin.",
+            "added": "2022-11-04",
+            "tags": [
+                "editing"
+            ],
+            "full_name": "Interpause/auto-sd-paint-ext",
+            "github_description": "Extension for AUTOMATIC1111 to add custom backend API for Krita Plugin & more",
+            "stars": 380,
+            "default_branch": "main",
+            "created_at": "2022-10-28T01:54:07Z",
+            "default_branch_commit_sha": "00714355890aefa9a09e7fdb1f9a136c46a17618",
+            "commit_time": "2023-05-03T12:34:30Z"
+        },
+        {
+            "name": "Detection Detailer",
+            "url": "https://github.com/dustysys/ddetailer.git",
+            "description": "An object detection and auto-mask extension for Stable Diffusion web UI.",
+            "added": "2022-11-09",
+            "tags": [
+                "editing"
+            ],
+            "full_name": "dustysys/ddetailer",
+            "github_description": null,
+            "stars": 301,
+            "default_branch": "master",
+            "created_at": "2022-11-06T12:42:22Z",
+            "default_branch_commit_sha": "22a17414bbca1fa4681d427b8aae5f970d17e896",
+            "commit_time": "2022-11-28T09:33:31Z"
+        },
+        {
+            "name": "Batch Face Swap",
+            "url": "https://github.com/kex0/batch-face-swap.git",
+            "description": "Automatically detects faces and replaces them.",
+            "added": "2023-01-13",
+            "tags": [
+                "editing"
+            ],
+            "full_name": "kex0/batch-face-swap",
+            "github_description": "Automaticaly detects faces and replaces them",
+            "stars": 253,
+            "default_branch": "main",
+            "created_at": "2023-01-11T04:09:21Z",
+            "default_branch_commit_sha": "b6fdff6549f79dbfb924c150dd54a9642164e876",
+            "commit_time": "2023-05-28T00:23:36Z"
+        },
+        {
+            "name": "Depth Maps",
+            "url": "https://github.com/thygate/stable-diffusion-webui-depthmap-script.git",
+            "description": "Depth Maps, Stereo Image, 3D Mesh and Video generator extension.",
+            "added": "2022-11-30",
+            "tags": [
+                "editing"
+            ],
+            "full_name": "thygate/stable-diffusion-webui-depthmap-script",
+            "github_description": "High Resolution Depth Maps for Stable Diffusion WebUI",
+            "stars": 1094,
+            "default_branch": "main",
+            "created_at": "2022-11-03T17:21:15Z",
+            "default_branch_commit_sha": "54193c4fc1d7292fdeb9b08222576017ea142b94",
+            "commit_time": "2023-07-05T21:20:34Z"
+        },
+        {
+            "name": "multi-subject-render",
+            "url": "https://github.com/Extraltodeus/multi-subject-render.git",
+            "description": "It is a depth aware extension that can help to create multiple complex subjects on a single image. It generates a background, then multiple foreground subjects, cuts their backgrounds after a depth analysis, paste them onto the background and finally does an img2img for a clean finish.",
+            "added": "2022-11-24",
+            "tags": [
+                "editing",
+                "manipulations"
+            ],
+            "full_name": "Extraltodeus/multi-subject-render",
+            "github_description": "Generate multiple complex subjects all at once!",
+            "stars": 326,
+            "default_branch": "main",
+            "created_at": "2022-11-24T04:33:02Z",
+            "default_branch_commit_sha": "03427e26bebdc6da0ccfb749bf3c4e7e33d7458b",
+            "commit_time": "2023-03-06T14:11:30Z"
+        },
+        {
+            "name": "depthmap2mask",
+            "url": "https://github.com/Extraltodeus/depthmap2mask.git",
+            "description": "Create masks for img2img based on a depth estimation made by MiDaS.",
+            "added": "2022-11-26",
+            "tags": [
+                "editing",
+                "manipulations"
+            ],
+            "full_name": "Extraltodeus/depthmap2mask",
+            "github_description": "Create masks out of depthmaps in img2img",
+            "stars": 313,
+            "default_branch": "main",
+            "created_at": "2022-11-25T18:52:59Z",
+            "default_branch_commit_sha": "377e9224dbdb169ede588a6d447ca886aab67140",
+            "commit_time": "2023-04-13T04:10:08Z"
+        },
+        {
+            "name": "ABG_extension",
+            "url": "https://github.com/KutsuyaYuki/ABG_extension.git",
+            "description": "Automatically remove backgrounds. Uses an onnx model fine-tuned for anime images. Runs on GPU.",
+            "added": "2022-12-24",
+            "tags": [
+                "editing"
+            ],
+            "full_name": "KutsuyaYuki/ABG_extension",
+            "github_description": null,
+            "stars": 178,
+            "default_branch": "main",
+            "created_at": "2022-12-23T16:11:31Z",
+            "default_branch_commit_sha": "eb3ff7610abeca1e4941a398b85aff223e32fba3",
+            "commit_time": "2023-05-01T21:25:47Z"
+        },
+        {
+            "name": "Pixel",
+            "url": "https://github.com/Leodotpy/sd-pixel.git",
+            "description": "Quickly and easily perform downscaling, color palette limiting, and other useful pixel art effects through the extras tab.",
+            "added": "2023-05-05",
+            "tags": [
+                "editing",
+                "extras"
+            ],
+            "full_name": "Leodotpy/sd-pixel",
+            "github_description": "Quickly and easily perform downscaling, color palette limiting, and other useful pixel art effects through the extras tab.",
+            "stars": 37,
+            "default_branch": "master",
+            "created_at": "2023-05-05T02:27:27Z",
+            "default_branch_commit_sha": "ceb493db323b1cf425274fb32661de2ff2516f1b",
+            "commit_time": "2023-05-31T19:57:01Z"
+        },
+        {
+            "name": "Pixelization",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-pixelization.git",
+            "description": "Using pre-trained models, produce pixel art out of images in the extras tab.",
+            "added": "2023-01-23",
+            "tags": [
+                "editing",
+                "extras"
+            ],
+            "full_name": "AUTOMATIC1111/stable-diffusion-webui-pixelization",
+            "github_description": "stable-diffusion-webui-pixelization",
+            "stars": 401,
+            "default_branch": "master",
+            "created_at": "2023-01-23T10:57:20Z",
+            "default_branch_commit_sha": "e37251c5951c9e17514b859422e71c9579b7c9d1",
+            "commit_time": "2023-02-04T17:02:01Z"
+        },
+        {
+            "name": "haku-img",
+            "url": "https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img.git",
+            "description": "Image utils extension. Allows blending, layering, hue and color adjustments, blurring and sketch effects, and basic pixelization.",
+            "added": "2023-01-17",
+            "tags": [
+                "tab",
+                "editing"
+            ],
+            "full_name": "KohakuBlueleaf/a1111-sd-webui-haku-img",
+            "github_description": "An Image utils extension for A1111's sd-webui",
+            "stars": 128,
+            "default_branch": "main",
+            "created_at": "2023-01-05T03:14:11Z",
+            "default_branch_commit_sha": "1b3dee07ea65bb7db7d3cca8d51c67981ff1f01b",
+            "commit_time": "2023-06-27T09:52:59Z"
+        },
+        {
+            "name": "Asymmetric Tiling",
+            "url": "https://github.com/tjm35/asymmetric-tiling-sd-webui.git",
+            "description": "An always visible script extension to configure seamless image tiling independently for the X and Y axes.",
+            "added": "2023-01-13",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "tjm35/asymmetric-tiling-sd-webui",
+            "github_description": "Asymmetric Tiling for stable-diffusion-webui",
+            "stars": 112,
+            "default_branch": "main",
+            "created_at": "2022-10-11T15:09:31Z",
+            "default_branch_commit_sha": "b4470ddc388a94fe4c2384606fa9810eb7aa7529",
+            "commit_time": "2022-11-18T17:42:54Z"
+        },
+        {
+            "name": "Latent Mirroring",
+            "url": "https://github.com/dfaker/SD-latent-mirroring.git",
+            "description": "Applies mirroring and flips to the latent images to produce anything from subtle balanced compositions to perfect reflections",
+            "added": "2022-11-06",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "dfaker/SD-latent-mirroring",
+            "github_description": "Applies mirroring and flips to the latent images to produce anything from subtle balanced compositions to perfect reflections",
+            "stars": 96,
+            "default_branch": "main",
+            "created_at": "2022-11-03T00:32:57Z",
+            "default_branch_commit_sha": "05df9e833cfc145a5c231d2a75edf3c88137a2c7",
+            "commit_time": "2023-03-25T14:37:33Z"
+        },
+        {
+            "name": "Sonar",
+            "url": "https://github.com/Kahsolt/stable-diffusion-webui-sonar.git",
+            "description": "Improve the generated image quality, searches for similar (yet even better!) images in the neighborhood of some known image, focuses on single prompt optimization rather than traveling between multiple prompts.",
+            "added": "2023-01-12",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "Kahsolt/stable-diffusion-webui-sonar",
+            "github_description": "Wrapped k-diffuison samplers with tricks to improve the generated image quality (maybe?), extension script for AUTOMATIC1111/stable-diffusion-webui",
+            "stars": 80,
+            "default_branch": "main",
+            "created_at": "2022-11-10T08:47:25Z",
+            "default_branch_commit_sha": "e9e16c996c23cb40e7525743b91cb0bbf55a4907",
+            "commit_time": "2023-05-09T05:49:03Z"
+        },
+        {
+            "name": "Depth Image I/O",
+            "url": "https://github.com/AnonymousCervine/depth-image-io-for-SDWebui.git",
+            "description": "An extension to allow managing custom depth inputs to Stable Diffusion depth2img models.",
+            "added": "2023-01-17",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "AnonymousCervine/depth-image-io-for-SDWebui",
+            "github_description": "An extension to allow managing custom depth inputs to Stable Diffusion depth2img models for the stable-diffusion-webui repo.",
+            "stars": 70,
+            "default_branch": "main",
+            "created_at": "2023-01-10T06:12:24Z",
+            "default_branch_commit_sha": "eb22863da52f3cd10d28087b43870f1419178d4c",
+            "commit_time": "2023-02-04T06:52:38Z"
+        },
+        {
+            "name": "Ultimate SD Upscale",
+            "url": "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git",
+            "description": "More advanced options for SD Upscale, less artifacts than original using higher denoise ratio (0.3-0.5).",
+            "added": "2023-01-10",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "Coyote-A/ultimate-upscale-for-automatic1111",
+            "github_description": null,
+            "stars": 883,
+            "default_branch": "master",
+            "created_at": "2023-01-02T22:07:55Z",
+            "default_branch_commit_sha": "c99f382b31509b87b4d512e70e9caf08ae7a079f",
+            "commit_time": "2023-06-13T04:29:35Z"
+        },
+        {
+            "name": "Prompt Fusion",
+            "url": "https://github.com/ljleb/prompt-fusion-extension.git",
+            "description": "Adds prompt-travel and shift-attention-like interpolations (see exts), but during/within the sampling steps. Always-on + works w/ existing prompt-editing syntax. Various interpolation modes. See their wiki for more info.",
+            "added": "2023-01-28",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "ljleb/prompt-fusion-extension",
+            "github_description": "auto1111 webui extension for all sorts of prompt interpolations!",
+            "stars": 163,
+            "default_branch": "main",
+            "created_at": "2022-12-10T23:19:17Z",
+            "default_branch_commit_sha": "b13617442d99ae77e2bf34a68efad43562f319e7",
+            "commit_time": "2023-07-08T21:21:15Z"
+        },
+        {
+            "name": "Neutral Prompt",
+            "url": "https://github.com/ljleb/sd-webui-neutral-prompt.git",
+            "description": "Adds new keywords for manipulating noise blending and prompt interactions. Allows for organizing prompts in a hierarchical manner instead of a flat list.",
+            "added": "2023-05-28",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "ljleb/sd-webui-neutral-prompt",
+            "github_description": "Collision-free AND keywords for a1111 webui!",
+            "stars": 83,
+            "default_branch": "main",
+            "created_at": "2023-05-17T15:02:06Z",
+            "default_branch_commit_sha": "9612c5eb6fa121ce113b5b12b85c97341abc91a4",
+            "commit_time": "2023-07-12T19:17:57Z"
+        },
+        {
+            "name": "Dynamic Thresholding",
+            "url": "https://github.com/mcmonkeyprojects/sd-dynamic-thresholding.git",
+            "description": "Adds customizable dynamic thresholding to allow high CFG Scale values without the burning / 'pop art' effect.",
+            "added": "2023-02-01",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "mcmonkeyprojects/sd-dynamic-thresholding",
+            "github_description": "Dynamic Thresholding (CFG Scale Fix) for SD Auto WebUI",
+            "stars": 585,
+            "default_branch": "master",
+            "created_at": "2023-01-27T02:23:12Z",
+            "default_branch_commit_sha": "c81975313514560ab0aa123671ea466dfcde2d41",
+            "commit_time": "2023-07-01T04:22:51Z"
+        },
+        {
+            "name": "anti-burn",
+            "url": "https://github.com/klimaleksus/stable-diffusion-webui-anti-burn.git",
+            "description": "Smoothing generated images by skipping a few very last steps and averaging together some images before them.",
+            "added": "2023-02-09",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "klimaleksus/stable-diffusion-webui-anti-burn",
+            "github_description": "Extension for AUTOMATIC1111/stable-diffusion-webui for smoothing generated images by skipping a few very last steps and averaging together some images before them.",
+            "stars": 120,
+            "default_branch": "master",
+            "created_at": "2023-02-01T12:46:19Z",
+            "default_branch_commit_sha": "4d678f1f1120415fe4cb9f77484252bc82af03b2",
+            "commit_time": "2023-02-19T19:22:44Z"
+        },
+        {
+            "name": "sd-webui-controlnet",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet.git",
+            "description": "WebUI extension for ControlNet. Note: (WIP), so don't expect seed reproducibility - as updates may change things.",
+            "added": "2023-02-18",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "Mikubill/sd-webui-controlnet",
+            "github_description": "WebUI extension for ControlNet",
+            "stars": 11232,
+            "default_branch": "main",
+            "created_at": "2023-02-12T16:26:27Z",
+            "default_branch_commit_sha": "07bed6ccf8a468a45b2833cfdadc749927cbd575",
+            "commit_time": "2023-07-08T20:54:01Z"
+        },
+        {
+            "name": "Latent Couple",
+            "url": "https://github.com/ashen-sensored/stable-diffusion-webui-two-shot.git",
+            "description": "An extension of the built-in Composable Diffusion, allows you to determine the region of the latent space that reflects your subprompts. Note: New maintainer, uninstall prev. ext if needed.",
+            "added": "2023-02-18",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "ashen-sensored/stable-diffusion-webui-two-shot",
+            "github_description": "Latent Couple extension (two shot diffusion port)",
+            "stars": 312,
+            "default_branch": "main",
+            "created_at": "2023-02-15T04:38:54Z",
+            "default_branch_commit_sha": "6b55dd5248fd07f55ffefbf9be369b439b239502",
+            "commit_time": "2023-04-02T11:22:41Z"
+        },
+        {
+            "name": "Composable LoRA",
+            "url": "https://github.com/a2569875/stable-diffusion-webui-composable-lora.git",
+            "description": "Enables using AND keyword(composable diffusion) to limit LoRAs to subprompts. Useful when paired with Latent Couple extension.",
+            "added": "2023-02-25",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "a2569875/stable-diffusion-webui-composable-lora",
+            "github_description": "This extension replaces the built-in LoRA forward procedure.",
+            "stars": 91,
+            "default_branch": "main",
+            "created_at": "2023-04-13T10:25:40Z",
+            "default_branch_commit_sha": "e8f461f0e96791001321b79089c60a5178978e65",
+            "commit_time": "2023-06-28T09:02:27Z"
+        },
+        {
+            "name": "Auto TLS-HTTPS",
+            "url": "https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git",
+            "description": "Allows you to easily, or even completely automatically start using HTTPS.",
+            "added": "2022-11-14",
+            "tags": [
+                "script"
+            ],
+            "full_name": "papuSpartan/stable-diffusion-webui-auto-tls-https",
+            "github_description": "An extension for AUTOMATIC1111's Stable Diffusion Web-UI that enables easy or zero-conf TLS for HTTPS",
+            "stars": 44,
+            "default_branch": "master",
+            "created_at": "2022-11-12T09:49:16Z",
+            "default_branch_commit_sha": "c0549f8548b68b2370f8651cb702f6723320bc22",
+            "commit_time": "2023-06-03T08:49:41Z"
+        },
+        {
+            "name": "booru2prompt",
+            "url": "https://github.com/Malisius/booru2prompt.git",
+            "description": "This SD extension allows you to turn posts from various image boorus into stable diffusion prompts. It does so by pulling a list of tags down from their API. You can copy-paste in a link to the post you want yourself, or use the built-in search feature to do it all without leaving SD.",
+            "added": "2022-11-21",
+            "tags": [
+                "tab",
+                "online"
+            ],
+            "full_name": "Malisius/booru2prompt",
+            "github_description": "An extension for stable-diffusion-webui to convert image booru posts into prompts",
+            "stars": 43,
+            "default_branch": "master",
+            "created_at": "2022-11-20T23:57:26Z",
+            "default_branch_commit_sha": "4bd88839a6454428d098c7ad6672cc0989dd6a60",
+            "commit_time": "2022-11-23T14:41:10Z"
+        },
+        {
+            "name": "Gelbooru Prompt",
+            "url": "https://github.com/antis0007/sd-webui-gelbooru-prompt.git",
+            "description": "Extension that gets tags for saved gelbooru images in AUTOMATIC1111's Stable Diffusion webui",
+            "added": "2022-12-20",
+            "tags": [
+                "online"
+            ],
+            "full_name": "antis0007/sd-webui-gelbooru-prompt",
+            "github_description": "Extension that gets tags for saved gelbooru images in AUTOMATIC1111's Stable Diffusion webui",
+            "stars": 25,
+            "default_branch": "main",
+            "created_at": "2022-11-23T00:07:19Z",
+            "default_branch_commit_sha": "4dbea1df32927b4b847fed6c0e475985df9f39e6",
+            "commit_time": "2023-04-07T18:47:44Z"
+        },
+        {
+            "name": "e621 Prompt",
+            "url": "https://github.com/nochnoe/sd-webui-e621-prompt.git",
+            "description": "Request tags of an image from e621 and convert them into a prompt",
+            "added": "2023-06-15",
+            "tags": [
+                "online",
+                "prompting"
+            ],
+            "full_name": "nochnoe/sd-webui-e621-prompt",
+            "github_description": null,
+            "stars": 7,
+            "default_branch": "main",
+            "created_at": "2023-06-12T20:55:03Z",
+            "default_branch_commit_sha": "8d000042e2e28661d66d4fe24a14d740427cb468",
+            "commit_time": "2023-06-15T16:20:48Z"
+        },
+        {
+            "name": "NSFW checker",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-nsfw-censor.git",
+            "description": "Replaces NSFW images with black.",
+            "added": "2022-12-10",
+            "tags": [
+                "script"
+            ],
+            "full_name": "AUTOMATIC1111/stable-diffusion-webui-nsfw-censor",
+            "github_description": "stable-diffusion-webui-nsfw-censor",
+            "stars": 60,
+            "default_branch": "master",
+            "created_at": "2022-12-10T11:34:12Z",
+            "default_branch_commit_sha": "c21cc99b731ff295039b0531e73968d1bf384570",
+            "commit_time": "2022-12-10T11:33:46Z"
+        },
+        {
+            "name": "Diffusion Defender",
+            "url": "https://github.com/WildBanjos/DiffusionDefender.git",
+            "description": "Prompt blacklist, find and replace, for semi-private and public instances.",
+            "added": "2022-12-20",
+            "tags": [
+                "script"
+            ],
+            "full_name": "WildBanjos/DiffusionDefender",
+            "github_description": "An extension for Automatic-1111 webui that adds a blacklist feature for stable diffusion",
+            "stars": 21,
+            "default_branch": "main",
+            "created_at": "2022-12-13T07:54:23Z",
+            "default_branch_commit_sha": "aedd7d9abd1caffd65b6fe35d2d660484e0bfc89",
+            "commit_time": "2023-05-11T23:08:43Z"
+        },
+        {
+            "name": "DH Patch",
+            "url": "https://github.com/d8ahazard/sd_auto_fix.git",
+            "description": "Random patches by D8ahazard. Auto-load config YAML files for v2, 2.1 models; patch latent-diffusion to fix attention on 2.1 models (black boxes without no-half), whatever else I come up with.",
+            "added": "2022-12-16",
+            "tags": [
+                "script"
+            ],
+            "full_name": "d8ahazard/sd_auto_fix",
+            "github_description": "Fine, I'll just put my pull requests here.",
+            "stars": 11,
+            "default_branch": "main",
+            "created_at": "2022-12-14T16:20:42Z",
+            "default_branch_commit_sha": "f54e4b53dc48748072cdc36512b7100933dfc998",
+            "commit_time": "2023-01-03T03:00:30Z"
+        },
+        {
+            "name": "Riffusion",
+            "url": "https://github.com/enlyth/sd-webui-riffusion.git",
+            "description": "Use Riffusion model to produce music in gradio. To replicate original interpolation technique, input the prompt travel extension output frames into the riffusion tab.",
+            "added": "2022-12-19",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "enlyth/sd-webui-riffusion",
+            "github_description": "Riffusion extension for AUTOMATIC1111's SD Web UI",
+            "stars": 148,
+            "default_branch": "master",
+            "created_at": "2022-12-16T02:34:34Z",
+            "default_branch_commit_sha": "82642767fde6e19ec16a84da22966c14be364d9d",
+            "commit_time": "2023-06-05T17:10:00Z"
+        },
+        {
+            "name": "Save Intermediate Images",
+            "url": "https://github.com/AlUlkesh/sd_save_intermediate_images.git",
+            "description": "Save intermediate images during the sampling process. You can also make videos from the intermediate images.",
+            "added": "2022-12-22",
+            "tags": [
+                "script"
+            ],
+            "full_name": "AlUlkesh/sd_save_intermediate_images",
+            "github_description": "Save intermediate images during the sampling process",
+            "stars": 85,
+            "default_branch": "main",
+            "created_at": "2022-12-15T23:55:02Z",
+            "default_branch_commit_sha": "8115a847d35312fd65d6acdb367f3addc22d0eb5",
+            "commit_time": "2023-03-27T13:58:26Z"
+        },
+        {
+            "name": "Add image number to grid",
+            "url": "https://github.com/AlUlkesh/sd_grid_add_image_number.git",
+            "description": "Add the image's number to its picture in the grid.",
+            "added": "2023-01-01",
+            "tags": [
+                "script"
+            ],
+            "full_name": "AlUlkesh/sd_grid_add_image_number",
+            "github_description": "Add the image's number to its picture in the grid",
+            "stars": 25,
+            "default_branch": "main",
+            "created_at": "2023-01-01T09:52:26Z",
+            "default_branch_commit_sha": "10a253b5ef261f3e39ea84486cab2ad743e61d41",
+            "commit_time": "2023-06-13T06:38:16Z"
+        },
+        {
+            "name": "Multiple Hypernetworks",
+            "url": "https://github.com/antis0007/sd-webui-multiple-hypernetworks.git",
+            "description": "Adds the ability to apply multiple hypernetworks at once. Apply multiple hypernetworks sequentially, with different weights.",
+            "added": "2023-01-13",
+            "tags": [
+                "script"
+            ],
+            "full_name": "antis0007/sd-webui-multiple-hypernetworks",
+            "github_description": "Extension that allows the use of multiple hypernetworks at once in AUTOMATIC1111's Stable Diffusion webui",
+            "stars": 90,
+            "default_branch": "main",
+            "created_at": "2022-11-15T21:18:07Z",
+            "default_branch_commit_sha": "dc37ce840b0fc285698963481ba65b8ce7db3d41",
+            "commit_time": "2023-01-10T06:48:35Z"
+        },
+        {
+            "name": "System Info",
+            "url": "https://github.com/vladmandic/sd-extension-system-info.git",
+            "description": "System Info tab for WebUI which shows realtime information of the server. Also supports sending crowdsourced inference data as an option.",
+            "added": "2023-01-21",
+            "tags": [
+                "script",
+                "tab"
+            ],
+            "full_name": "vladmandic/sd-extension-system-info",
+            "github_description": "System Info Extension for SD WebUI",
+            "stars": 153,
+            "default_branch": "main",
+            "created_at": "2023-01-14T16:40:39Z",
+            "default_branch_commit_sha": "9d3c0ca0f2dc8f8973b3d08f5ec1fa8bbd726155",
+            "commit_time": "2023-07-14T19:46:48Z"
+        },
+        {
+            "name": "OpenPose Editor",
+            "url": "https://github.com/fkunn1326/openpose-editor.git",
+            "description": "This can add multiple pose characters, detect pose from image, save to PNG, and send to controlnet extension.",
+            "added": "2023-02-18",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "fkunn1326/openpose-editor",
+            "github_description": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
+            "stars": 1357,
+            "default_branch": "master",
+            "created_at": "2023-02-19T04:24:44Z",
+            "default_branch_commit_sha": "722bca6fb9b062815d13b950e7040589abaec797",
+            "commit_time": "2023-06-03T04:54:52Z"
+        },
+        {
+            "name": "Stable Horde Worker",
+            "url": "https://github.com/sdwebui-w-horde/sd-webui-stable-horde-worker.git",
+            "description": "Worker Client for Stable Horde. Generate pictures for other users with your PC. Please see readme for additional instructions.",
+            "added": "2023-01-10",
+            "tags": [
+                "tab",
+                "online"
+            ],
+            "full_name": "sdwebui-w-horde/sd-webui-stable-horde-worker",
+            "github_description": "Stable Horde Unofficial Worker Bridge as Stable Diffusion WebUI (AUTOMATIC1111) Extension",
+            "stars": 44,
+            "default_branch": "master",
+            "created_at": "2022-12-19T07:08:52Z",
+            "default_branch_commit_sha": "5f53d819b314925891600dbd8ac2107c4bddbfc9",
+            "commit_time": "2023-07-07T00:38:16Z"
+        },
+        {
+            "name": "Stable Horde Client",
+            "url": "https://github.com/natanjunges/stable-diffusion-webui-stable-horde.git",
+            "description": "Stable Horde Client. Generate pictures using other user's PC. Useful if u have no GPU.",
+            "added": "2023-01-11",
+            "tags": [
+                "tab",
+                "online"
+            ],
+            "full_name": "natanjunges/stable-diffusion-webui-stable-horde",
+            "github_description": "Stable Horde client for AUTOMATIC1111's Stable Diffusion Web UI",
+            "stars": 65,
+            "default_branch": "main",
+            "created_at": "2022-12-27T18:46:03Z",
+            "default_branch_commit_sha": "00248b89bfab7ba465f104324a5d0708ad37341f",
+            "commit_time": "2023-04-20T19:43:05Z"
+        },
+        {
+            "name": "Discord Rich Presence",
+            "url": "https://github.com/kabachuha/discord-rpc-for-automatic1111-webui.git",
+            "description": "Provides connection to Discord RPC, showing a fancy table in the user profile.",
+            "added": "2023-01-20",
+            "tags": [
+                "online"
+            ],
+            "full_name": "kabachuha/discord-rpc-for-automatic1111-webui",
+            "github_description": "Silent extension (no tab) for AUTOMATIC1111's Stable Diffusion WebUI adding connection to Discord RPC, so it would show a fancy table in the Discord profile.",
+            "stars": 15,
+            "default_branch": "main",
+            "created_at": "2023-01-20T20:19:01Z",
+            "default_branch_commit_sha": "040d70a803404a3fb5cf9b747da9f3def9836085",
+            "commit_time": "2023-06-12T16:00:34Z"
+        },
+        {
+            "name": "mine-diffusion",
+            "url": "https://github.com/fropych/mine-diffusion.git",
+            "description": "This extension converts images into blocks and creates schematics for easy importing into Minecraft using the Litematica mod.",
+            "added": "2023-02-11",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "fropych/mine-diffusion",
+            "github_description": null,
+            "stars": 11,
+            "default_branch": "master",
+            "created_at": "2023-02-06T12:49:17Z",
+            "default_branch_commit_sha": "039062f0fa3dd148a16d897d60633806baf3cc33",
+            "commit_time": "2023-03-31T14:38:41Z"
+        },
+        {
+            "name": "Aesthetic Image Scorer",
+            "url": "https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer.git",
+            "description": "Calculates aesthetic score for generated images using CLIP+MLP Aesthetic Score Predictor based on Chad Scorer",
+            "added": "2022-11-01",
+            "tags": [
+                "query"
+            ],
+            "full_name": "tsngo/stable-diffusion-webui-aesthetic-image-scorer",
+            "github_description": null,
+            "stars": 105,
+            "default_branch": "main",
+            "created_at": "2022-10-23T20:48:55Z",
+            "default_branch_commit_sha": "1c3ab7a116ab5bc3b81d718e6383edd98903a01f",
+            "commit_time": "2022-12-11T05:52:39Z"
+        },
+        {
+            "name": "Aesthetic Scorer",
+            "url": "https://github.com/vladmandic/sd-extension-aesthetic-scorer.git",
+            "description": "Uses existing CLiP model with an additional small pretrained model to calculate perceived aesthetic score of an image.",
+            "added": "2023-01-21",
+            "tags": [
+                "query"
+            ],
+            "full_name": "vladmandic/sd-extension-aesthetic-scorer",
+            "github_description": "Aesthetic Scorer extension for SD WebUI",
+            "stars": 46,
+            "default_branch": "main",
+            "created_at": "2023-01-14T17:09:32Z",
+            "default_branch_commit_sha": "b60c3c825409f9b5c1ccbbb63b1713bf8ce7f253",
+            "commit_time": "2023-05-21T15:23:49Z"
+        },
+        {
+            "name": "cafe-aesthetic",
+            "url": "https://github.com/p1atdev/stable-diffusion-webui-cafe-aesthetic.git",
+            "description": "Pre-trained model, determines if aesthetic/non-aesthetic, does 5 different style recognition modes, and Waifu confirmation. Also has a tab with Batch processing.",
+            "added": "2023-01-28",
+            "tags": [
+                "tab",
+                "query"
+            ],
+            "full_name": "p1atdev/stable-diffusion-webui-cafe-aesthetic",
+            "github_description": "An extension of cafe_aesthetic for AUTOMATIC1111's Stable Diffusion Web UI",
+            "stars": 25,
+            "default_branch": "main",
+            "created_at": "2023-01-23T01:22:15Z",
+            "default_branch_commit_sha": "d1c7ee842736f9d9cc6564c2c92a5bff54d19e26",
+            "commit_time": "2023-03-26T13:36:41Z"
+        },
+        {
+            "name": "Clip Interrogator",
+            "url": "https://github.com/pharmapsychotic/clip-interrogator-ext.git",
+            "description": "Clip Interrogator by pharmapsychotic ported to an extension. Features a variety of clip models and interrogate settings.",
+            "added": "2023-02-21",
+            "tags": [
+                "tab",
+                "query"
+            ],
+            "full_name": "pharmapsychotic/clip-interrogator-ext",
+            "github_description": "Stable Diffusion WebUI extension for CLIP Interrogator",
+            "stars": 258,
+            "default_branch": "main",
+            "created_at": "2023-02-11T22:52:11Z",
+            "default_branch_commit_sha": "c0bf90052a14a104b2dbfd9b7e7818aae5ca5ae1",
+            "commit_time": "2023-06-27T19:06:31Z"
+        },
+        {
+            "name": "Visualize Cross-Attention",
+            "url": "https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension.git",
+            "description": "Generates highlighted sectors of a submitted input image, based on input prompts. Use with tokenizer extension. See the readme for more info.",
+            "added": "2022-11-25",
+            "tags": [
+                "tab",
+                "science"
+            ],
+            "full_name": "benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension",
+            "github_description": null,
+            "stars": 69,
+            "default_branch": "master",
+            "created_at": "2022-11-25T04:01:53Z",
+            "default_branch_commit_sha": "5fb1e8f80a13b08b6a4d63b880a9b07f8ddfdef5",
+            "commit_time": "2022-12-11T13:57:13Z"
+        },
+        {
+            "name": "DAAM",
+            "url": "https://github.com/toriato/stable-diffusion-webui-daam.git",
+            "description": "DAAM stands for Diffusion Attentive Attribution Maps. Enter the attention text (must be a string contained in the prompt) and run. An overlapping image with a heatmap for each attention will be generated along with the original image.",
+            "added": "2022-12-02",
+            "tags": [
+                "science"
+            ],
+            "full_name": "toriato/stable-diffusion-webui-daam",
+            "github_description": "DAAM for Stable Diffusion Web UI",
+            "stars": 70,
+            "default_branch": "master",
+            "created_at": "2023-01-21T10:01:19Z",
+            "default_branch_commit_sha": "0906c850fb70d7e4b296f9449763d48fa8d1e687",
+            "commit_time": "2023-01-26T04:20:48Z"
+        },
+        {
+            "name": "Dump U-Net",
+            "url": "https://github.com/hnmr293/stable-diffusion-webui-dumpunet.git",
+            "description": "View different layers, observe U-Net feature maps. Image generation by giving different prompts for each block of the unet: https://note.com/kohya_ss/n/n93b7c01b0547",
+            "added": "2023-03-04",
+            "tags": [
+                "science"
+            ],
+            "full_name": "hnmr293/stable-diffusion-webui-dumpunet",
+            "github_description": null,
+            "stars": 65,
+            "default_branch": "master",
+            "created_at": "2023-01-02T11:41:06Z",
+            "default_branch_commit_sha": "8b3910f5dadaa3e5982687ccfbf7c31b02725ddb",
+            "commit_time": "2023-04-10T12:42:18Z"
+        },
+        {
+            "name": "posex",
+            "url": "https://github.com/hnmr293/posex.git",
+            "description": "Estimated Image Generator for Pose2Image. This extension allows moving the openpose figure in 3d space.",
+            "added": "2023-03-04",
+            "tags": [
+                "script"
+            ],
+            "full_name": "hnmr293/posex",
+            "github_description": "Posex - Estimated Image Generator for Pose2Image",
+            "stars": 486,
+            "default_branch": "master",
+            "created_at": "2023-02-15T17:49:04Z",
+            "default_branch_commit_sha": "292f92d5068046f988fe002eb0a43b8841ad449e",
+            "commit_time": "2023-05-03T08:59:57Z"
+        },
+        {
+            "name": "LLuL",
+            "url": "https://github.com/hnmr293/sd-webui-llul.git",
+            "description": "Local Latent Upscaler. Target an area to selectively enhance details.",
+            "added": "2023-03-04",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "hnmr293/sd-webui-llul",
+            "github_description": "LLuL - Local Latent upscaLer",
+            "stars": 639,
+            "default_branch": "master",
+            "created_at": "2023-02-25T07:14:11Z",
+            "default_branch_commit_sha": "aa47b3eeb45c53f0d6ccaae59abf36e8ed6731f5",
+            "commit_time": "2023-05-04T16:14:34Z"
+        },
+        {
+            "name": "CFG-Schedule-for-Automatic1111-SD",
+            "url": "https://github.com/guzuligo/CFG-Schedule-for-Automatic1111-SD.git",
+            "description": "These scripts allow for dynamic CFG control during generation steps. With the right settings, this could help get the details of high CFG without damaging the generated image even with low denoising in img2img.",
+            "added": "2023-03-04",
+            "tags": [
+                "script"
+            ],
+            "full_name": "guzuligo/CFG-Schedule-for-Automatic1111-SD",
+            "github_description": "A script for scheduling CFG scale and ETA to change during the denoising steps",
+            "stars": 26,
+            "default_branch": "main",
+            "created_at": "2022-11-12T13:31:11Z",
+            "default_branch_commit_sha": "84892c8892c38f18a2932740c108d68a2c1b4d34",
+            "commit_time": "2023-03-09T10:43:02Z"
+        },
+        {
+            "name": "ebsynth_utility",
+            "url": "https://github.com/s9roll7/ebsynth_utility.git",
+            "description": "Extension for creating videos using img2img and ebsynth. Output edited videos using ebsynth. Works with ControlNet extension.",
+            "added": "2023-03-04",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "full_name": "s9roll7/ebsynth_utility",
+            "github_description": "AUTOMATIC1111 UI extension for creating videos using img2img and ebsynth.",
+            "stars": 699,
+            "default_branch": "main",
+            "created_at": "2022-12-29T12:10:49Z",
+            "default_branch_commit_sha": "44c18e0ebf398e04cd318878f8fc5674950af809",
+            "commit_time": "2023-05-31T07:02:22Z"
+        },
+        {
+            "name": "VRAM Estimator",
+            "url": "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git",
+            "description": "Runs txt2img, img2img, highres-fix at increasing dimensions and batch sizes until OOM, and outputs data to graph.",
+            "added": "2023-03-05",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "space-nuko/a1111-stable-diffusion-webui-vram-estimator",
+            "github_description": "Show estimated VRAM usage for generation configs",
+            "stars": 69,
+            "default_branch": "master",
+            "created_at": "2023-03-05T01:18:46Z",
+            "default_branch_commit_sha": "8ecde47f7aac1304058ab5af09702b703191c5f6",
+            "commit_time": "2023-06-13T01:35:05Z"
+        },
+        {
+            "name": "TiledDiffusion with Tiled VAE",
+            "url": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git",
+            "description": "Seamless large image regional generation and upscaling, along with vram-efficient tiled vae script.",
+            "added": "2023-03-08",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+            "github_description": "Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0",
+            "stars": 3125,
+            "default_branch": "main",
+            "created_at": "2023-02-27T14:23:49Z",
+            "default_branch_commit_sha": "de4888103c03d88c0d32af6d453373b47291687a",
+            "commit_time": "2023-06-18T21:39:44Z"
+        },
+        {
+            "name": "3D Model&Pose Loader",
+            "url": "https://github.com/jtydhr88/sd-3dmodel-loader.git",
+            "description": "Load your 3D model/animation inside webui, or edit model pose as well, then send screenshot to txt2img or img2img to ControlNet.",
+            "added": "2023-03-11",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "jtydhr88/sd-3dmodel-loader",
+            "github_description": "A custom extension for stable diffusion webui to load local 3D model/animation",
+            "stars": 188,
+            "default_branch": "master",
+            "created_at": "2023-03-06T01:39:23Z",
+            "default_branch_commit_sha": "1e01cc16c943594154558d92452e26b8f0156d7c",
+            "commit_time": "2023-06-30T01:09:05Z"
+        },
+        {
+            "name": "Corridor Crawler Outpainting",
+            "url": "https://github.com/brick2face/corridor-crawler-outpainting.git",
+            "description": "Generate hallways with the depth-to-image model at 512 resolution. It can be tweaked to work with other models/resolutions.",
+            "added": "2023-03-11",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "brick2face/corridor-crawler-outpainting",
+            "github_description": "An automatic1111 extension for generating hallways with Stable Diffusion",
+            "stars": 28,
+            "default_branch": "main",
+            "created_at": "2023-03-08T18:44:03Z",
+            "default_branch_commit_sha": "680aed7e96fd2785387949222acbb25dee16b332",
+            "commit_time": "2023-03-28T23:58:24Z"
+        },
+        {
+            "name": "Panorama Viewer",
+            "url": "https://github.com/GeorgLegato/sd-webui-panorama-viewer.git",
+            "description": "Provides a tab to display equirectangular images in interactive 3d-view.",
+            "added": "2023-03-11",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "GeorgLegato/sd-webui-panorama-viewer",
+            "github_description": "Sends rendered SD_auto1111 images quickly to this panorama (hdri, equirectangular) viewer",
+            "stars": 109,
+            "default_branch": "main",
+            "created_at": "2023-03-05T16:11:10Z",
+            "default_branch_commit_sha": "2a8195f82e795d8e080a41892fd60903d7e5e703",
+            "commit_time": "2023-05-29T02:31:41Z"
+        },
+        {
+            "name": "db-storage1111",
+            "url": "https://github.com/takoyaro/db-storage1111.git",
+            "description": "Enables the storage of pictures and their metadata in a MongoDB database.",
+            "added": "2023-03-12",
+            "tags": [
+                "script"
+            ],
+            "full_name": "takoyaro/db-storage1111",
+            "github_description": "automatic1111's stable-diffusion-webui extension for storing images to a database",
+            "stars": 39,
+            "default_branch": "main",
+            "created_at": "2023-03-10T09:41:20Z",
+            "default_branch_commit_sha": "855f1c2c9af8499095c92411f3a1c39b15926325",
+            "commit_time": "2023-05-02T12:40:49Z"
+        },
+        {
+            "name": "stable-diffusion-webui-rembg",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git",
+            "description": "Removes backgrounds from pictures.",
+            "added": "2023-03-12",
+            "tags": [
+                "script",
+                "extras"
+            ],
+            "full_name": "AUTOMATIC1111/stable-diffusion-webui-rembg",
+            "github_description": "Removes backgrounds from pictures. Extension for webui.",
+            "stars": 556,
+            "default_branch": "master",
+            "created_at": "2023-03-12T15:32:44Z",
+            "default_branch_commit_sha": "3d9eedbbf0d585207f97d5b21e42f32c0042df70",
+            "commit_time": "2023-06-04T13:35:24Z"
+        },
+        {
+            "name": "sd-webui-tunnels",
+            "url": "https://github.com/Bing-su/sd-webui-tunnels.git",
+            "description": "Add alternatives to the default tunneling methods. (including cloudflared)",
+            "added": "2023-03-13",
+            "tags": [
+                "script",
+                "online"
+            ],
+            "full_name": "Bing-su/sd-webui-tunnels",
+            "github_description": "Tunneling extension for automatic1111 sd-webui",
+            "stars": 65,
+            "default_branch": "main",
+            "created_at": "2023-02-09T13:18:45Z",
+            "default_branch_commit_sha": "768fde2c064220672776d5ee73951f6bee238d01",
+            "commit_time": "2023-05-10T12:08:31Z"
+        },
+        {
+            "name": "3D Openpose Editor",
+            "url": "https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git",
+            "description": "Edit the pose of 3D models in the WebUI, and generate Openpose/Depth/Normal/Canny maps for ControlNet.",
+            "added": "2023-03-16",
+            "tags": [
+                "tab"
+            ],
+            "full_name": "nonnonstop/sd-webui-3d-open-pose-editor",
+            "github_description": "3d openpose editor for stable diffusion and controlnet",
+            "stars": 532,
+            "default_branch": "main",
+            "created_at": "2023-03-14T12:04:41Z",
+            "default_branch_commit_sha": "f2d5aac51d891bc5f266b1549f3cf4495fc52160",
+            "commit_time": "2023-04-15T13:21:06Z"
+        },
+        {
+            "name": "sd-webui-enable-checker",
+            "url": "https://github.com/shirayu/sd-webui-enable-checker.git",
+            "description": "Switch background color by clicking the Enable buttons in SD Web UI",
+            "added": "2023-03-19",
+            "tags": [
+                "script"
+            ],
+            "full_name": "shirayu/sd-webui-enable-checker",
+            "github_description": "Checker of \"enable\" statuses in SD Web UI",
+            "stars": 37,
+            "default_branch": "main",
+            "created_at": "2023-03-06T13:58:32Z",
+            "default_branch_commit_sha": "58862f002b2be8268dc00378ddf94b939cb85873",
+            "commit_time": "2023-07-02T04:11:22Z"
+        },
+        {
+            "name": "stable-diffusion-webui-state",
+            "url": "https://github.com/ilian6806/stable-diffusion-webui-state.git",
+            "description": "Preserves the UI state after reload/restart.",
+            "added": "2023-03-19",
+            "tags": [
+                "script"
+            ],
+            "full_name": "ilian6806/stable-diffusion-webui-state",
+            "github_description": "Stable Diffusion extension that preserves ui state",
+            "stars": 136,
+            "default_branch": "main",
+            "created_at": "2023-03-19T13:45:28Z",
+            "default_branch_commit_sha": "85d8ef191d28a918036881ab47523e0c02467ccc",
+            "commit_time": "2023-06-10T12:39:50Z"
+        },
+        {
+            "name": "text2video",
+            "url": "https://github.com/kabachuha/sd-webui-text2video.git",
+            "description": "Brings a range of true text2video models, such as ModelScope and Videocrafter, into the WebUI.",
+            "added": "2023-03-19",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "full_name": "kabachuha/sd-webui-text2video",
+            "github_description": "Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies",
+            "stars": 951,
+            "default_branch": "main",
+            "created_at": "2023-03-19T20:40:23Z",
+            "default_branch_commit_sha": "8f0af8c95a3c3a3af09c63cbdbdacc34b7a45f8d",
+            "commit_time": "2023-07-14T12:41:05Z"
+        },
+        {
+            "name": "Aspect Ratio Helper",
+            "url": "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git",
+            "description": "Easily scale dimensions while retaining the same aspect ratio.",
+            "added": "2023-03-20",
+            "tags": [
+                "script",
+                "dropdown",
+                "UI related"
+            ],
+            "full_name": "thomasasfk/sd-webui-aspect-ratio-helper",
+            "github_description": "Simple extension to easily maintain aspect ratio while changing dimensions.  Install via the extensions tab on the AUTOMATIC1111 webui.",
+            "stars": 185,
+            "default_branch": "main",
+            "created_at": "2023-03-20T03:11:58Z",
+            "default_branch_commit_sha": "99fcf9b0a4e3f8c8cac07b12d17b66f12297b828",
+            "commit_time": "2023-06-04T15:39:07Z"
+        },
+        {
+            "name": "Canvas Zoom",
+            "url": "https://github.com/richrobber2/canvas-zoom.git",
+            "description": "Added the ability to scale Inpaint, Sketch, and Inpaint Sketch. Adds useful hotkeys",
+            "added": "2023-03-27",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "richrobber2/canvas-zoom",
+            "github_description": "zoom and pan functionality ",
+            "stars": 228,
+            "default_branch": "main",
+            "created_at": "2023-02-27T09:06:55Z",
+            "default_branch_commit_sha": "ed596e80393321610fe907ee718fb43a5499d09c",
+            "commit_time": "2023-07-05T14:41:20Z"
+        },
+        {
+            "name": "Regional Prompter",
+            "url": "https://github.com/hako-mikan/sd-webui-regional-prompter.git",
+            "description": "Specify different prompts for different regions; an alternative method and potential improvement to latent couple.",
+            "added": "2023-03-26",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "hako-mikan/sd-webui-regional-prompter",
+            "github_description": "set prompt to divided region",
+            "stars": 682,
+            "default_branch": "main",
+            "created_at": "2023-03-19T14:46:35Z",
+            "default_branch_commit_sha": "0624834836f18963191ed907b1d9281e4db568a2",
+            "commit_time": "2023-07-14T11:32:43Z"
+        },
+        {
+            "name": "Auto Translate",
+            "url": "https://github.com/hyd998877/stable-diffusion-webui-auto-translate-language.git",
+            "description": "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.",
+            "added": "2023-03-24",
+            "tags": [
+                "UI related"
+            ],
+            "full_name": "hyd998877/stable-diffusion-webui-auto-translate-language",
+            "github_description": "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.",
+            "stars": 27,
+            "default_branch": "main",
+            "created_at": "2023-03-23T16:49:52Z",
+            "default_branch_commit_sha": "84a0e759f81f7c973a45be8a5911b92cdd043ff4",
+            "commit_time": "2023-05-30T07:04:06Z"
+        },
+        {
+            "name": "Prompt Translator",
+            "url": "https://github.com/ParisNeo/prompt_translator.git",
+            "description": "Allows users to generate images based on prompts written in 50 different languages. It translates the prompts to english from a selected source language before generating the image.",
+            "added": "2023-03-28",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "ParisNeo/prompt_translator",
+            "github_description": "A stable diffusion extension for translating prompts from 50 languages. The objective is to give users the possibility to use their own language to perform text prompting.",
+            "stars": 109,
+            "default_branch": "main",
+            "created_at": "2023-03-27T09:46:46Z",
+            "default_branch_commit_sha": "40ec74c86589dc43182328d45cce031a0a42468d",
+            "commit_time": "2023-05-05T18:42:11Z"
+        },
+        {
+            "name": "Abysz LAB",
+            "url": "https://github.com/AbyszOne/Abysz-LAB-Ext.git",
+            "description": "Temporal Coherence Tools",
+            "added": "2023-04-01",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "full_name": "AbyszOne/Abysz-LAB-Ext",
+            "github_description": "Temporal Coherence tools. Automatic1111 extension.",
+            "stars": 140,
+            "default_branch": "main",
+            "created_at": "2023-03-17T20:42:26Z",
+            "default_branch_commit_sha": "deff0d4b4a208f862299b14b93e088f613373153",
+            "commit_time": "2023-04-15T04:28:34Z"
+        },
+        {
+            "name": "Negative Prompt Weight",
+            "url": "https://github.com/muerrilla/stable-diffusion-NPW.git",
+            "description": "Allows users to set a global weight for the negative prompt.",
+            "added": "2023-04-02",
+            "tags": [
+                "script",
+                "manipulations",
+                "prompting"
+            ],
+            "full_name": "muerrilla/stable-diffusion-NPW",
+            "github_description": "Negative Prompt Weight: Extension for Stable Diffusion Web UI",
+            "stars": 77,
+            "default_branch": "main",
+            "created_at": "2023-04-01T13:47:06Z",
+            "default_branch_commit_sha": "35b1c572cc8d08cbb7b7b5b3bf16b7c6078a483b",
+            "commit_time": "2023-07-02T16:04:19Z"
+        },
+        {
+            "name": "Discord - Dynamic Rich Presence",
+            "url": "https://github.com/davehornik/sd-discord-rich_presence.git",
+            "description": "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.",
+            "added": "2023-04-04",
+            "tags": [
+                "online",
+                "script"
+            ],
+            "full_name": "davehornik/sd-discord-rich_presence",
+            "github_description": "Discord Rich Presence  for AUTOMATIC1111's Stable Diffusion WebUI",
+            "stars": 18,
+            "default_branch": "master",
+            "created_at": "2023-03-31T23:41:23Z",
+            "default_branch_commit_sha": "42edc8ce06b7cd0b9cbc2eb9322b197086a2ee9e",
+            "commit_time": "2023-06-03T16:10:33Z"
+        },
+        {
+            "name": "PBRemTools",
+            "url": "https://github.com/mattyamonaca/PBRemTools.git",
+            "description": "PBRemTools(Precise background remover tools) is a collection of tools to crop backgrounds from a single picture with high accuracy.",
+            "added": "2023-04-05",
+            "tags": [
+                "extras",
+                "editing"
+            ],
+            "full_name": "mattyamonaca/PBRemTools",
+            "github_description": "Precise background remover",
+            "stars": 254,
+            "default_branch": "main",
+            "created_at": "2023-04-04T23:38:33Z",
+            "default_branch_commit_sha": "d0fee2a81dd4b656002873493bc27a5312df2187",
+            "commit_time": "2023-06-29T14:08:23Z"
+        },
+        {
+            "name": "a1111-sd-webui-lycoris",
+            "url": "https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git",
+            "description": "Load lycoris: non-conventional rank adapters; in separate networks gallery tab.",
+            "added": "2023-04-10",
+            "tags": [
+                "script"
+            ],
+            "full_name": "KohakuBlueleaf/a1111-sd-webui-lycoris",
+            "github_description": "An extension for stable-diffusion-webui to load lycoris models. ",
+            "stars": 628,
+            "default_branch": "main",
+            "created_at": "2023-04-09T08:20:56Z",
+            "default_branch_commit_sha": "8e97bf54867c25d00fc480be1ab4dae5399b35ef",
+            "commit_time": "2023-07-09T07:44:58Z"
+        },
+        {
+            "name": "sd-canvas-editor",
+            "url": "https://github.com/jtydhr88/sd-canvas-editor.git",
+            "description": "A full capability canvas editor which you can use layer, text, image, elements and so on.",
+            "added": "2023-04-13",
+            "tags": [
+                "tab",
+                "online"
+            ],
+            "full_name": "jtydhr88/sd-canvas-editor",
+            "github_description": "A custom extension for sd-webui that integrated a full capability canvas editor which you can use layer, text, image, elements, etc",
+            "stars": 105,
+            "default_branch": "master",
+            "created_at": "2023-04-13T11:32:28Z",
+            "default_branch_commit_sha": "12e7f72cdccb3ede788aa3a6f81e5c060638842d",
+            "commit_time": "2023-06-30T01:16:49Z"
+        },
+        {
+            "name": "Infinite Zoom",
+            "url": "https://github.com/v8hid/infinite-zoom-automatic1111-webui.git",
+            "description": "allows users to create infinite zoom effect videos using stable diffusion outpainting method.",
+            "added": "2023-04-13",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "full_name": "v8hid/infinite-zoom-automatic1111-webui",
+            "github_description": "infinite zoom effect extension for AUTOMATIC1111's webui - stable diffusion ",
+            "stars": 485,
+            "default_branch": "main",
+            "created_at": "2023-03-23T09:19:22Z",
+            "default_branch_commit_sha": "1139764bf715d848dc5b8b4c8d95e2e734c7e4eb",
+            "commit_time": "2023-05-03T17:08:52Z"
+        },
+        {
+            "name": "Eye Mask",
+            "url": "https://github.com/ilian6806/stable-diffusion-webui-eyemask.git",
+            "description": "Puts an end to poorly drawn eyes by automatically identifying and redrawing them.",
+            "added": "2023-05-11",
+            "tags": [
+                "script",
+                "dropdown",
+                "manipulations"
+            ],
+            "full_name": "ilian6806/stable-diffusion-webui-eyemask",
+            "github_description": "Stable Diffusion extension that marks eyes and faces",
+            "stars": 29,
+            "default_branch": "master",
+            "created_at": "2023-05-10T18:08:16Z",
+            "default_branch_commit_sha": "7b803a438f02b381903916b65cc5b15c98e3231c",
+            "commit_time": "2023-06-02T11:15:19Z"
+        },
+        {
+            "name": "zh_CN Localization",
+            "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
+            "description": "Simplified Chinese localization, recommend using with Bilingual Localization.",
+            "added": "2022-11-06",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "dtlnor/stable-diffusion-webui-localization-zh_CN",
+            "github_description": "Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui",
+            "stars": 991,
+            "default_branch": "main",
+            "created_at": "2022-11-06T09:14:30Z",
+            "default_branch_commit_sha": "582ca24da2f5ca7a155b1950471a61d38b1c9b62",
+            "commit_time": "2023-03-30T07:06:14Z"
+        },
+        {
+            "name": "zh_TW Localization",
+            "url": "https://github.com/harukaxxxx/stable-diffusion-webui-localization-zh_TW.git",
+            "description": "Traditional Chinese localization",
+            "added": "2022-11-09",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "harukaxxxx/stable-diffusion-webui-localization-zh_TW",
+            "github_description": "Traditional Chinese translation extension for Stable Diffusion web UI by AUTOMATIC1111",
+            "stars": 6,
+            "default_branch": "main",
+            "created_at": "2023-04-18T23:44:55Z",
+            "default_branch_commit_sha": "92e89804db8c493d1e0b851091a3c7273c0410b1",
+            "commit_time": "2023-07-15T02:50:27Z"
+        },
+        {
+            "name": "ko_KR Localization",
+            "url": "https://github.com/36DB/stable-diffusion-webui-localization-ko_KR",
+            "description": "Korean localization",
+            "added": "2022-11-06",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "36DB/stable-diffusion-webui-localization-ko_KR",
+            "github_description": "Korean localization extension for the Stable Diffusion WebUI",
+            "stars": 15,
+            "default_branch": "main",
+            "created_at": "2022-11-06T10:30:18Z",
+            "default_branch_commit_sha": "5e7f3ac190ea58fc8e364d85266d6f89b2728127",
+            "commit_time": "2023-03-18T18:59:44Z"
+        },
+        {
+            "name": "th_TH Localization",
+            "url": "https://github.com/econDS/thai-localization-for-Automatic-stable-diffusion-webui",
+            "description": "Thai localization",
+            "added": "2022-12-30",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "econDS/thai-localization-for-Automatic-stable-diffusion-webui",
+            "github_description": null,
+            "stars": 2,
+            "default_branch": "main",
+            "created_at": "2022-10-25T09:43:49Z",
+            "default_branch_commit_sha": "78711446a3f3079eb56687bb0b8baf8e1335555f",
+            "commit_time": "2022-10-25T10:11:47Z"
+        },
+        {
+            "name": "es_ES Localization",
+            "url": "https://github.com/innovaciones/stable-diffusion-webui-localization-es_ES",
+            "description": "Spanish localization",
+            "added": "2022-11-09",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "innovaciones/stable-diffusion-webui-localization-es_ES",
+            "github_description": "Spanish localization for AUTOMATIC1111's Stable Diffusion Web UI",
+            "stars": 1,
+            "default_branch": "main",
+            "created_at": "2022-11-09T00:35:33Z",
+            "default_branch_commit_sha": "9c8ed17063a5647f1ee471aa97b13edbd2ac9be5",
+            "commit_time": "2022-11-09T00:43:55Z"
+        },
+        {
+            "name": "it_IT Localization",
+            "url": "https://github.com/Harvester62/stable-diffusion-webui-localization-it_IT",
+            "description": "Italian localization",
+            "added": "2022-11-07",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "Harvester62/stable-diffusion-webui-localization-it_IT",
+            "github_description": "Italian localization of the Stable Diffusion Web UI, Scripts and Extensions",
+            "stars": 4,
+            "default_branch": "main",
+            "created_at": "2022-11-06T22:28:04Z",
+            "default_branch_commit_sha": "593562423962d0c17146871f3cbe9272fbecb364",
+            "commit_time": "2023-05-04T19:15:43Z"
+        },
+        {
+            "name": "de_DE Localization",
+            "url": "https://github.com/Strothis/stable-diffusion-webui-de_DE",
+            "description": "German localization",
+            "added": "2022-11-07",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "Strothis/stable-diffusion-webui-de_DE",
+            "github_description": "German localization for  AUTOMATIC1111's Stable Diffusion WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "stars": 1,
+            "default_branch": "main",
+            "created_at": "2022-11-06T12:38:13Z",
+            "default_branch_commit_sha": "44638a45d146c265ff186ce810ac8ecaaf273b9e",
+            "commit_time": "2023-02-28T17:27:04Z"
+        },
+        {
+            "name": "ja_JP Localization",
+            "url": "https://github.com/AI-Creators-Society/stable-diffusion-webui-localization-ja_JP",
+            "description": "Japanese localization",
+            "added": "2022-11-07",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "AI-Creators-Society/stable-diffusion-webui-localization-ja_JP",
+            "github_description": "sd.webui(AUTOMATIC1111\u7248)\u306e\u65e5\u672c\u8a9e\u5316",
+            "stars": 42,
+            "default_branch": "main",
+            "created_at": "2022-11-21T16:08:31Z",
+            "default_branch_commit_sha": "b2a203393d226bad7c6ac2041a56d61823067d74",
+            "commit_time": "2023-06-11T07:29:50Z"
+        },
+        {
+            "name": "pt_BR Localization",
+            "url": "https://github.com/M-art-ucci/stable-diffusion-webui-localization-pt_BR",
+            "description": "Brazillian portuguese localization",
+            "added": "2022-11-09",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "M-art-ucci/stable-diffusion-webui-localization-pt_BR",
+            "github_description": "Brazillian portuguese translation extension for AUTOMATIC1111's stable diffusion webui",
+            "stars": 3,
+            "default_branch": "main",
+            "created_at": "2022-11-09T13:06:08Z",
+            "default_branch_commit_sha": "4bf9054c7f0e3b481cbb9672198f33aff705cce8",
+            "commit_time": "2022-12-19T22:18:03Z"
+        },
+        {
+            "name": "tr_TR Localization",
+            "url": "https://github.com/camenduru/stable-diffusion-webui-localization-tr_TR",
+            "description": "Turkish localization",
+            "added": "2022-11-12",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "camenduru/stable-diffusion-webui-localization-tr_TR",
+            "github_description": null,
+            "stars": 1,
+            "default_branch": "main",
+            "created_at": "2022-11-12T12:30:18Z",
+            "default_branch_commit_sha": "830408fb7414e7690da355fc840578b0d25aa99f",
+            "commit_time": "2022-11-12T12:31:31Z"
+        },
+        {
+            "name": "no_NO Localization",
+            "url": "https://github.com/Cyanz83/stable-diffusion-webui-localization-no_NO",
+            "description": "Norwegian localization",
+            "added": "2022-11-16",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "Cyanz83/stable-diffusion-webui-localization-no_NO",
+            "github_description": "Norwegian localization for AUTOMATIC1111's [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)",
+            "stars": 0,
+            "default_branch": "main",
+            "created_at": "2022-11-15T23:06:01Z",
+            "default_branch_commit_sha": "a66a0a674301c713959f534ee2446333634c5123",
+            "commit_time": "2022-11-15T23:08:10Z"
+        },
+        {
+            "name": "ru_RU Localization",
+            "url": "https://github.com/ProfaneServitor/stable-diffusion-webui-localization-ru_RU",
+            "description": "Russian localization",
+            "added": "2022-11-20",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "ProfaneServitor/stable-diffusion-webui-localization-ru_RU",
+            "github_description": "Russian localization for stable diffusion webui",
+            "stars": 2,
+            "default_branch": "master",
+            "created_at": "2022-12-19T11:08:29Z",
+            "default_branch_commit_sha": "446560d3313b45be2306205beac8d8bfe38edf00",
+            "commit_time": "2022-12-19T11:08:58Z"
+        },
+        {
+            "name": "fi_FI Localization",
+            "url": "https://github.com/otsoniemi/stable-diffusion-webui-localization-fi_FI",
+            "description": "Finnish localization",
+            "added": "2022-12-28",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "otsotech/stable-diffusion-webui-localization-fi_FI",
+            "github_description": "Finnish localization for AUTOMATIC1111's [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)",
+            "stars": 0,
+            "default_branch": "main",
+            "created_at": "2022-12-28T13:32:39Z",
+            "default_branch_commit_sha": "7ce182b85d4a5f4f2d217794f2397b8d3b01c647",
+            "commit_time": "2022-12-30T14:05:23Z"
+        },
+        {
+            "name": "zh_Hans Localization",
+            "url": "https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans.git",
+            "description": "Simplified Chinese localization.",
+            "added": "2023-03-13",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans",
+            "github_description": "SD-WebUI \u7b80\u4f53\u4e2d\u6587\u7ffb\u8bd1\u6269\u5c55",
+            "stars": 143,
+            "default_branch": "master",
+            "created_at": "2023-02-25T04:48:34Z",
+            "default_branch_commit_sha": "2157e89ac3aa4f0596780fdedda488f32d0e3313",
+            "commit_time": "2023-07-14T11:00:02Z"
+        },
+        {
+            "name": "old localizations",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-old-localizations.git",
+            "description": "Old unmaintained localizations that used to be a part of main repository",
+            "added": "2022-11-08",
+            "tags": [
+                "localization"
+            ],
+            "full_name": "AUTOMATIC1111/stable-diffusion-webui-old-localizations",
+            "github_description": null,
+            "stars": 15,
+            "default_branch": "master",
+            "created_at": "2022-11-08T06:50:16Z",
+            "default_branch_commit_sha": "aa9efcdec7847835d91511c30b591dbdd4b81126",
+            "commit_time": "2023-01-20T14:17:33Z"
+        },
+        {
+            "name": "Model Organizer",
+            "url": "https://github.com/alexandersokol/sd-model-organizer.git",
+            "description": "Allows to store and manage own model collections, add information, notes, previews, download links of model. Easily download from any external direct link or shared file link from Google Drive. Share own models collection with json file or use remote Firestore database to make it available and synced on several devices.",
+            "added": "2023-05-05",
+            "tags": [
+                "tab",
+                "UI related",
+                "online"
+            ],
+            "full_name": "alexandersokol/sd-model-organizer",
+            "github_description": "model organizer extension for stablediffusion-web-ui",
+            "stars": 28,
+            "default_branch": "main",
+            "created_at": "2023-04-09T11:29:30Z",
+            "default_branch_commit_sha": "dae3299b2cb902873db78615b76bf28d4cfbd4e0",
+            "commit_time": "2023-06-24T14:03:50Z"
+        },
+        {
+            "name": "Model Preset Manager",
+            "url": "https://github.com/rifeWithKaiju/model_preset_manager.git",
+            "description": "Lets you create and apply presets per model for all generation data (e.g. prompt, negative prompt, cfg_scale, resolution, sampler, clip skip, steps, etc). Also automatically fetches model trigger words and thumbnails from Civitai.",
+            "added": "2023-05-15",
+            "tags": [
+                "online",
+                "prompting",
+                "tab"
+            ],
+            "full_name": "rifeWithKaiju/model_preset_manager",
+            "github_description": null,
+            "stars": 68,
+            "default_branch": "main",
+            "created_at": "2023-05-14T18:53:50Z",
+            "default_branch_commit_sha": "4e25eebd4b24fb903d2815ac30b787f37a98923c",
+            "commit_time": "2023-05-30T15:07:37Z"
+        },
+        {
+            "name": "Stable Diffusion Webui Civitai Helper",
+            "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git",
+            "description": "Download or populate models with metadata and preview image from civitai.com",
+            "added": "2023-05-16",
+            "tags": [
+                "tab",
+                "UI related",
+                "online"
+            ],
+            "full_name": "butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+            "github_description": "Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.",
+            "stars": 1709,
+            "default_branch": "main",
+            "created_at": "2023-03-07T07:46:13Z",
+            "default_branch_commit_sha": "920ca3267f789a72e3225c99f069bf0be0db795d",
+            "commit_time": "2023-05-23T11:53:22Z"
+        },
+        {
+            "name": "SD-CN-Animation",
+            "url": "https://github.com/volotat/SD-CN-Animation.git",
+            "description": "Allows users to create video2video and text2video animations using any SD models as a backbone. Please, make sure that 'sd-webui-controlnet' extension is also installed.",
+            "added": "2023-05-06",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "full_name": "volotat/SD-CN-Animation",
+            "github_description": "This script allows to automate video stylization task using StableDiffusion and ControlNet.",
+            "stars": 630,
+            "default_branch": "main",
+            "created_at": "2023-03-17T13:35:21Z",
+            "default_branch_commit_sha": "2e257bbfc3b76fb1323f7b22f820981c1b9f56b2",
+            "commit_time": "2023-05-30T16:49:03Z"
+        },
+        {
+            "name": "Model toolkit",
+            "url": "https://github.com/arenasys/stable-diffusion-webui-model-toolkit.git",
+            "description": "A Multipurpose toolkit for pruning, editing and fixing models.",
+            "added": "2023-05-10",
+            "tags": [
+                "tab",
+                "models"
+            ],
+            "full_name": "arenasys/stable-diffusion-webui-model-toolkit",
+            "github_description": "A Multipurpose toolkit for managing, editing and creating models.",
+            "stars": 361,
+            "default_branch": "master",
+            "created_at": "2023-01-05T05:29:13Z",
+            "default_branch_commit_sha": "4d8fea77dba5643439691c1c6b003db4d330ff0b",
+            "commit_time": "2023-05-14T09:09:42Z"
+        },
+        {
+            "name": "sd-webui-prompt-all-in-one",
+            "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
+            "description": "Improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface that offers features such as automatic translation, history records, and favorites.",
+            "added": "2023-05-08",
+            "tags": [
+                "UI related",
+                "prompting",
+                "online"
+            ],
+            "full_name": "Physton/sd-webui-prompt-all-in-one",
+            "github_description": "This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    \u8fd9\u662f\u4e00\u4e2a\u57fa\u4e8e sd-webui \u7684\u6269\u5c55\uff0c\u65e8\u5728\u63d0\u9ad8\u63d0\u793a\u8bcd/\u53cd\u5411\u63d0\u793a\u8bcd\u8f93\u5165\u6846\u7684\u4f7f\u7528\u4f53\u9a8c\u3002\u5b83\u62e5\u6709\u66f4\u76f4\u89c2\u3001\u5f3a\u5927\u7684\u8f93\u5165\u754c\u9762\u529f\u80fd\uff0c\u5b83\u63d0\u4f9b\u4e86\u81ea\u52a8\u7ffb\u8bd1\u3001\u5386\u53f2\u8bb0\u5f55\u548c\u6536\u85cf\u7b49\u529f\u80fd\u3002",
+            "stars": 1183,
+            "default_branch": "main",
+            "created_at": "2023-05-08T12:23:21Z",
+            "default_branch_commit_sha": "a46e7f24a9aa4817a6fe81647aa2c85be096f72b",
+            "commit_time": "2023-07-15T00:56:50Z"
+        },
+        {
+            "name": "sd-model-preview-xd",
+            "url": "https://github.com/CurtisDS/sd-model-preview-xd",
+            "description": "Adds model, LoRA and embedding previews to the UI including preview images, descriptions and LoRA prompt lists.",
+            "added": "2023-05-12",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "full_name": "CurtisDS/sd-model-preview-xd",
+            "github_description": "Displays preview files for models.",
+            "stars": 50,
+            "default_branch": "main",
+            "created_at": "2023-01-23T07:31:00Z",
+            "default_branch_commit_sha": "3ed39cd0f6c20f4212e29141501e710ef91383af",
+            "commit_time": "2023-05-23T00:52:25Z"
+        },
+        {
+            "name": "!After Detailer",
+            "url": "https://github.com/Bing-su/adetailer.git",
+            "description": "Automatic detection, masking and inpainting tool for details",
+            "added": "2023-05-12",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "Bing-su/adetailer",
+            "github_description": "Auto detecting, masking and inpainting with detection model.",
+            "stars": 1493,
+            "default_branch": "main",
+            "created_at": "2023-04-26T07:54:51Z",
+            "default_branch_commit_sha": "e881a654e28053d0b57e598735bfd0dcb417aad0",
+            "commit_time": "2023-07-07T09:50:15Z"
+        },
+        {
+            "name": "Weight Gradient",
+            "url": "https://github.com/DingoBite/weight_gradient",
+            "description": "Allows you to dynamically change the weights of tokens during generation. Useful in morphing.",
+            "added": "2023-05-11",
+            "tags": [
+                "prompting"
+            ],
+            "full_name": "DingoBite/weight_gradient",
+            "github_description": null,
+            "stars": 11,
+            "default_branch": "master",
+            "created_at": "2023-04-24T17:25:11Z",
+            "default_branch_commit_sha": "41bf7337d09ac774fa4e054ae33cc7c540b1fb4c",
+            "commit_time": "2023-05-21T01:06:18Z"
+        },
+        {
+            "name": "One Button Prompt",
+            "url": "https://github.com/AIrjen/OneButtonPrompt",
+            "description": "One Button Prompt is a script for beginners and advanced users that generates an entire prompt from scratch. It is random, but controlled. You simply load up the script and press generate, and let it inspire you.",
+            "added": "2023-05-14",
+            "tags": [
+                "script",
+                "prompting"
+            ],
+            "full_name": "AIrjen/OneButtonPrompt",
+            "github_description": "One Button Prompt",
+            "stars": 305,
+            "default_branch": "main",
+            "created_at": "2023-04-08T15:16:25Z",
+            "default_branch_commit_sha": "4d817fbff67da266b3acd43453a70d3e23393972",
+            "commit_time": "2023-07-09T18:52:07Z"
+        },
+        {
+            "name": "Miaoshouai Assistant",
+            "url": "https://github.com/miaoshouai/miaoshouai-assistant.git",
+            "description": "Miaoshouai Assistant allows you to enhance your automatic1111 webui user experience, including updating boot settings, freeup vram, managing and downloading your models from civitai.com and liandange.com, generate prompts from chatgpt all through a single tab.",
+            "added": "2023-05-18",
+            "tags": [
+                "tab",
+                "models",
+                "UI related",
+                "online"
+            ],
+            "full_name": "miaoshouai/miaoshouai-assistant",
+            "github_description": "MiaoshouAI Assistant for Automatic1111 Webui",
+            "stars": 152,
+            "default_branch": "main",
+            "created_at": "2023-03-16T05:44:50Z",
+            "default_branch_commit_sha": "564a7c39fb5e271e22bf01a77206d8324f6c639f",
+            "commit_time": "2023-07-12T00:49:40Z"
+        },
+        {
+            "name": "miniPaint",
+            "url": "https://github.com/0Tick/a1111-mini-paint",
+            "description": "The miniPaint extension allows for better image editing capabilites. Edit images simply direct inside the webui!",
+            "added": "2023-05-16",
+            "tags": [
+                "tab",
+                "editing"
+            ],
+            "full_name": "0Tick/a1111-mini-paint",
+            "github_description": "Image editor for the AUTOMATIC1111 stable-diffusion-webui",
+            "stars": 67,
+            "default_branch": "main",
+            "created_at": "2023-05-16T20:45:42Z",
+            "default_branch_commit_sha": "8545c9cdd1f142424e714fad02e03a0f087c55db",
+            "commit_time": "2023-06-12T14:04:04Z"
+        },
+        {
+            "name": "StableSR",
+            "url": "https://github.com/pkuliyi2015/sd-webui-stablesr.git",
+            "description": "WebUI extension for StableSR - a powerful upscaler for both realistic and anime images",
+            "added": "2023-05-22",
+            "tags": [
+                "manipulations"
+            ],
+            "full_name": "pkuliyi2015/sd-webui-stablesr",
+            "github_description": "StableSR for Stable Diffusion WebUI - Ultra High-quality Image Upscaler",
+            "stars": 571,
+            "default_branch": "master",
+            "created_at": "2023-05-20T11:49:37Z",
+            "default_branch_commit_sha": "4499d79649e54ca27b196e8e55a65d2a64a1b75c",
+            "commit_time": "2023-07-01T16:38:32Z"
+        },
+        {
+            "name": "Web UI client queue",
+            "url": "https://github.com/Kryptortio/SDAtom-WebUi-client-queue-ext.git",
+            "description": "Adds a queue function to the web ui that processes a set of settings one or more times, it can then load a different set of settings and so on.",
+            "added": "2023-05-23",
+            "tags": [
+                "script",
+                "UI related",
+                "prompting"
+            ],
+            "full_name": "Kryptortio/SDAtom-WebUi-client-queue-ext",
+            "github_description": "Queue extension for AUTOMATIC1111/stable-diffusion-webui",
+            "stars": 37,
+            "default_branch": "master",
+            "created_at": "2023-02-25T11:53:03Z",
+            "default_branch_commit_sha": "9cf161b22edb81f40b86fd1ee9cf929f02e032c2",
+            "commit_time": "2023-06-01T17:40:55Z"
+        },
+        {
+            "name": "Distributed",
+            "url": "https://github.com/papuSpartan/stable-diffusion-webui-distributed.git",
+            "description": "Generate batches more quickly by chaining together separate webui instances",
+            "added": "2023-05-23",
+            "tags": [
+                "script"
+            ],
+            "full_name": "papuSpartan/stable-diffusion-webui-distributed",
+            "github_description": "Chains stable-diffusion-webui instances together to facilitate faster image generation.",
+            "stars": 77,
+            "default_branch": "master",
+            "created_at": "2023-03-06T02:01:42Z",
+            "default_branch_commit_sha": "2251f613f68bac4c60895821bc55278fb4ce0d54",
+            "commit_time": "2023-06-29T00:35:10Z"
+        },
+        {
+            "name": "StableStudio Adapter",
+            "url": "https://github.com/jtydhr88/sd-webui-StableStudio.git",
+            "description": "A custom extension for webui to extend rest APIs to do some local operations, using in StableStudio.",
+            "added": "2023-05-24",
+            "tags": [
+                "script"
+            ],
+            "full_name": "jtydhr88/sd-webui-StableStudio",
+            "github_description": "A custom extension for AUTOMATIC1111/stable-diffusion-webui to extend rest APIs to do some local operations, using in StableStudio.",
+            "stars": 30,
+            "default_branch": "master",
+            "created_at": "2023-05-21T17:22:23Z",
+            "default_branch_commit_sha": "c6b302512af27c1bdfb1443ea7b30ba039e2bcd5",
+            "commit_time": "2023-05-24T16:51:42Z"
+        },
+        {
+            "name": "Quick Tab Switch",
+            "url": "https://github.com/AJpon/a1111-sd-webui-quickswitch.git",
+            "description": "Simple tab switcher for Stable Diffusion WebUI. From now on, no matter how many tabs you add, no more finding for them by yourself!",
+            "added": "2023-05-26",
+            "tags": [
+                "script",
+                "UI related"
+            ],
+            "full_name": "AJpon/a1111-sd-webui-quickswitch",
+            "github_description": "tab switcher for Stable Diffusion WebUI",
+            "stars": 8,
+            "default_branch": "master",
+            "created_at": "2023-05-13T22:28:36Z",
+            "default_branch_commit_sha": "d25f57b2083fa3e04fb21b6c2e322e4adbf591f6",
+            "commit_time": "2023-05-30T23:23:23Z"
+        },
+        {
+            "name": "Lua",
+            "url": "https://github.com/yownas/sd-webui-lua.git",
+            "description": "Generate images with Lua scripts in Stable Diffusion webui.",
+            "added": "2023-05-29",
+            "tags": [
+                "tab",
+                "science"
+            ],
+            "full_name": "yownas/sd-webui-lua",
+            "github_description": "Generate images with Lua in Stable Diffusion webui",
+            "stars": 27,
+            "default_branch": "main",
+            "created_at": "2023-04-21T19:08:39Z",
+            "default_branch_commit_sha": "549d200a05d40084a904c3f9efcb4f3ced96e11b",
+            "commit_time": "2023-06-30T18:01:50Z"
+        },
+        {
+            "name": "Model Downloader",
+            "url": "https://github.com/Iyashinouta/sd-model-downloader.git",
+            "description": "Alternative tool for Downloading Models, Recommended for Cloud users.",
+            "added": "2023-06-05",
+            "tags": [
+                "tab",
+                "script",
+                "online"
+            ],
+            "full_name": "Iyashinouta/sd-model-downloader",
+            "github_description": "SD Web UI Extension to Download Model from URL",
+            "stars": 19,
+            "default_branch": "main",
+            "created_at": "2023-02-28T14:43:20Z",
+            "default_branch_commit_sha": "2e9b31962ffb8b7c36b3bd3651644e5a03ecf648",
+            "commit_time": "2023-06-22T14:55:28Z"
+        },
+        {
+            "name": "Styles Editor",
+            "url": "https://github.com/chrisgoringe/Styles-Editor.git",
+            "description": "Adds a spreadsheet-style editor for saved styles, with support for filtering, search and replace, and subdividing styles into multiple files",
+            "added": "2023-06-06",
+            "tags": [
+                "tab",
+                "UI related",
+                "prompting"
+            ],
+            "full_name": "chrisgoringe/Styles-Editor",
+            "github_description": "Simple editor for styles in Automatic1111",
+            "stars": 36,
+            "default_branch": "main",
+            "created_at": "2023-05-28T11:19:38Z",
+            "default_branch_commit_sha": "9ccc1817f16f75ab46045329db233361df784059",
+            "commit_time": "2023-07-12T10:46:49Z"
+        },
+        {
+            "name": "Clip I/O",
+            "url": "https://github.com/Filexor/Clip_IO.git",
+            "description": "The extension allows you to investigate embeddings/conditioning and feed conditioning to Stable Diffusion.",
+            "added": "2023-06-06",
+            "tags": [
+                "script",
+                "tab",
+                "science"
+            ],
+            "full_name": "Filexor/Clip_IO",
+            "github_description": "Clip I/O extension for Stable Diffusion Web UI",
+            "stars": 12,
+            "default_branch": "main",
+            "created_at": "2023-04-23T12:48:27Z",
+            "default_branch_commit_sha": "a16feffde54d231ba27849366c500a45de309b66",
+            "commit_time": "2023-06-28T02:56:32Z"
+        },
+        {
+            "name": "Inpaint Anything",
+            "url": "https://github.com/Uminosachi/sd-webui-inpaint-anything.git",
+            "description": "The Inpaint Anything extension performs SD inpainting, cleaner, ControlNet inpaint, and sending a mask to img2img, using a mask selected from the segmentation output of Segment Anything.",
+            "added": "2023-06-09",
+            "tags": [
+                "tab",
+                "editing",
+                "manipulations"
+            ],
+            "full_name": "Uminosachi/sd-webui-inpaint-anything",
+            "github_description": "Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything.",
+            "stars": 367,
+            "default_branch": "main",
+            "created_at": "2023-04-16T01:46:03Z",
+            "default_branch_commit_sha": "a8ecb564db0b3b07e9dab5160c9c3207cb339a40",
+            "commit_time": "2023-07-15T01:16:36Z"
+        },
+        {
+            "name": "QR Code Generator",
+            "url": "https://github.com/missionfloyd/webui-qrcode-generator.git",
+            "description": "Create QR Codes for ControlNet.",
+            "added": "2023-06-08",
+            "tags": [
+                "script",
+                "tab"
+            ],
+            "full_name": "missionfloyd/webui-qrcode-generator",
+            "github_description": null,
+            "stars": 24,
+            "default_branch": "master",
+            "created_at": "2023-06-07T03:41:46Z",
+            "default_branch_commit_sha": "0a09d2f3d36c199ef3b2cf4e1babc5217be50b80",
+            "commit_time": "2023-06-23T09:13:22Z"
+        },
+        {
+            "name": "sd-webui-roop",
+            "url": "https://github.com/s0md3v/sd-webui-roop",
+            "description": "Enable face swapping with reference image.",
+            "added": "2023-06-09",
+            "tags": [
+                "editing",
+                "manipulations"
+            ],
+            "full_name": "s0md3v/sd-webui-roop",
+            "github_description": "roop extension for StableDiffusion web-ui",
+            "stars": 1541,
+            "default_branch": "main",
+            "created_at": "2023-06-17T22:53:22Z",
+            "default_branch_commit_sha": "e6333fbe5a0f3e6a515852388151f1db2315c45d",
+            "commit_time": "2023-07-07T09:22:59Z"
+        },
+        {
+            "name": "sd-webui-color-enhance",
+            "url": "https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git",
+            "description": "Enhance image colors using GIMP/GEGL \"Color Enhance\" algorithm.",
+            "added": "2023-06-10",
+            "tags": [
+                "editing",
+                "extras"
+            ]
+        },
+        {
+            "name": "sd-webui-bluescape",
+            "url": "https://github.com/Bluescape/sd-webui-bluescape",
+            "description": "Upload generated images to a Bluescape workspace for review and collaboration.",
+            "added": "2023-06-13",
+            "tags": [
+                "tab",
+                "online"
+            ],
+            "full_name": "Bluescape/sd-webui-bluescape",
+            "github_description": null,
+            "stars": 20,
+            "default_branch": "main",
+            "created_at": "2023-06-01T22:38:11Z",
+            "default_branch_commit_sha": "05716f82d8f1b5d9f0a641084d82dc8201610f90",
+            "commit_time": "2023-07-13T16:49:07Z"
+        },
+        {
+            "name": "sd-webui-prompt_history",
+            "url": "https://github.com/namkazt/sd-webui-prompt-history",
+            "description": "Automatic store your generation info with image and apply back anytime.",
+            "added": "2023-06-14",
+            "tags": [
+                "UI related",
+                "tab"
+            ],
+            "full_name": "namkazt/sd-webui-prompt-history",
+            "github_description": "Automatic store your generation info with image and apply back anytime.",
+            "stars": 26,
+            "default_branch": "main",
+            "created_at": "2023-06-14T18:06:33Z",
+            "default_branch_commit_sha": "bba82663e24b1e9d3e43171749af3109dfb8100f",
+            "commit_time": "2023-07-15T05:30:55Z"
+        },
+        {
+            "name": "Danbooru Prompt",
+            "url": "https://github.com/EnsignMK/danbooru-prompt.git",
+            "description": "Fetch tags from Danbooru images link",
+            "tags": [
+                "online"
+            ],
+            "added": "2023-06-25",
+            "full_name": "EnsignMK/danbooru-prompt",
+            "github_description": "An extension for Automatic1111 Stable Diffusion Web UI",
+            "stars": 3,
+            "default_branch": "main",
+            "created_at": "2023-06-24T18:04:27Z",
+            "default_branch_commit_sha": "8cd21621f9a45f1a68c7c173616ede6bfc7757bd",
+            "commit_time": "2023-07-07T21:10:19Z"
+        },
+        {
+            "name": "Pixel art",
+            "url": "https://github.com/mrreplicart/sd-webui-pixelart.git",
+            "description": "Extension that provides basic functionality for pixel art: downscaling, palette limiting, grayscale, black&white, ability to change image colors with custom color palette",
+            "tags": [
+                "script",
+                "editing",
+                "extras"
+            ],
+            "added": "2023-06-28",
+            "full_name": "mrreplicart/sd-webui-pixelart",
+            "github_description": "Pixel art postprocessing extension for stable diffusion AUTOMATIC1111 webui",
+            "stars": 23,
+            "default_branch": "master",
+            "created_at": "2023-06-28T09:05:53Z",
+            "default_branch_commit_sha": "23c7de46a077cb1d630733c82f1df3d5bee4da11",
+            "commit_time": "2023-06-28T09:45:44Z"
+        },
+        {
+            "name": "Lobe Theme",
+            "url": "https://github.com/canisminor1990/sd-webui-lobe-theme.git",
+            "description": "The modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme.",
+            "added": "2023-06-28",
+            "tags": [
+                "UI related",
+                "online"
+            ],
+            "full_name": "canisminor1990/sd-webui-lobe-theme",
+            "github_description": "\ud83e\udd2f Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme",
+            "stars": 942,
+            "default_branch": "main",
+            "created_at": "2023-02-25T06:41:18Z",
+            "default_branch_commit_sha": "d4c4a48e8025d32b202716d4ab8d806580752256",
+            "commit_time": "2023-07-10T13:13:25Z"
+        },
+        {
+            "name": "Kitchen Theme",
+            "url": "https://github.com/canisminor1990/sd-webui-kitchen-theme-legacy.git",
+            "description": "Custom Theme.",
+            "added": "2023-02-28",
+            "tags": [
+                "UI related",
+                "online"
+            ],
+            "full_name": "canisminor1990/sd-webui-kitchen-theme-legacy",
+            "github_description": "[Legacy] \ud83e\uddff Kitchen theme for stable diffusion webui\uff0cKitchen Theme has moved into maintenance mode!  Recommend using Lobe Theme for more custom features",
+            "stars": 10,
+            "default_branch": "main",
+            "created_at": "2023-06-27T16:44:35Z",
+            "default_branch_commit_sha": "88681b22cc823c5e883b76b7ef82cb10feafe385",
+            "commit_time": "2023-06-27T17:17:12Z"
+        },
+        {
+            "name": "IF_prompt_MKR",
+            "url": "https://github.com/if-ai/IF_prompt_MKR.git",
+            "description": "Creates prompts using a local LlMs via Oobabooga text webUI API",
+            "tags": [
+                "script",
+                "prompting"
+            ],
+            "added": "2023-06-30",
+            "full_name": "if-ai/IF_prompt_MKR",
+            "github_description": "An A1111 extension to let the AI make prompts for SD using Oobabooga",
+            "stars": 13,
+            "default_branch": "main",
+            "created_at": "2023-06-05T07:47:20Z",
+            "default_branch_commit_sha": "219ce5b79b4a903f46cab8df11a364bab2b6b4e7",
+            "commit_time": "2023-07-12T14:21:32Z"
+        },
+        {
+            "name": "3D Editor",
+            "url": "https://github.com/jtydhr88/sd-webui-3d-editor.git",
+            "description": "3D modeling features (add/edit basic elements, load your custom model, modify scene and so on), then send screenshot to txt2img or img2img as your ControlNet's reference image, basing on ThreeJS editor.",
+            "tags": [
+                "tab"
+            ],
+            "added": "2023-06-30",
+            "full_name": "jtydhr88/sd-webui-3d-editor",
+            "github_description": "A custom extension for sd-webui that with 3D modeling features (add/edit basic elements, load your custom model, modify scene and so on), then send screenshot to txt2img or img2img as your ControlNet's reference image, basing on ThreeJS editor",
+            "stars": 81,
+            "default_branch": "master",
+            "created_at": "2023-06-30T00:17:21Z",
+            "default_branch_commit_sha": "687adb0b401b8c679404c8e3e68888ed57446cb5",
+            "commit_time": "2023-07-06T02:27:16Z"
+        },
+        {
+            "name": "Aspect Ratio selector plus",
+            "url": "https://github.com/LEv145/--sd-webui-ar-plus",
+            "description": "Fork of Aspect Ratio selector with new features and logic for aspect ratio",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2023-06-30",
+            "full_name": "LEv145/--sd-webui-ar-plus",
+            "github_description": "Select img aspect ratio from presets in sd-webui",
+            "stars": 8,
+            "default_branch": "main",
+            "created_at": "2023-06-29T16:37:47Z",
+            "default_branch_commit_sha": "c90c2fd7e815fdff20af584900eb0557efcafb3e",
+            "commit_time": "2023-07-13T12:42:07Z"
+        },
+        {
+            "name": "SD Delete Button",
+            "url": "https://github.com/AlUlkesh/sd_delete_button.git",
+            "description": "Add a delete button for txt2img and img2img using Send2Trash",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2023-06-30",
+            "full_name": "AlUlkesh/sd_delete_button",
+            "github_description": "Add a delete button for Automatic1111 txt2img and img2img",
+            "stars": 21,
+            "default_branch": "main",
+            "created_at": "2023-03-11T22:54:48Z",
+            "default_branch_commit_sha": "fe1f032603982c03042fe2a758fe65066b9d1242",
+            "commit_time": "2023-03-14T11:01:45Z"
+        },
+        {
+            "name": "sd-webui-qrcode-toolkit",
+            "url": "https://github.com/antfu/sd-webui-qrcode-toolkit.git",
+            "description": "Integration with Anthony's QR Toolkit for easy QR Code generation and verification.",
+            "added": "2023-07-02",
+            "tags": [
+                "tab",
+                "editing",
+                "online"
+            ],
+            "full_name": "antfu/sd-webui-qrcode-toolkit",
+            "github_description": "Anthony's QR Toolkit for Stable Diffusion WebUI",
+            "stars": 320,
+            "default_branch": "main",
+            "created_at": "2023-07-02T00:12:37Z",
+            "default_branch_commit_sha": "ce75e181e6a5df1bb05992c4872ac606888d77be",
+            "commit_time": "2023-07-04T17:17:49Z"
+        },
+        {
+            "name": "SadTalker",
+            "url": "https://github.com/OpenTalker/SadTalker.git",
+            "description": "Generating talking head videos with facial image and speech audio",
+            "tags": [
+                "tab",
+                "animation"
+            ],
+            "added": "2023-07-07",
+            "full_name": "OpenTalker/SadTalker",
+            "github_description": "[CVPR 2023] SadTalker\uff1aLearning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "stars": 5248,
+            "default_branch": "main",
+            "created_at": "2022-11-23T02:18:18Z",
+            "default_branch_commit_sha": "ae0b26359d44c9379450a8e02a38b45eeec15549",
+            "commit_time": "2023-07-03T05:48:35Z"
+        },
+        {
+            "name": "Auto-Photoshop-StableDiffusion-Plugin",
+            "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin.git",
+            "description": "Adds API routes for Auto-Photoshop-StableDiffusion-Plugin",
+            "tags": [
+                "script"
+            ],
+            "added": "2023-07-07",
+            "full_name": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+            "github_description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. ",
+            "stars": 4773,
+            "default_branch": "master",
+            "created_at": "2022-12-20T20:09:54Z",
+            "default_branch_commit_sha": "098579218405b3b8ef509523dbf9fb80687942d1",
+            "commit_time": "2023-07-02T00:05:15Z"
+        },
+        {
+            "name": "Civitai Shortcut",
+            "url": "https://github.com/sunnyark/civitai-shortcut.git",
+            "description": "This extension allows you to register the models available on civitai as favorites (shortcuts) in sdui, and then you can download the models using the registered shortcuts when needed.",
+            "tags": [
+                "models",
+                "extras"
+            ],
+            "added": "2023-07-08",
+            "full_name": "sunnyark/civitai-shortcut",
+            "github_description": null,
+            "stars": 71,
+            "default_branch": "main",
+            "created_at": "2023-03-27T13:58:05Z",
+            "default_branch_commit_sha": "bc03405d61e953a9b97fb498d1e742d011310932",
+            "commit_time": "2023-07-14T08:45:38Z"
+        },
+        {
+            "name": "WD 1.4 Tagger",
+            "url": "https://github.com/picobyte/stable-diffusion-webui-wd14-tagger.git",
+            "description": "Interrogates single or multiple image files using various alternative models, similar to deepdanbooru interrogate.",
+            "added": "2022-11-20",
+            "tags": [
+                "tab",
+                "training"
+            ],
+            "full_name": "picobyte/stable-diffusion-webui-wd14-tagger",
+            "github_description": "Labeling extension for Automatic1111's Web UI",
+            "stars": 3,
+            "default_branch": "master",
+            "created_at": "2023-06-04T15:33:34Z",
+            "default_branch_commit_sha": "a1b59d66ca84f2539907b0fd1919c7b3aaa305e3",
+            "commit_time": "2023-07-09T20:41:00Z"
+        },
+        {
+            "name": "Loopback Scaler",
+            "url": "https://github.com/Elldreth/loopback_scaler.git",
+            "description": "Iteratively improves image quality and detail via user-controlled, gradual resolution increments.",
+            "tags": [
+                "script",
+                "manipulations"
+            ],
+            "added": "2023-07-11",
+            "full_name": "Elldreth/loopback_scaler",
+            "github_description": "Automatic1111 python script to enhance image quality",
+            "stars": 130,
+            "default_branch": "main",
+            "created_at": "2023-03-23T06:34:27Z",
+            "default_branch_commit_sha": "184a53e6d22579c578c6ee1bf55d821479213c49",
+            "commit_time": "2023-06-23T21:42:22Z"
+        },
+        {
+            "name": "Mask2Background",
+            "url": "https://github.com/limithit/Mask2Background.git",
+            "description": "Take a png image, generate a background and mask, then send it to img2img to generate a new backgrou",
+            "tags": [
+                "tab"
+            ],
+            "added": "2023-07-11",
+            "full_name": "limithit/Mask2Background",
+            "github_description": "Mask2Background for Stable Diffusion Web UI",
+            "stars": 5,
+            "default_branch": "main",
+            "created_at": "2023-07-11T06:56:21Z",
+            "default_branch_commit_sha": "47a574c6abdf9b7872f9bc4be37614f1efa3079a",
+            "commit_time": "2023-07-15T02:33:28Z"
+        },
+        {
+            "name": "ComfyUI Tab",
+            "url": "https://github.com/ModelSurge/sd-webui-comfyui.git",
+            "description": "Embed ComfyUI in its own tab for convenience",
+            "tags": [
+                "script",
+                "tab",
+                "UI related"
+            ],
+            "added": "2023-07-14",
+            "full_name": "ModelSurge/sd-webui-comfyui",
+            "github_description": "A1111 extension to embed ComfyUI in its own tab",
+            "stars": 117,
+            "default_branch": "main",
+            "created_at": "2023-03-19T10:13:42Z",
+            "default_branch_commit_sha": "dd18189c180fe9f917cb32b0ed7e0e08be821b89",
+            "commit_time": "2023-07-15T01:01:13Z"
+        },
+        {
+            "name": "GPU temperature protection",
+            "url": "https://github.com/w-e-w/stable-diffusion-webui-GPU-temperature-protection.git",
+            "description": "Pause image generation when GPU is to hot",
+            "tags": [
+                "script"
+            ],
+            "added": "2023-07-14",
+            "full_name": "w-e-w/stable-diffusion-webui-GPU-temperature-protection",
+            "github_description": "Pause image generation when GPU temperature exceeds threshold",
+            "stars": 1,
+            "default_branch": "main",
+            "created_at": "2023-07-14T12:20:09Z",
+            "default_branch_commit_sha": "81b566800aa22e4e1b8530b4ad6d01b45b981029",
+            "commit_time": "2023-07-14T12:20:09Z"
+        },
+        {
+            "name": "zoom-image",
+            "url": "https://github.com/viyiviyi/stable-diffusion-webui-zoomimage.git",
+            "description": "Pan and Zoom for fullscreen image viewer with mouse and gesture.",
+            "tags": [
+                "script"
+            ],
+            "added": "2023-07-15",
+            "full_name": "viyiviyi/stable-diffusion-webui-zoomimage",
+            "github_description": "\u7ed9\u67e5\u770b\u56fe\u7247\u7684\u7a97\u53e3\u589e\u52a0\u4e86\u9f20\u6807\u6216\u624b\u52bf\u7f29\u653e\u548c\u62d6\u52a8\u67e5\u770b\u7684\u529f\u80fd",
+            "stars": 0,
+            "default_branch": "main",
+            "created_at": "2023-07-14T23:30:37Z",
+            "default_branch_commit_sha": "0a08dd167d5edb20b33dc0eda58e8b5a21411da8",
+            "commit_time": "2023-07-15T01:33:00Z"
+        },
+        {
+            "name": "Shutdown button",
+            "url": "https://github.com/EnsignMK/sd_shutdown_button.git",
+            "description": "Adds a button in quick settings for killing webui",
+            "tags": [
+                "script",
+                "UI related"
+            ],
+            "added": "2023-07-15"
+        },
+        {
+            "name": "Latent Upscale",
+            "url": "https://github.com/feynlee/latent-upscale.git",
+            "description": "Provides more options for latent upscale in img2img, surpassing those offered by Hires Fix for the txt2img process.",
+            "tags": [
+                "script"
+            ],
+            "added": "2023-07-15"
+        }
+    ]
+}
