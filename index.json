@@ -3220,6 +3220,15 @@
                 "UI related"
             ],
             "added": "2023-07-14"
+        },
+        {
+            "name": "GPU temperature protection",
+            "url": "https://github.com/w-e-w/stable-diffusion-webui-GPU-temperature-protection.git",
+            "description": "Pause image generation when GPU is to hot",
+            "tags": [
+                "script"
+            ],
+            "added": "2023-07-14"
         }
     ]
 }
