@@ -1,7 +1,7 @@
 {
-    "name": "Extension Name",
-    "url": "https://github.com/<OWNER>/<REPO>.git",
-    "description": "Extension description",
+    "name": "Extension_Name",
+    "url": "https://github.com/OWNER/REPO.git",
+    "description": "Extension_Description",
     "tags": [
         "script",
         "localization",

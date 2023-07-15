@@ -29,6 +29,7 @@ jobs:
         - name: Checkout master
           uses: actions/checkout@v3
           with:
+            fetch-depth: 2
             ref: 'master'
             path: master
 
@@ -40,21 +41,28 @@ jobs:
         - name: Build index
           run: python -B extensions/.github/scripts/build_index.py --build-branch extensions --deploy-branch master
 
-        - name: Get last commit message
-          id: last-commit-message
+        - name: Get last commit message - extensions
+          id: last-commit-message-extensions
           run: echo "msg=$(git -C extensions log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+
+        - name: Get last commit message - master
+          id: last-commit-message-master
+          run: echo "msg=$(git -C master log -1 --pretty=%s)" >> $GITHUB_OUTPUT
 
         - name: Commit - master
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
-            commit_message: ${{ steps.last-commit-message.outputs.msg }}
+            commit_message: ${{ steps.last-commit-message-master.outputs.msg }}
+            commit_options: '--amend --no-edit'
             file_pattern: '*.json'
+            push_options: '--force'
+            skip_fetch: true
             repository: master
 
         - name: Commit - extensions
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
-            commit_message: ${{ steps.last-commit-message.outputs.msg }}
+            commit_message: ${{ steps.last-commit-message-extensions.outputs.msg }}
             commit_options: '--amend --no-edit'
             file_pattern: '*.json'
             push_options: '--force'

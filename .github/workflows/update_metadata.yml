@@ -33,10 +33,14 @@ jobs:
 
         - name: Update extension metadata
           run: python -B extensions/.github/scripts/update_metadata.py --max-thread 20 --github-token ${{ secrets.GITHUB_TOKEN }} --deploy-branch master
+        
+        - name: Get current date
+          id: current-date
+          run: echo "date=$(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
         - name: Commit - master
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
-            commit_message: Update metadata
+            commit_message: Update metadata ${{ steps.current-date.outputs.date }}
             file_pattern: '*.json'
             repository: master
