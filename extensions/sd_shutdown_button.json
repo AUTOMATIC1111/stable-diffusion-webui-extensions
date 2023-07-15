@@ -1,0 +1,10 @@
+{
+    "name": "Shutdown button",
+    "url": "https://github.com/EnsignMK/sd_shutdown_button.git",
+    "description": "Adds a button in quick settings for killing webui",
+    "tags": [
+        "script",
+        "UI related"
+    ],
+    "added": "2023-07-15"
+}
