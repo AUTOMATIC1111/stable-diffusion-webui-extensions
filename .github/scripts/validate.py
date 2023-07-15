@@ -63,12 +63,15 @@ def validate_extension_entrys(ext_dir: Path):
     counts = Counter(urls)
     duplicates = [element for element, count in counts.items() if count > 1]
     assert len(duplicates) == 0, f'duplicate extension: {duplicates}'
+    print(counts)
 
 
 if __name__ == "__main__":
-    with open(Path('tags.json'), 'r') as f:
+    base_dir = Path(__file__).parent.parent.parent
+
+    with open(base_dir.joinpath('tags.json'), 'r') as f:
         tags_keys = json.load(f).keys()
 
-    validate_extension_entrys(Path('extensions'))
+    validate_extension_entrys(base_dir.joinpath('extensions'))
 
-    validate_index(Path('index.json'))
+    validate_index(base_dir.joinpath('index.json'))

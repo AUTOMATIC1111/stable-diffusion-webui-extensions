@@ -1,0 +1,26 @@
+name: Warning wrong file
+
+"on":
+  push:
+    branches-ignore:
+      - master
+      - extensions
+    paths-ignore:
+      - 'extensions/**.json'
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+    paths-ignore:
+      - 'extensions/**.json'
+
+jobs:
+  wrong-file:
+    runs-on: ubuntu-latest
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
+    steps:
+      - name: Warning wrong file
+        run: |
+          echo -e "::warning::You are probably doing something wrong\n::warning::Extension entries goes into \"extensions\" directory and must be in json format\n::warning::Don't modify or Add other files unless there's a special reason"
+          exit 1

@@ -102,4 +102,4 @@ if __name__ == "__main__":
     validate.validate_index(deploy_index_path)
 
     assert len(extension_index_ext["extensions"]) == len(extension_index_master["extensions"]), f'entry count mismatch: {len(extension_index_ext["extensions"])} {len(extension_index_master["extensions"])}'
-    print(f'{len(tags)} tags, {len(extension_index_ext["extensions"])} extensions')    
+    print(f'::notice::{len(tags)} tags, {len(extension_index_ext["extensions"])} extensions')    
