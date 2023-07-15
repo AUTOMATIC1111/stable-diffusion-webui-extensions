@@ -1,0 +1,8 @@
+{
+    "name": "zoom-image",
+    "url": "https://github.com/viyiviyi/stable-diffusion-webui-zoomimage.git",
+    "description": "Pan and Zoom for fullscreen image viewer with mouse and gesture.",
+    "tags": [
+        "script"
+    ]
+}
