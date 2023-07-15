@@ -4,6 +4,7 @@
     "description": "Extension for an improved UI/UX. Find your cozy spot on Auto1111's webui!.",
     "added": "2023-05-02",
     "tags": [
-        "UI related"
+        "UI related",
+        "online"
     ]
 }
