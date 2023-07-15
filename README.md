@@ -6,7 +6,9 @@
 
 If you wish to add an extension to the index, make an entry in `extensions directory` using `extension_template.json`, write a short extension description and tag the extension appropriately, then open as a pull request ty!
 
-- Don't edit the `index.json`directly, it's compiled via automation.
+- Entries goes to `extensions` bracnh and is than, automatically assembled and deployed to master automation.
+
+- Don't edit the `index.json` directly, it's compiled via automation.
 
 - `added` date field will automatically be populated upon merge.
 

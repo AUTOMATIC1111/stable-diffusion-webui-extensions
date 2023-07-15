@@ -2,7 +2,7 @@
     "script": "a general extension that adds functionality",
     "localization": "a localization extension that translates web ui into another language",
     "tab": "adds a tab",
-    "dropdown": "adds a dropbear in the ui",
+    "dropdown": "adds a dropdown in the ui",
     "ads": "contains ads",
     "installed": "an extension that is already installed",
     "training": "new type of training / assists with training.",

@@ -1,10 +1,15 @@
-from json import load, loads, dump
-from re import compile
-from argparse import ArgumentParser
 from concurrent.futures import ThreadPoolExecutor, wait
 from urllib.request import Request, urlopen
+from argparse import ArgumentParser
+from pathlib import Path
+import json
+import re
 
-github_repo_pattern = compile(r'https://github\.com/([^/ ]+/[^/ ]+?)(?:(?:\.git$)|$)')
+import validate
+
+github_repo_pattern = re.compile(r'https://github\.com/([^/ ]+/[^/ ]+?)(?:(?:\.git$)|$)')
+git_url_pattern = re.compile(r'(https://[^ ]+?)(?:(?:\.git)$|$)')
+
 
 def get_github_api(url: str):
     try:
@@ -12,7 +17,7 @@ def get_github_api(url: str):
         with urlopen(req) as response:
             data = response.read().decode()
             if response.getcode() == 200:
-                return True, loads(data)
+                return True, json.loads(data)
             else:
                 print(f'ERROR {url} Code : {response.getcode()} : {data}')
                 return False, None
@@ -63,13 +68,15 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("--max-thread", "-m", type=int, default=1, required=False)
     parser.add_argument("--github-token", "-t", type=str, default=None, required=False)
+    parser.add_argument("--deploy-branch", "-d", type=str, default='', required=False)
     args = parser.parse_args()
 
     headers = {'authorization': f'Bearer {args.github_token}'} if args.github_token else {}
     get_github_api_call_failed = False
+    index_path = Path(args.deploy_branch).joinpath('index.json')
 
-    with open('index.json', 'r') as f:
-        extension_index = load(f)
+    with open(index_path, 'r') as f:
+        extension_index = json.load(f)
     
     github_api_core_rait_limit = get_github_api_limit()
 
@@ -85,7 +92,9 @@ if __name__ == "__main__":
         threads = [executor.submit(get_github_metadata, extension) for extension in extension_index['extensions']]
         wait(threads)
 
-    with open('index.json', 'w') as f:
-        dump(extension_index, f, indent=4)
+    with open(index_path, 'w') as f:
+        json.dump(extension_index, f, indent=4)
     
     get_github_api_limit()
+    
+    validate.validate_index(index_path)
