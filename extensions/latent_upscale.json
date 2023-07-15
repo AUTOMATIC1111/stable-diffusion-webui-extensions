@@ -1,0 +1,9 @@
+{
+    "name": "Latent Upscale",
+    "url": "https://github.com/feynlee/latent-upscale.git",
+    "description": "Provides more options for latent upscale in img2img, surpassing those offered by Hires Fix for the txt2img process.",
+    "tags": [
+        "script"
+    ],
+    "added": "2023-07-15"
+}
