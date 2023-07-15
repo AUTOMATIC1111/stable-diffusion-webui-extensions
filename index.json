@@ -1748,7 +1748,8 @@
             "description": "The modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme.",
             "added": "2023-06-28",
             "tags": [
-                "UI related"
+                "UI related",
+                "online"
             ]
         },
         {
