@@ -1,7 +1,7 @@
 {
     "name": "a1111-sd-webui-lycoris",
     "url": "https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git",
-    "description": "Load lycoris: non-conventional rank adapters; in separate networks gallery tab.",
+    "description": "No longer needed for webui >= 1.5.0, Load lycoris: non-conventional rank adapters; in separate networks gallery tab.",
     "added": "2023-04-10",
     "tags": [
         "script"
