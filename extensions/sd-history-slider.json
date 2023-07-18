@@ -1,0 +1,9 @@
+{
+    "name": "sd-history-slider",
+    "url": "https://github.com/LucasMali/sd-history-slider",
+    "description": "A slider change the prompt based on the history of what was used.",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-07-18"
+}
