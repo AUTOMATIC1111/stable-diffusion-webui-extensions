@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-animatediff",
+    "url": "https://github.com/continue-revolution/sd-webui-animatediff.git",
+    "description": "This extension integrates AnimateDiff into WebUI and generates GIF just like generating images",
+    "added": "2023-07-20",
+    "tags": [
+        "script",
+        "dropdown"
+    ]
+}
