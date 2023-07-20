@@ -1,0 +1,9 @@
+{
+    "name": "prompts filter",
+    "url": "https://github.com/viyiviyi/prompts-filter.git",
+    "description": "Filter out banned words in prompts and negative_prompts, and also filter out duplicate prompts and empty prompts.",
+    "tags": [
+        "script"
+    ],
+    "added": "2023-07-20"
+}
