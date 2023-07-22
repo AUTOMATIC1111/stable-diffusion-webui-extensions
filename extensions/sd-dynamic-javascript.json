@@ -1,0 +1,8 @@
+{
+    "name": "Dynamic Javascript",
+    "url": "https://github.com/pmcculler/sd-dynamic-javascript",
+    "description": "Embed Javascript code blocks in positive and negative prompts.",
+    "tags": [
+        "prompting"
+    ]
+}
