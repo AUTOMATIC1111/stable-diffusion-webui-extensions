@@ -1,11 +1,12 @@
 {
-    "name": "ComfyUI Tab",
+    "name": "ComfyUI",
     "url": "https://github.com/ModelSurge/sd-webui-comfyui.git",
-    "description": "Embed ComfyUI in its own tab for convenience",
+    "description": "Embed ComfyUI workflows in different sections of the Webui",
     "tags": [
         "script",
         "tab",
-        "UI related"
+        "UI related",
+        "manipulations"
     ],
     "added": "2023-07-14"
 }
