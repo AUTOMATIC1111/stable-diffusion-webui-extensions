@@ -1951,6 +1951,16 @@
                 "prompting"
             ],
             "added": "2023-07-22"
+                    },
+        {
+            "name": "Simplified Chinese Language Pack",
+            "url": "https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN",
+            "description": "Display the WebUI interface in more accurate Simplified Chinese.",
+            "tags": [
+                "UI related",
+                "localization",
+                ],
+            "added": "2023-07-24"
         }
     ]
 }
