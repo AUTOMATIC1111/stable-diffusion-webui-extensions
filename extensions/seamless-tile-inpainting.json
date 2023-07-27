@@ -1,0 +1,9 @@
+{
+    "name": "seamless-tile-inpainting",
+    "url": "https://github.com/brick2face/seamless-tile-inpainting.git",
+    "description": "A script for making tiles seamless using inpainting. Designed for SD1.5 inpainting model at 512x512, but should work fine with other inpainting models.",
+    "added": "2023-07-27",
+    "tags": [
+        "script"
+    ]
+}
