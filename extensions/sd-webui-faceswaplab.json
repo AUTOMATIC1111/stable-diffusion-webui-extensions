@@ -1,0 +1,10 @@
+{
+    "name": "FaceSwapLab",
+    "url": "https://github.com/glucauze/sd-webui-faceswaplab",
+    "description": "Extended faceswap with multiple faceswaps, inpainting, checkpoints.",
+    "tags": [
+        "editing",
+        "manipulations"
+    ],
+    "added": "2023-07-27"
+}
