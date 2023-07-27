@@ -1,0 +1,9 @@
+{
+    "name": "sd-webui-oldsix-prompt",
+    "url": "https://github.com/thisjam/sd-webui-oldsix-prompt.git",
+    "description": "the fast prompt ",
+    "added": "2023-07-27",
+    "tags": [
+        "prompting"
+    ]
+}
