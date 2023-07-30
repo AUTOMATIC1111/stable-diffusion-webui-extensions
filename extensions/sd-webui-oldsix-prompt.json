@@ -1,8 +1,8 @@
 {
     "name": "sd-webui-oldsix-prompt",
     "url": "https://github.com/thisjam/sd-webui-oldsix-prompt.git",
-    "description": "the fast prompt ",
-    "added": "2023-07-28",
+    "description": "Prompt library - comes with built-in Chinese libeary",
+    "added": "",
     "tags": [
         "prompting"
     ]
