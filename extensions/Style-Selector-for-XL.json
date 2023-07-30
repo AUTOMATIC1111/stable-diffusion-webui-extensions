@@ -1,0 +1,9 @@
+{
+    "name": "Style Selector for SDXL 1.0",
+    "url": "https://github.com/ahgsql/StyleSelectorXL.git",
+    "description": "a Automatic1111 Extension allows users to select and apply different styles to their inputs using SDXL 1.0.",
+    "tags": [
+        "prompting"
+    ],
+    "added": "2023-07-30"
+}
