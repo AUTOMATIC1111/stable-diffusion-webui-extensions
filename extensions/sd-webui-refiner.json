@@ -1,0 +1,10 @@
+{
+    "name": "Refiner",
+    "url": "https://github.com/wcde/sd-webui-refiner.git",
+    "description": "Adds support for SD XL refiner models, it's extending the pipeline to process the last steps with the refiner models Unet.",
+    "tags": [
+        "script",
+        "manipulations"
+    ],
+    "added": "2023-07-30"
+}

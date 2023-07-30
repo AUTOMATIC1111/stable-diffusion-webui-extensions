@@ -1,0 +1,10 @@
+{
+    "name": "Custom Hires Fix",
+    "url": "https://github.com/wcde/custom-hires-fix-for-automatic1111.git",
+    "description": "Adds custom hires fix with advanced features to improve details.",
+    "tags": [
+        "script",
+        "manipulations"
+    ],
+    "added": "2023-07-30"
+}
