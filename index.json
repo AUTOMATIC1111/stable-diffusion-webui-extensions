@@ -2009,6 +2009,16 @@
                 "manipulations"
             ],
             "added": "2023-07-30"
+        },
+        {
+            "name": "sd-webui-deoldify",
+            "url": "https://github.com/SpenserCai/sd-webui-deoldify",
+            "description": "DeOldify for Stable Diffusion WebUI:Colorize of old photos, based on deoldify",
+            "added": "2023-08-04",
+            "tags": [
+                "script",
+                "extras"
+            ]
         }
     ]
 }
