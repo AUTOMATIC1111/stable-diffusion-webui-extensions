@@ -2019,15 +2019,6 @@
                 "script",
                 "extras"
             ]
-        },
-        {
-            "name": "Depth map library and poser",
-            "url": "https://github.com/jexom/sd-webui-depth-lib.git",
-            "description": "Depth map library for use with the Control Net extension",
-            "tags": [
-                "tab"
-            ],
-            "added": "2023-08-04"
         }
     ]
 }
