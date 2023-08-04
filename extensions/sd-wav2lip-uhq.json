@@ -1,0 +1,11 @@
+{
+    "name": "sd-wav2lip-uhq",
+    "url": "https://github.com/numz/sd-wav2lip-uhq",
+    "description": "All-in-one solution for creating high-quality lip-sync videos based on video or image",
+    "tags": [
+        "tab",
+        "editing",
+        "animation"
+    ],
+    "added": "2023-08-04"
+}
