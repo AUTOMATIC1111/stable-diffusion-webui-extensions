@@ -1,0 +1,10 @@
+{
+    "name": "Controlnet Fastload",
+    "url": "https://github.com/pk5ls20/sd-webui-controlnet-fastload.git",
+    "description": "Save and load controlnet parameters",
+    "tags": [
+        "script",
+        "manipulations"
+    ],
+    "added": "2023-08-07"
+}
