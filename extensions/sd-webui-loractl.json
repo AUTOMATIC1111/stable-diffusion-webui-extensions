@@ -1,0 +1,11 @@
+{
+    "name": "LoRA Control",
+    "url": "https://github.com/cheald/sd-webui-loractl.git",
+    "description": "Dynamically control the weights of LoRAs during image generation",
+    "tags": [
+        "models",
+        "prompting",
+        "manipulations"
+    ],
+    "added": "2023-08-07"
+}
