@@ -1,0 +1,9 @@
+{
+    "name": "Wildcards",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards.git",
+    "description": "Allows you to use __name__ syntax in your prompt to get a random line from a file named name.txt in the wildcards directory.",
+    "tags": [
+        "prompting"
+    ],
+    "added": "2023-08-09"
+}
