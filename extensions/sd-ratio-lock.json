@@ -1,0 +1,9 @@
+{
+    "name": "SD Ratio Lock",
+    "url": "https://github.com/bit9labs/sd-ratio-lock.git",
+    "description": "Locks image aspect ratio",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-08-09"
+}
