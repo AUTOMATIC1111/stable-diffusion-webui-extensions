@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-chatgpt",
+    "url": "https://github.com/NON906/sd-webui-chatgpt.git",
+    "description": "Using ChatGPT in Stable Diffusion web UI. When you say something like 'generate an image', ChatGPT will automatically generate a prompt and generate an image.",
+    "tags": [
+        "tab",
+        "online"
+    ],
+    "added": "2023-08-11"
+}
