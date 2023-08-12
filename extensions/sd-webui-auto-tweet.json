@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-auto-tweet.json",
+    "url": "https://github.com/sinano1107/sd-webui-auto-tweet.git",
+    "description": "The generated images are automatically posted to your Twitter feed.",
+    "tags": [
+        "script",
+        "tab",
+        "online"
+    ]
+}
