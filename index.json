@@ -2095,7 +2095,7 @@
         {
             "name": "sd-webui-auto-tweet.json",
             "url": "https://github.com/sinano1107/sd-webui-auto-tweet.git",
-            "description": "The generated images are automatically posted to your Twitter feed.",
+            "description": "The generated images are automatically posted to your Twitter feed. There is also a button to post the generated image to Twitter.",
             "tags": [
                 "script",
                 "tab",
