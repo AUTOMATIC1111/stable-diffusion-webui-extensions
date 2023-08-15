@@ -1,0 +1,10 @@
+{
+    "name": "SD Webui Vectorscope CC",
+    "url": "https://github.com/Haoming02/sd-webui-vectorscope-cc.git",
+    "description": "Adjust the output images brightness contrast saturation through latent noise manipulation during generation",
+    "tags": [
+        "script",
+        "manipulations"
+    ],
+    "added": "2023-08-15"
+}
