@@ -1,0 +1,10 @@
+{
+    "name": "FABRIC",
+    "url": "https://github.com/dvruette/sd-webui-fabric.git",
+    "description": "Personalizing Diffusion Models with Iterative Feedback, a training-free approach that conditions the diffusion process on a set of feedback images",
+    "tags": [
+        "script",
+        "manipulations"
+    ],
+    "added": "2023-08-17"
+}
