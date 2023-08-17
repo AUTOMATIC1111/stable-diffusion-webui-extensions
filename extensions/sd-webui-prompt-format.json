@@ -1,0 +1,10 @@
+{
+    "name": "Prompt Format - by Haoming02",
+    "url": "https://github.com/Haoming02/sd-webui-prompt-format.git",
+    "description": "Remove duplicated spaces and commas.",
+    "tags": [
+        "script",
+        "prompting"
+    ],
+    "added": "2023-08-17"
+}
