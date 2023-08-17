@@ -1,0 +1,8 @@
+{
+    "name": "sdwebui-leave-warining",
+    "url": "https://github.com/w-e-w/sdwebui-leave-warining.git",
+    "description": "Adds a pop-up warning when you try to \"leave\" or \"reload\" the web page",
+    "tags": [
+        "UI related"
+    ]
+}
