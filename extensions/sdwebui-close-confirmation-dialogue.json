@@ -1,0 +1,9 @@
+{
+    "name": "Webpage close confirmation dialogue",
+    "url": "https://github.com/w-e-w/sdwebui-close-confirmation-dialogue.git",
+    "description": "Adds a confirmation dialogue when you try to \"close\" leave\" or \"reload\" the webpage",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-08-17"
+}
