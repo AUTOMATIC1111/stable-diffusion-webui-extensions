@@ -59,7 +59,7 @@
         {
             "name": "Kandinsky",
             "url": "https://github.com/MMqd/kandinsky-for-automatic1111",
-            "description": "Adds a script to run Kandinsky 2.1",
+            "description": "Adds a script to run Kandinsky 2.X",
             "added": "2023-06-11",
             "tags": [
                 "script",
@@ -2121,6 +2121,45 @@
                 "manipulations"
             ],
             "added": "2023-08-15"
+        },
+        {
+            "name": "Prompt Formatter - by uwidev",
+            "url": "https://github.com/uwidev/sd_extension-prompt_formatter.git",
+            "description": "Remove excess spaces and convert nested brackets",
+            "tags": [
+                "script",
+                "prompting"
+            ],
+            "added": "2023-08-16"
+        },
+        {
+            "name": "Prompt Format - by Haoming02",
+            "url": "https://github.com/Haoming02/sd-webui-prompt-format.git",
+            "description": "Remove duplicated spaces and commas.",
+            "tags": [
+                "script",
+                "prompting"
+            ],
+            "added": "2023-08-17"
+        },
+        {
+            "name": "FABRIC",
+            "url": "https://github.com/dvruette/sd-webui-fabric.git",
+            "description": "Personalizing Diffusion Models with Iterative Feedback, a training-free approach that conditions the diffusion process on a set of feedback images",
+            "tags": [
+                "script",
+                "manipulations"
+            ],
+            "added": "2023-08-17"
+        },
+        {
+            "name": "Webpage close confirmation dialogue",
+            "url": "https://github.com/w-e-w/sdwebui-close-confirmation-dialogue.git",
+            "description": "Adds a confirmation dialogue when you try to \"close\" leave\" or \"reload\" the webpage",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2023-08-17"
         }
     ]
 }

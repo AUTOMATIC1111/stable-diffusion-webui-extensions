@@ -1,0 +1,10 @@
+{
+    "name": "Prompt Formatter - by uwidev",
+    "url": "https://github.com/uwidev/sd_extension-prompt_formatter.git",
+    "description": "Remove excess spaces and convert nested brackets",
+    "tags": [
+        "script",
+        "prompting"
+    ],
+    "added": "2023-08-16"
+}

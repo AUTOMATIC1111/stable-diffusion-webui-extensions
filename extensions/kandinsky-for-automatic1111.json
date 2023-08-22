@@ -1,7 +1,7 @@
 {
     "name": "Kandinsky",
     "url": "https://github.com/MMqd/kandinsky-for-automatic1111",
-    "description": "Adds a script to run Kandinsky 2.1",
+    "description": "Adds a script to run Kandinsky 2.X",
     "added": "2023-06-11",
     "tags": [
         "script",
