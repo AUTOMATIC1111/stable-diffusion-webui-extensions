@@ -1,8 +1,8 @@
 {
     "name": "sd-webui-models-manager",
     "url": "https://github.com/dhs964057117/sd-webui-models-manager.git",
-    "description": "An extension that allows users to customize model file paths",
-    "added": "2023-8-15",
+    "description": "An extension that allows users to change model folder location",
+    "added": "2023-8-22",
     "tags": [
         "tab"
     ]
