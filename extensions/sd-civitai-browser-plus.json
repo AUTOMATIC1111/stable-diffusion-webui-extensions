@@ -1,0 +1,11 @@
+{
+    "name": "CivitAI Browser Plus",
+    "url": "https://github.com/BlafKing/sd-civitai-browser-plus.git",
+    "description": "This extension allows you to browse and download any model from CivitAi without leaving WebUI!",
+    "tags": [
+        "script",
+        "tab",
+        "online"
+    ],
+    "added": "2023-08-24"
+}
