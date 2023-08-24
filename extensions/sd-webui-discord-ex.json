@@ -1,0 +1,9 @@
+{
+    "name": "sd-webui-discord-ex",
+    "url": "https://github.com/SpenserCai/sd-webui-discord-ex.git",
+    "description": "Supports distributed deployment of SD node's Stable Diffusion WebUi Discord bot",
+    "tags": [
+        "online",
+        "tab"
+    ]
+}
