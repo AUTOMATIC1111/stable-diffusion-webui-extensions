@@ -1,0 +1,8 @@
+{
+    "name": "ROCm GPU temperature protection",
+    "url": "https://github.com/holotape/stable-diffusion-webui-GPU-temperature-protection-rocm.git",
+    "description": "For AMD GPUs and Accelerators using ROCm on Linux, set temperature limits and pause image generation until a configured temperature is reached.",
+    "tags": [
+        "script"
+    ]
+}
