@@ -1,0 +1,9 @@
+{
+    "name": "Img2img batch interrogator",
+    "url": "https://github.com/Alvi-alvarez/sd-Img2img-batch-interrogator.git",
+    "description": "The extension runs the interrogator before processing each image",
+    "tags": [
+        "script"
+    ],
+    "added": "2023-08-31"
+}
