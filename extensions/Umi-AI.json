@@ -1,0 +1,8 @@
+{
+    "name": "Umi AI: A WebUI Wildcard Mod!",
+    "url": "https://github.com/Klokinator/Umi-AI.git",
+    "description": "Wildcards and Code for the Umi AI Engine (Warning Large file size includes over 900 MB of TI embeddings)",
+    "tags": [
+        "prompting"
+    ]
+}
