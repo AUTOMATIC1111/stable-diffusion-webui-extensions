@@ -1,0 +1,11 @@
+{
+    "name": "SD Masonry Gallery",
+    "url": "https://github.com/bit9labs/sd-masonry.git",
+    "description": "An images tab to display local images in a compact masonry gallery.",
+    "tags": [
+        "script",
+        "tab",
+        "UI related",
+        "online"
+    ]
+}
