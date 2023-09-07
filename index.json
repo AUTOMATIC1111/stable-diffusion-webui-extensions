@@ -2202,6 +2202,15 @@
                 "online"
             ],
             "added": "2023-09-05"
+        },
+        {
+            "name": "sd-webui-depth-lib",
+            "url": "https://github.com/wywywywy/sd-webui-depth-lib.git",
+            "description": "Depth map library for use with the ControlNet extension",
+            "tags": [
+                "tab"
+            ],
+            "added": "2023-09-07"
         }
     ]
 }
