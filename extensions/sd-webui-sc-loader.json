@@ -1,0 +1,14 @@
+{
+    "name": "Scenario loader",
+    "url": "https://github.com/Chaest/sd-webui-sc-loader.git",
+    "description": "A series of tool to make it easier to create images.",
+    "tags": [
+        "script",
+        "tab",
+        "dropdown",
+        "UI related",
+        "prompting",
+        "extras"
+    ],
+    "added": "2023-09-09"
+}
