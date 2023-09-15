@@ -2225,6 +2225,16 @@
                 "extras"
             ],
             "added": "2023-09-09"
+        },
+        {
+            "name": "PromptsBrowser",
+            "url": "https://github.com/AlpacaInTheNight/PromptsBrowser.git",
+            "description": "An extension to quickly work with, explore, and catalog prompts.",
+            "tags": [
+                "UI related",
+                "prompting"
+            ],
+            "added": "2023-09-15"
         }
     ]
 }
