@@ -1,0 +1,10 @@
+{
+    "name": "Model Mixer",
+    "url": "https://github.com/wkpark/sd-webui-model-mixer.git",
+    "description": "Checkpoint Model Mixer/Merger extension - merges models without saving a merged model, and is used for image generation. Support Merge Block Weights, XYZ plots, etc.",
+    "tags": [
+        "models",
+        "manipulations"
+    ],
+    "added": "2023-09-16"
+}
