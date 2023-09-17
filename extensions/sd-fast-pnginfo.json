@@ -1,0 +1,9 @@
+{
+    "name": "Fast PNG Info",
+    "url": "https://github.com/NoCrypt/sd-fast-pnginfo.git",
+    "description": "Allows you to view PNG Info of an image without upload to webui's backend server, significantly faster when webui is hosted remotely like on Colab.",
+    "tags": [
+        "tab"
+    ],
+    "added": "2023-09-17"
+}
