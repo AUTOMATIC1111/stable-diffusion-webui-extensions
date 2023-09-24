@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-notify",
+    "url": "https://github.com/sixf0ur/sd-webui-notify.git",
+    "description": "Receive a host system notification when the generation is finished.",
+    "tags": [
+        "script",
+        "UI related",
+        "query",
+        "extras"
+    ]
+}
