@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-mov2mov",
+    "url": "https://github.com/Scholar01/sd-webui-mov2mov.git",
+    "description": "Process videos frame by frame and automatically merge and export",
+    "tags": [
+        "script",
+        "tab",
+        "animation"
+    ],
+    "added": "2023-09-24"
+}
