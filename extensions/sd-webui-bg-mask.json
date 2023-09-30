@@ -1,0 +1,9 @@
+{
+    "name": "sd-webui-bg-mask",
+    "url": "https://github.com/Scholar01/sd-webui-bg-mask.git",
+    "description": "Generate a mask for the image background",
+    "tags": [
+        "editing"
+    ],
+    "added": "2023-09-30"
+}
