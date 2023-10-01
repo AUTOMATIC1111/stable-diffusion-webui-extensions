@@ -1,0 +1,8 @@
+{
+    "name": "NSFW-Barcensor",
+    "url": "https://github.com/MrArsenic621/nsfw-barcensor.git",
+    "description": "Detect nudity and non-worksafe images using Nudenet and use barcensor to cover sensitive parts.",
+    "tags": [
+        "script"
+    ]
+}
