@@ -1,0 +1,12 @@
+{
+    "name": "Ranbooru",
+    "url": "https://github.com/Inzaniak/sd-webui-ranbooru.git",
+    "description": "Get random prompts from different boorus with a lot of creative features to influence the prompts. Works with txt2img and img2img",
+    "tags": [
+        "script",
+        "dropdown",
+        "prompting",
+        "online"
+    ],
+    "added": "2023-10-01"
+}
