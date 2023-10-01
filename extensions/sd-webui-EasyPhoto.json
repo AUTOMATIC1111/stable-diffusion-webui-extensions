@@ -1,0 +1,12 @@
+{
+    "name": "EasyPhoto",
+    "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto.git",
+    "description": "Support easy photo generation with an online-trained LoRA model that guarantees high-quality output images closely relevant to the input.",
+    "tags": [
+        "script",
+        "tab",
+        "training",
+        "manipulations"
+    ],
+    "added": "2023-10-01"
+}
