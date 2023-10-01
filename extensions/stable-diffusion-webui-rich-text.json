@@ -1,0 +1,13 @@
+{
+    "name": "sd-webui-rich-text",
+    "url": "https://github.com/songweige/sd-webui-rich-text.git",
+    "description": "An extension allows using a rich-text editor for text-to-image generation (https://github.com/songweige/rich-text-to-image).",
+    "tags": [
+        "tab",
+        "UI related",
+        "prompting",
+        "editing",
+        "manipulations"
+    ],
+    "added": "2023-10-01"
+}
