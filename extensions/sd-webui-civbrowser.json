@@ -1,0 +1,11 @@
+{
+    "name": "CivBrowser",
+    "url": "https://github.com/SignalFlagZ/sd-webui-civbrowser.git",
+    "description": "Extension to search and download Civitai models in multiple tabs. Save model information. Send sample infotext to txt2img.",
+    "tags": [
+        "script",
+        "tab",
+        "online"
+    ],
+    "added": "2023-10-02"
+}
