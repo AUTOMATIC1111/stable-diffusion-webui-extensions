@@ -32,8 +32,8 @@
             "stars": 394,
             "default_branch": "main",
             "created_at": "2023-05-16T04:35:16Z",
-            "default_branch_commit_sha": "097fe4e5c97612520b3e4d80d44f36088c53e2c4",
-            "commit_time": "2023-09-11T14:21:29Z"
+            "default_branch_commit_sha": "546e6997472d071d2f4e822c8fce2dd1293372be",
+            "commit_time": "2023-10-01T09:11:09Z"
         },
         {
             "name": "TemporalKit",
@@ -127,7 +127,7 @@
             ],
             "full_name": "huchenlei/sd-webui-openpose-editor",
             "github_description": "Openpose editor for ControlNet. Full hand/face support.",
-            "stars": 318,
+            "stars": 322,
             "default_branch": "main",
             "created_at": "2023-04-29T20:17:34Z",
             "default_branch_commit_sha": "870f9113c2d43575838fb7eba9f2a629cbbd74f6",
@@ -144,7 +144,7 @@
             ],
             "full_name": "continue-revolution/sd-webui-segment-anything",
             "github_description": "Segment Anything for Stable Diffusion WebUI",
-            "stars": 2589,
+            "stars": 2592,
             "default_branch": "master",
             "created_at": "2023-04-10T13:52:55Z",
             "default_branch_commit_sha": "c555c6d9c4e1d14b018e4d2a92acd47765536585",
@@ -197,7 +197,7 @@
             ],
             "full_name": "d8ahazard/sd_dreambooth_extension",
             "github_description": null,
-            "stars": 1620,
+            "stars": 1622,
             "default_branch": "main",
             "created_at": "2022-11-06T02:40:44Z",
             "default_branch_commit_sha": "1a1d1621086a4725fda1200256f319c845dc7a8a",
@@ -247,7 +247,7 @@
             ],
             "full_name": "7eu7d7/DreamArtist-sd-webui-extension",
             "github_description": "DreamArtist for Stable-Diffusion-webui extension",
-            "stars": 639,
+            "stars": 641,
             "default_branch": "master",
             "created_at": "2022-11-12T12:17:15Z",
             "default_branch_commit_sha": "12f8077517b11199802f8d448d36ea573debae96",
@@ -383,7 +383,7 @@
             ],
             "full_name": "kohya-ss/sd-webui-additional-networks",
             "github_description": null,
-            "stars": 1498,
+            "stars": 1497,
             "default_branch": "main",
             "created_at": "2022-12-27T09:03:08Z",
             "default_branch_commit_sha": "e9f3d622b5a98650008a685ea23b27eb810da35a",
@@ -435,11 +435,11 @@
             ],
             "full_name": "hako-mikan/sd-webui-supermerger",
             "github_description": "model merge extention for stable diffusion web ui",
-            "stars": 520,
+            "stars": 522,
             "default_branch": "main",
             "created_at": "2023-01-18T13:20:58Z",
-            "default_branch_commit_sha": "580090a50a5fc6e36d6bd5c832e9887403460569",
-            "commit_time": "2023-09-30T07:00:46Z"
+            "default_branch_commit_sha": "8b362d5f39926ce06668163bf252501598216660",
+            "commit_time": "2023-10-01T13:28:27Z"
         },
         {
             "name": "LoRA Block Weight",
@@ -468,7 +468,7 @@
             ],
             "full_name": "AlUlkesh/stable-diffusion-webui-images-browser",
             "github_description": "an images browse for stable-diffusion-webui",
-            "stars": 475,
+            "stars": 476,
             "default_branch": "main",
             "created_at": "2023-01-14T16:20:37Z",
             "default_branch_commit_sha": "08fc2647f1fe413699612df923b5f495d26853ef",
@@ -485,11 +485,11 @@
             ],
             "full_name": "zanllp/sd-webui-infinite-image-browsing",
             "github_description": "A fast and powerful image/video browser for Stable Diffusion webui and ComfyUI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
-            "stars": 514,
+            "stars": 517,
             "default_branch": "main",
             "created_at": "2023-03-07T18:26:27Z",
-            "default_branch_commit_sha": "9766bb9d03cdf016cc2cebab08647229786893ff",
-            "commit_time": "2023-09-28T16:17:55Z"
+            "default_branch_commit_sha": "11580b2b912ed3935c5d1118c143f21c0da2b662",
+            "commit_time": "2023-10-01T11:36:14Z"
         },
         {
             "name": "Inspiration",
@@ -568,7 +568,7 @@
             ],
             "full_name": "Zyin055/Config-Presets",
             "github_description": "Extension for Automatic1111",
-            "stars": 179,
+            "stars": 180,
             "default_branch": "main",
             "created_at": "2022-12-13T07:05:08Z",
             "default_branch_commit_sha": "6b1bc209bb0a19ee8dad0c81f44b1186f19c4035",
@@ -683,7 +683,7 @@
             ],
             "full_name": "journey-ad/sd-webui-bilingual-localization",
             "github_description": "Stable Diffusion web UI bilingual localization extensions. SD WebUI\u53cc\u8bed\u5bf9\u7167\u7ffb\u8bd1\u63d2\u4ef6",
-            "stars": 680,
+            "stars": 683,
             "default_branch": "main",
             "created_at": "2023-02-26T07:26:55Z",
             "default_branch_commit_sha": "533b7757182ab45ea58e69c7799aa0082b7ba471",
@@ -699,7 +699,7 @@
             ],
             "full_name": "adieyal/sd-dynamic-prompts",
             "github_description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
-            "stars": 1492,
+            "stars": 1495,
             "default_branch": "main",
             "created_at": "2022-10-08T17:58:22Z",
             "default_branch_commit_sha": "39c06b30409df6259c4430338123f7d4e05d8dc1",
@@ -748,11 +748,11 @@
             ],
             "full_name": "DominikDoom/a1111-sd-webui-tagcomplete",
             "github_description": "Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
-            "stars": 2046,
+            "stars": 2048,
             "default_branch": "main",
             "created_at": "2022-10-11T17:33:14Z",
-            "default_branch_commit_sha": "b3e71e840d84e17a3cb54197e771ebb0f853cbbd",
-            "commit_time": "2023-09-26T13:12:29Z"
+            "default_branch_commit_sha": "446ac14e7fa9098b1dbc0ca53f4be6ef063b38fa",
+            "commit_time": "2023-10-01T21:47:02Z"
         },
         {
             "name": "novelai-2-local-prompt",
@@ -781,7 +781,7 @@
             ],
             "full_name": "AUTOMATIC1111/stable-diffusion-webui-tokenizer",
             "github_description": "An extension for stable-diffusion-webui that adds a tab that lets you preview how CLIP model would tokenize your text.",
-            "stars": 113,
+            "stars": 114,
             "default_branch": "master",
             "created_at": "2022-11-05T09:42:06Z",
             "default_branch_commit_sha": "ac6d541c7032e9f9c69c8ead2ed201302b06a4fe",
@@ -832,8 +832,8 @@
             "stars": 181,
             "default_branch": "main",
             "created_at": "2022-12-01T03:07:53Z",
-            "default_branch_commit_sha": "6f5595f48ceb1b17195e7c56f4f7e0d825c6346b",
-            "commit_time": "2023-10-01T00:01:31Z"
+            "default_branch_commit_sha": "d945ebcb13a407086b276e13ba52a0443bb85d5b",
+            "commit_time": "2023-10-02T00:00:42Z"
         },
         {
             "name": "Prompt Generator",
@@ -846,7 +846,7 @@
             ],
             "full_name": "imrayya/stable-diffusion-webui-Prompt_Generator",
             "github_description": "An extension to AUTOMATIC1111 WebUI for stable diffusion which adds a prompt generator",
-            "stars": 187,
+            "stars": 188,
             "default_branch": "master",
             "created_at": "2022-12-29T00:40:40Z",
             "default_branch_commit_sha": "31ec08338b2224432304fb90c459efc9b43a52b3",
@@ -915,11 +915,11 @@
             ],
             "full_name": "deforum-art/sd-webui-deforum",
             "github_description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
-            "stars": 2148,
+            "stars": 2150,
             "default_branch": "automatic1111-webui",
             "created_at": "2022-10-14T22:29:12Z",
-            "default_branch_commit_sha": "6e78e892a1ec3377ccc7e0c45548fa5b79bd4d07",
-            "commit_time": "2023-09-28T12:17:51Z"
+            "default_branch_commit_sha": "040da3d868ccfb6118c735dca26ccd90bdb9e074",
+            "commit_time": "2023-10-01T14:32:12Z"
         },
         {
             "name": "Animator",
@@ -1044,7 +1044,7 @@
             ],
             "full_name": "Interpause/auto-sd-paint-ext",
             "github_description": "Extension for AUTOMATIC1111 to add custom backend API for Krita Plugin & more",
-            "stars": 405,
+            "stars": 406,
             "default_branch": "main",
             "created_at": "2022-10-28T01:54:07Z",
             "default_branch_commit_sha": "00714355890aefa9a09e7fdb1f9a136c46a17618",
@@ -1257,7 +1257,7 @@
             ],
             "full_name": "Coyote-A/ultimate-upscale-for-automatic1111",
             "github_description": null,
-            "stars": 1093,
+            "stars": 1095,
             "default_branch": "master",
             "created_at": "2023-01-02T22:07:55Z",
             "default_branch_commit_sha": "728ffcec7fa69c83b9e653bf5b96932acdce750f",
@@ -1292,8 +1292,8 @@
             "stars": 113,
             "default_branch": "main",
             "created_at": "2023-05-17T15:02:06Z",
-            "default_branch_commit_sha": "8cb468e3a3d0f1fb99e8e8f97d99289c0475e3c6",
-            "commit_time": "2023-09-27T00:17:25Z"
+            "default_branch_commit_sha": "f4bcaa078e1adbda64ea0577ef3aca4eb0966d08",
+            "commit_time": "2023-10-01T16:46:17Z"
         },
         {
             "name": "Dynamic Thresholding",
@@ -1305,7 +1305,7 @@
             ],
             "full_name": "mcmonkeyprojects/sd-dynamic-thresholding",
             "github_description": "Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (StableSwarmUI, ComfyUI, and Auto WebUI)",
-            "stars": 729,
+            "stars": 730,
             "default_branch": "master",
             "created_at": "2023-01-27T02:23:12Z",
             "default_branch_commit_sha": "8afc1cce60a76a24babbff3f139976751f26d97c",
@@ -1337,7 +1337,7 @@
             ],
             "full_name": "Mikubill/sd-webui-controlnet",
             "github_description": "WebUI extension for ControlNet",
-            "stars": 13095,
+            "stars": 13105,
             "default_branch": "main",
             "created_at": "2023-02-12T16:26:27Z",
             "default_branch_commit_sha": "7a4805c8ea3256a0eab3512280bd4f84ca0c8182",
@@ -1564,11 +1564,11 @@
             ],
             "full_name": "vladmandic/sd-extension-system-info",
             "github_description": "System Info Extension for SD WebUI",
-            "stars": 192,
+            "stars": 193,
             "default_branch": "main",
             "created_at": "2023-01-14T16:40:39Z",
-            "default_branch_commit_sha": "2647efca7480859edb08d868a19f1dcb7c067b77",
-            "commit_time": "2023-09-29T12:25:34Z"
+            "default_branch_commit_sha": "721658e0e731f8eecbd1fd250900e3727a806745",
+            "commit_time": "2023-10-01T15:23:51Z"
         },
         {
             "name": "OpenPose Editor",
@@ -1580,7 +1580,7 @@
             ],
             "full_name": "fkunn1326/openpose-editor",
             "github_description": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
-            "stars": 1503,
+            "stars": 1504,
             "default_branch": "master",
             "created_at": "2023-02-19T04:24:44Z",
             "default_branch_commit_sha": "db07b9c69c224d1d64f9f70713b2908f2da29912",
@@ -3935,6 +3935,17 @@
                 "online"
             ],
             "added": "2023-10-01"
+        },
+        {
+            "name": "CivBrowser",
+            "url": "https://github.com/SignalFlagZ/sd-webui-civbrowser.git",
+            "description": "Extension to search and download Civitai models in multiple tabs. Save model information. Send sample infotext to txt2img.",
+            "tags": [
+                "script",
+                "tab",
+                "online"
+            ],
+            "added": "2023-10-02"
         }
     ]
 }
