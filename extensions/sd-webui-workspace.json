@@ -1,0 +1,9 @@
+{
+    "name": "sd-webui-workspace",
+    "url": "https://github.com/Scholar01/sd-webui-workspace.git",
+    "description": "Designed to save and restore Webui workspace. It can quickly save your current webui interface and restore it the next time you use it.",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-10-04"
+}
