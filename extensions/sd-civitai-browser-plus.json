@@ -1,7 +1,7 @@
 {
-    "name": "CivitAI Browser Plus",
+    "name": "CivitAI Browser+",
     "url": "https://github.com/BlafKing/sd-civitai-browser-plus.git",
-    "description": "This extension allows you to browse and download any model from CivitAi without leaving WebUI!",
+    "description": "Extension to access CivitAI via WebUI: download, delete, scan for updates, list installed models, assign tags, and boost downloads with multi-threading.",
     "tags": [
         "script",
         "tab",
