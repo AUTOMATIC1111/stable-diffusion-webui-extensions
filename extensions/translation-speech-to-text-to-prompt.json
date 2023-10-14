@@ -1,0 +1,6 @@
+{
+  "name": "Translation and speech to text",
+  "url": "https://github.com/athos54/sd-webui-translation-speech-to-text-to-prompt",
+  "description": "Extension to write prompts on native language or speech to text",
+  "tags": ["prompting", "extras"]
+}
