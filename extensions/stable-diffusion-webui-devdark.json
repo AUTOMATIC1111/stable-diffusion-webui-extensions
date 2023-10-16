@@ -1,0 +1,8 @@
+{
+    "name": "DevDark theme",
+    "url": "https://github.com/devdarktheme/stable-diffusion-webui-devdark.git",
+    "description": "Custom css based on Catppuccin, enable / disabled via extensions tab.",
+    "tags": [
+        "UI related"
+    ]
+}
