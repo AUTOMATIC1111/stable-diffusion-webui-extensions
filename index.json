@@ -2368,6 +2368,16 @@
                 "script"
             ],
             "added": "2023-10-17"
+        },
+        {
+            "name": "ReActor",
+            "url": "https://github.com/Gourieff/sd-webui-reactor.git",
+            "description": "Face swap without NSFW filter, aka sd-webui-roop-nsfw. Read README.md additional installation steps required",
+            "tags": [
+                "editing",
+                "manipulations"
+            ],
+            "added": "2023-10-17"
         }
     ]
 }
