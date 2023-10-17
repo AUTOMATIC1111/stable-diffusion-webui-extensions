@@ -1,0 +1,9 @@
+{
+    "name": "NegPiP",
+    "url": "https://github.com/hako-mikan/sd-webui-negpip.git",
+    "description": "Enable negative strength in the prompt. This will have a stronger effect than a negative prompt.",
+    "tags": [
+        "manipulations"
+    ],
+    "added": "2023-10-17"
+}

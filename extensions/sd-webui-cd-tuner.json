@@ -1,0 +1,9 @@
+{
+    "name": "CD(Color/Detail) Tuner",
+    "url": "https://github.com/hako-mikan/sd-webui-cd-tuner.git",
+    "description": "Adjust color tone, brightness, and level of detailing using a different mechanism of LoRA or ADtailer",
+    "tags": [
+        "manipulations"
+    ],
+    "added": "2023-10-17"
+}
