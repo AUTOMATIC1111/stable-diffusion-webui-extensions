@@ -1,7 +1,7 @@
 {
-    "name": "Infinity Grid Generator v2",
+    "name": "Gigagrid",
     "url": "https://github.com/yggdrasil75/Gigagrid.git",
-    "description": "Build a yaml file with your chosen parameters, and generate infinite-dimensional grids. Built-in ability to add description text to fields. Replaces older version by MCMonkey",
+    "description": "Build a yaml file with your chosen parameters, and generate infinite-dimensional grids. Built-in ability to add description text to fields. Existing yamls for SD Infinity grid by MCMonkey can still be used.",
     "added": "2023-10-13",
     "tags": [
         "UI related"
