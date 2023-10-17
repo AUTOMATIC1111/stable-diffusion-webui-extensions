@@ -1,7 +1,7 @@
 {
     "name": "TensorRT support",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt.git",
-    "description": "Adds the ability to convert loaded model's Unet module into TensortRT for faster performance. Read README.md additional insulation step required",
+    "description": "Adds the ability to convert loaded model's Unet module into TensortRT for faster performance. Read README.md additional installation steps required",
     "tags": [
         "tab",
         "models"
