@@ -1,0 +1,9 @@
+{
+    "name": "auxiliary API",
+    "url": "https://github.com/aria1th/webui-model-uploader.git",
+    "description": "Adds API routes for uploading, removing, syncing models and etc",
+    "tags": [
+        "script"
+    ],
+    "added": "2023-10-17"
+}
