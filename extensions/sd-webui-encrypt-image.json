@@ -3,6 +3,6 @@
     "url": "https://github.com/viyiviyi/sd-encrypt-image.git",
     "description": "Encrypt and save the image to the disk to reduce the risk of account suspension when storing images in public clouds. When installing and starting, you need to add the parameter --encrypt-pass=your password.",
     "tags": [
-        "script",
+        "script"
     ]
 }
