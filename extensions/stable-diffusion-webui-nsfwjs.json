@@ -1,0 +1,10 @@
+{
+    "name": "NSFW Blurrer-NSFWJS",
+    "url": "https://github.com/aria1th/sd-webui-nsfw-filter.git",
+    "description": "Blurs NSFW images using NSFWJS, based on onnxmodel ",
+    "tags": [
+        "script",
+        "manipulations"
+    ],
+    "added": "2023-10-17"
+}

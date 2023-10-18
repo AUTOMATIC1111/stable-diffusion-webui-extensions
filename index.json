@@ -2046,7 +2046,7 @@
         {
             "name": "TensorRT support",
             "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-tensorrt.git",
-            "description": "Adds the ability to convert loaded model's Unet module into TensortRT for faster performance. Read README.md additional insulation step required",
+            "description": "Adds the ability to convert loaded model's Unet module into TensortRT for faster performance. Read README.md additional installation steps required",
             "tags": [
                 "tab",
                 "models"
@@ -2322,6 +2322,62 @@
                 "online"
             ],
             "added": "2023-10-02"
+        },
+        {
+            "name": "NSFW Blurrer-NSFWJS",
+            "url": "https://github.com/aria1th/sd-webui-nsfw-filter.git",
+            "description": "Blurs NSFW images using NSFWJS, based on onnxmodel ",
+            "tags": [
+                "script",
+                "manipulations"
+            ],
+            "added": "2023-10-17"
+        },
+        {
+            "name": "NegPiP",
+            "url": "https://github.com/hako-mikan/sd-webui-negpip.git",
+            "description": "Enable negative strength in the prompt. This will have a stronger effect than a negative prompt.",
+            "tags": [
+                "manipulations"
+            ],
+            "added": "2023-10-17"
+        },
+        {
+            "name": "CD(Color/Detail) Tuner",
+            "url": "https://github.com/hako-mikan/sd-webui-cd-tuner.git",
+            "description": "Adjust color tone, brightness, and level of detailing using a different mechanism of LoRA or ADtailer",
+            "tags": [
+                "manipulations"
+            ],
+            "added": "2023-10-17"
+        },
+        {
+            "name": "DevDark theme",
+            "url": "https://github.com/devdarktheme/stable-diffusion-webui-devdark.git",
+            "description": "Custom css based on Catppuccin, enable / disabled via extensions tab.",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2023-10-17"
+        },
+        {
+            "name": "auxiliary API",
+            "url": "https://github.com/aria1th/webui-model-uploader.git",
+            "description": "Adds API routes for uploading, removing, syncing models and etc",
+            "tags": [
+                "script"
+            ],
+            "added": "2023-10-17"
+        },
+        {
+            "name": "ReActor",
+            "url": "https://github.com/Gourieff/sd-webui-reactor.git",
+            "description": "Fast and Simple FaceSwap Extension with a lot of improvements. Read README.md, additional installation steps required",
+            "tags": [
+                "editing",
+                "manipulations"
+            ],
+            "added": "2023-10-17"
         }
     ]
 }

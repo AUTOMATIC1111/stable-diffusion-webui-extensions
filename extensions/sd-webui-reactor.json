@@ -1,0 +1,10 @@
+{
+    "name": "ReActor",
+    "url": "https://github.com/Gourieff/sd-webui-reactor.git",
+    "description": "Fast and Simple FaceSwap Extension with a lot of improvements. Read README.md, additional installation steps required",
+    "tags": [
+        "editing",
+        "manipulations"
+    ],
+    "added": "2023-10-17"
+}
