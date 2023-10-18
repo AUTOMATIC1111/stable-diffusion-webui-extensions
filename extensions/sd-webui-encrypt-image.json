@@ -1,0 +1,8 @@
+{
+    "name": "encrypt-image",
+    "url": "https://github.com/viyiviyi/sd-encrypt-image.git",
+    "description": "将图片加密保存到磁盘，降低图片存储在公有云时被封号放风险。安装后启动时需增加参数--encrypt-pass=你的密码。Encrypt and save the image to the disk to reduce the risk of account suspension when storing images in public clouds. When installing and starting, you need to add the parameter --encrypt-pass=your password.",
+    "tags": [
+        "script",
+    ]
+}
