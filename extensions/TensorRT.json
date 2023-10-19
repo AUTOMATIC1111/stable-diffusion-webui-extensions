@@ -1,0 +1,10 @@
+{
+    "name": "TensorRT",
+    "url": "https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT",
+    "description": "TensorRT acceleration for Stable Diffusion on NVIDIA RTX GPUs.",
+    "tags": [
+        "tab",
+        "models"
+    ],
+    "added": "2023-10-19"
+}
