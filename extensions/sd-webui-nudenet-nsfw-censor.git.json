@@ -1,0 +1,10 @@
+{
+    "name": "NudeNet NSFW Censor",
+    "url": "https://github.com/w-e-w/sd-webui-nudenet-nsfw-censor.git",
+    "description": "Customizable detection and censoring of NSFW portions within an image using NudeNet.",
+    "tags": [
+        "editing",
+        "extras"
+    ],
+    "added": "2023-10-22"
+}
