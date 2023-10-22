@@ -1,0 +1,9 @@
+{
+    "name": "Latent Consistency Models",
+    "url": "https://github.com/0xbitches/sd-webui-lcm.git",
+    "description": "Generate high quality images in just 4 steps. Run Latent Consistency Models with Automatic1111.",
+    "tags": [
+        "tab"
+    ],
+    "added": "2023-10-22"
+}
