@@ -2,7 +2,6 @@
     "name": "sd-webui-miniPaint",
     "url": "https://github.com/ye7iaserag/sd-webui-miniPaint.git",
     "description": "An integration with miniPaint, a feature rich image editor that works offline.",
-    "added": "2023-10-29",
     "tags": [
         "tab",
         "editing"
