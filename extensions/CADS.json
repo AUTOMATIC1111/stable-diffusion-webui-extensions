@@ -1,0 +1,10 @@
+{
+    "name": "CADS",
+    "url": "https://github.com/v0xie/sd-webui-cads.git",
+    "description": "CADS greatly increases diversity of generated images by adding scheduled noise to the conditioning at inference time; an implementation of the novel method described in arXiv:2310.17347 [cs.CV].",
+    "tags": [
+        "dropdown",
+        "manipulations"
+    ],
+    "added": "2023-11-01"
+}
