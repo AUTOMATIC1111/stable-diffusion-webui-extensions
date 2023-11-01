@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-facefusion",
+    "url": "https://github.com/diffus-me/sd-webui-facefusion",
+    "description": "Video face swapper and enhancer.",
+    "tags": [
+        "tab",
+        "editing"
+    ],
+    "added": "2023-11-01"
+}
