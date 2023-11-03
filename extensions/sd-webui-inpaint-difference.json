@@ -1,0 +1,11 @@
+{
+    "name": "Inpaint difference",
+    "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
+    "description": "Use the difference between 2 images to generate an inpaint mask. Adds a new operation mode.",
+    "tags": [
+        "tab",
+        "dropdown",
+        "manipulations"
+    ],
+    "added": "2023-11-03"
+}
