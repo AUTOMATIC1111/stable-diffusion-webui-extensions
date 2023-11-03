@@ -1,0 +1,10 @@
+{
+    "name": "Hotshot-XL-Automatic1111",
+    "url": "https://github.com/hotshotco/Hotshot-XL-Automatic1111.git",
+    "description": "State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL",
+    "tags": [
+        "tab",
+        "animation"
+    ],
+    "added": "2023-11-03"
+}
