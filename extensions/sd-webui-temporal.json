@@ -1,0 +1,10 @@
+{
+    "name": "Temporal",
+    "url": "https://github.com/Iniquitatis/sd-webui-temporal",
+    "description": "A \"loopback on steroids\" that allows either processing images in a slightly more advanced way, or making the morphing animations out of them.",
+    "tags": [
+        "script",
+        "animation"
+    ],
+    "added": "2023-11-04"
+}
