@@ -1,0 +1,12 @@
+{
+    "name": "FaceChain",
+    "url": "https://github.com/modelscope/facechain.git",
+    "description": "FaceChain is a deep-learning toolchain for generating your Digital-Twin. With a minimum of 1 portrait-photo, you can create a Digital-Twin of your own and start generating personal portraits in different settings ",
+    "tags": [
+        "script",
+        "tab",
+        "training",
+        "online"
+    ],
+    "added": "2023-11-05"
+}
