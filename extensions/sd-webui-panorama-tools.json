@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-panorama-tools",
+    "url": "https://github.com/Flyguygx/sd-webui-panorama-tools.git",
+    "description": "Various tools for creating/editing/viewing 360 degree panoramic images.",
+    "tags": [
+        "tab",
+        "editing",
+        "manipulations"
+    ],
+    "added": "2023-11-06"
+}
