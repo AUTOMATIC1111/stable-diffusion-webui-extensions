@@ -1,0 +1,14 @@
+{
+    "name": "Stylez",
+    "url": "https://github.com/javsezlol1/Stylez.git",
+    "description": "An improved styles Libary with 600+ built in styles. Prompt generation is included. Style creating/Editing. Auto CSV conversion to work with Stylez. CivitAI image browser",
+    "tags": [
+        "script",
+        "tab",
+        "UI related",
+        "prompting",
+        "online",
+        "query"
+    ],
+    "added": "2023-11-06"
+}
