@@ -1,0 +1,9 @@
+{
+    "name": "SD Web UI Modal Info",
+    "url": "https://github.com/luminouspear/sd-webui-modal-info.git",
+    "description": "Displays prompt information when image is in full screen.",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-11-13"
+}
