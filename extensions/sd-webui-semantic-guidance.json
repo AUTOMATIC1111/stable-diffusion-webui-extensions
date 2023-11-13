@@ -1,0 +1,10 @@
+{
+    "name": "Semantic Guidance",
+    "url": "https://github.com/v0xie/sd-webui-semantic-guidance.git",
+    "description": "Adds an extra positive / negative prompt for modifying details without necessarily changing composition. Make subtle or major edits. Better negative prompting. Unofficial implementation of arXiv:2301.12247 [cs.CV]",
+    "tags": [
+        "dropdown",
+        "manipulations"
+    ],
+    "added": "2023-11-13"
+}
