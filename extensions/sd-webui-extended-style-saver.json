@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-extended-style-saver",
+    "url": "https://github.com/harukei-tech/sd-webui-extended-style-saver.git",
+    "description": "Save your AI prompts easily. This extension helps you keep important details like name, model, VAE, image size, prompt, and negative prompt for creating AI outputs.",
+    "tags": [
+        "script",
+        "UI related",
+        "prompting"
+    ],
+    "added": "2023-11-13"
+}
