@@ -1,0 +1,8 @@
+{
+    "name": "Folder Batch",
+    "url": "https://github.com/djbielejeski/folder-batch-automatic1111-extension.git",
+    "description": "Run all of your images through whatever img2img tab you are on.",
+    "tags": [
+        "script"
+    ]
+}
