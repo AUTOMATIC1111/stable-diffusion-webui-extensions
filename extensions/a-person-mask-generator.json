@@ -1,0 +1,10 @@
+{
+    "name": "A Person Mask Generator",
+    "url": "https://github.com/djbielejeski/a-person-mask-generator.git",
+    "description": "Extension for Automatic1111 to automatically create masks for Background/Hair/Body/Face/Clothes in Img2Img",
+    "tags": [
+        "script",
+        "editing"
+    ],
+    "added": "2023-11-18"
+}
