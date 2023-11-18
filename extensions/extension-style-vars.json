@@ -1,0 +1,9 @@
+{
+    "name": "Style variables",
+    "url": "https://github.com/SirVeggie/extension-style-vars",
+    "description": "Use existing styles as variables in prompts",
+    "tags": [
+        "prompting"
+    ],
+    "added": "2023-11-18"
+}
