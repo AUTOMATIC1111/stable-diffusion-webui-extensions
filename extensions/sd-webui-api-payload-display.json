@@ -1,0 +1,9 @@
+{
+    "name": "SD-WebUI API Payload Display",
+    "url": "https://github.com/huchenlei/sd-webui-api-payload-display.git",
+    "description": "Display the corresponding API payload after each generation on WebUI",
+    "tags": [
+        "script"
+    ],
+    "added": "2023-11-23"
+}
