@@ -1,0 +1,9 @@
+{
+    "name": "Auto Merge Block Weighted",
+    "url": "https://github.com/Xerxemi/sdweb-auto-MBW.git",
+    "description": "An automated version of bbc-mc's sdweb-merge-block-weighted-gui, NOTE this extension conflicts with the original MBW extension",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}
