@@ -1,0 +1,8 @@
+{
+    "name": "Bayesian merger",
+    "url": "https://github.com/s1dlx/sd-webui-bayesian-merger.git",
+    "description": "Bayesian optimisation for stable diffusion models block merge",
+    "tags": [
+        "models"
+    ]
+}
