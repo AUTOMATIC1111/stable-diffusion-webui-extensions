@@ -1,0 +1,9 @@
+{
+    "name": "µ Detection Detailer",
+    "url": "https://github.com/wkpark/uddetailer.git",
+    "description": "µ Detection Detailer. Fork of ddetailer. Supports bbox/segment object detection, auto-mask and inpainting using mmdetection, mediapipe and ultralytics. also supports ControlNet.",
+    "tags": [
+        "editing",
+        "manipulations"
+    ]
+}
