@@ -1,0 +1,9 @@
+{
+    "name": "Tiny Cards",
+    "url": "https://github.com/SenshiSentou/sd-webui-tinycards.git",
+    "description": "Adds a simple zoom slider with grow-on-hover to the \"extra network\" cards (hypernetworks, TIs, checkpoints, and LoRAs)",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-11-25"
+}
