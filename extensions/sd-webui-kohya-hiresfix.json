@@ -1,0 +1,9 @@
+{
+    "name": "Deep Shrink Hires.fix",
+    "url": "https://github.com/wcde/sd-webui-kohya-hiresfix.git",
+    "description": "Implementation of Kohya's Deep Shrink Hires.fix",
+    "tags": [
+        "manipulations"
+    ],
+    "added": "2023-11-26"
+}
