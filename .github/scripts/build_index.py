@@ -6,7 +6,7 @@ import json
 import validate
 
 def read_extension(file: Path):
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         extension = json.load(f)
     for required_key in [
         "name",
@@ -24,8 +24,8 @@ def read_extension(file: Path):
     except:
         # add "added": "YYYY-MM-DD"
         extension["added"] = str(datetime.datetime.now().date())
-        with open(file, 'w') as f:
-            json.dump(extension, f, indent=4)
+        with open(file, 'w', encoding='utf-8') as f:
+            json.dump(extension, f, indent=4, ensure_ascii=False)
     return extension
 
 
@@ -40,7 +40,7 @@ def read_extension_dir():
 
 def update_index(exts: dict, tags: dict):
     # update existing remove removed and add new extensions
-    with open(build_index_path, 'r') as f:
+    with open(build_index_path, 'r', encoding='utf-8') as f:
         existing_extensions = {extension['url']: extension for extension in json.load(f)['extensions']}
 
     for extensions_url, extension in exts.items():
@@ -51,14 +51,14 @@ def update_index(exts: dict, tags: dict):
     extensions_list = [extension for extensions_url, extension in existing_extensions.items() if extensions_url in extensions]
     extension_index = {'tags': tags, 'extensions': extensions_list}
 
-    with open(build_index_path, 'w') as f:
-        json.dump(extension_index, f, indent=4)
+    with open(build_index_path, 'w', encoding='utf-8') as f:
+        json.dump(extension_index, f, indent=4, ensure_ascii=False)
     return extension_index
 
 
 def update_master_index(index: dict):
     # add keys from master/index that are not in extensions/tags to extensions/tags as new master/index
-    with open(deploy_index_path, 'r') as f:
+    with open(deploy_index_path, 'r', encoding='utf-8') as f:
         master_exts = {extension['url']: extension for extension in json.load(f)['extensions']}
 
     index_ext = {extension['url']: extension for extension in index['extensions']}
@@ -71,8 +71,8 @@ def update_master_index(index: dict):
                     index_ext[master_ext_url][master_exts_key] = master_ext[master_exts_key]
 
     new_master_index = {'tags': index['tags'], 'extensions': list(index_ext.values())}
-    with open(deploy_index_path, 'w') as f:
-        json.dump(new_master_index, f, indent=4)
+    with open(deploy_index_path, 'w', encoding='utf-8') as f:
+        json.dump(new_master_index, f, indent=4, ensure_ascii=False)
     return new_master_index
 
 

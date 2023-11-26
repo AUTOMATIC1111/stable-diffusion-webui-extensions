@@ -75,7 +75,7 @@ if __name__ == "__main__":
     index_path = Path(args.deploy_branch).joinpath('index.json')
     get_github_api_call_failed = False
 
-    with open(index_path, 'r') as f:
+    with open(index_path, 'r', encoding='utf-8') as f:
         extension_index = json.load(f)
 
     github_api_core_rait_limit = get_github_api_limit()
@@ -90,8 +90,8 @@ if __name__ == "__main__":
         threads = [executor.submit(get_github_metadata, extension) for extension in extension_index['extensions']]
         wait(threads)
 
-    with open(index_path, 'w') as f:
-        json.dump(extension_index, f, indent=4)
+    with open(index_path, 'w', encoding='utf-8') as f:
+        json.dump(extension_index, f, indent=4, ensure_ascii=False)
     
     get_github_api_limit()
     
