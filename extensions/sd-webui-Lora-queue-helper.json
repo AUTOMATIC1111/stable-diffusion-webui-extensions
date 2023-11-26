@@ -1,0 +1,9 @@
+{
+    "name": "Lora Queue Helper",
+    "url": "https://github.com/Yinzo/sd-webui-Lora-queue-helper.git",
+    "description": "A Script that help you generate a batch of Lora, using same prompt & settings. Helpful for compare Lora, Or just switching Lora easily without switch tab.",
+    "tags": [
+        "script"
+    ],
+    "added": "2023-11-26"
+}
