@@ -1,0 +1,10 @@
+{
+    "name": "Test my prompt!",
+    "url": "https://github.com/Extraltodeus/test_my_prompt.git",
+    "description": "Generate a series of images by successively removing segments of the prompt, allowing for comparison of their individual effects.",
+    "tags": [
+        "script",
+        "prompting"
+    ],
+    "added": "2023-12-01"
+}
