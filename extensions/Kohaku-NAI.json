@@ -1,0 +1,9 @@
+{
+    "name": "Kohaku-NAI",
+    "url": "https://github.com/KohakuBlueleaf/Kohaku-NAI",
+    "description": "A NovelAI client built for SD-WebUI.",
+    "tags": [
+        "script",
+        "online"
+    ]
+}
