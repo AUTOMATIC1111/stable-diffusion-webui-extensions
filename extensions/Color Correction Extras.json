@@ -3,7 +3,6 @@
     "url": "https://github.com/light-and-ray/sd-webui-color-correction-extras.git",
     "description": "Adds native color correction feature into \"Extras\" tab",
     "tags": [
-        "manipulations",
         "extras"
     ]
 }
