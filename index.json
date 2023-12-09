@@ -415,7 +415,8 @@
             "description": "Implements an expressive template language for random or combinatorial prompt generation along with features to support deep wildcard directory structures.",
             "added": "2022-11-01",
             "tags": [
-                "prompting"
+                "prompting",
+                "online"
             ]
         },
         {
