@@ -1,0 +1,10 @@
+{
+    "name": "State Manager",
+    "url": "https://github.com/SenshiSentou/sd-webui-state-manager.git",
+    "description": "A state manager to quickly save and return to previous configs in A1111",
+    "tags": [
+        "script",
+        "tab",
+        "UI related"
+    ]
+}
