@@ -1,0 +1,10 @@
+{
+    "name": "Agent Attention",
+    "url": "https://github.com/v0xie/sd-webui-agentattention.git",
+    "description": "Speed up image generation and improve image quality using Agent Attention! An unofficial implementation of the method in arXiv:2312.08874 [cs.CV]",
+    "tags": [
+        "dropdown",
+        "manipulations"
+    ],
+    "added": "2023-12-15"
+}
