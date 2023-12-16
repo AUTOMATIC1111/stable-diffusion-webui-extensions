@@ -1,16 +1,9 @@
 {
-    "name": "sd-webui-deepdanbooru-object-recognition",
-    "url": "https://github.com/Jibaku789/sd-webui-deepdanbooru-object-recognition/",
-    "description": "Using this extension you can interrogate Deepdanboru and identify objects in the images",
+    "name": "Deepdanbooru object recognition",
+    "url": "https://github.com/Jibaku789/sd-webui-deepdanbooru-object-recognition.git",
+    "description": "Interrogate Deepdanboru and identify objects in the images",
     "tags": [
-        "script",
-        "localization",
         "tab",
-        "models",
-        "UI related",
-        "prompting",
-        "editing",
-        "science",
-        "extras"
+        "query"
     ]
 }
