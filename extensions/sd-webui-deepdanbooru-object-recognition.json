@@ -1,0 +1,10 @@
+{
+    "name": "Deepdanbooru object recognition",
+    "url": "https://github.com/Jibaku789/sd-webui-deepdanbooru-object-recognition.git",
+    "description": "Interrogate Deepdanboru and identify objects in the images",
+    "tags": [
+        "tab",
+        "query"
+    ],
+    "added": "2023-12-16"
+}
