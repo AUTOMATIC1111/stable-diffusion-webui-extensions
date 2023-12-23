@@ -1,0 +1,11 @@
+{
+    "name": "LightDiffusionFlow",
+    "url": "https://github.com/Tencent/LightDiffusionFlow.git",
+    "description": "Import/export generation parameters",
+    "tags": [
+        "ads",
+        "UI related",
+        "prompting",
+        "online"
+    ]
+}
