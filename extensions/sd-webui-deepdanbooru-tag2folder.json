@@ -1,0 +1,9 @@
+{
+    "name": "Deepdanbooru Tag2Folder",
+    "url": "https://github.com/Jibaku789/sd-webui-deepdanbooru-tag2folder",
+    "description": "Using this script you can move images using deepdanbooru classification",
+    "tags": [
+        "tab",
+        "query"
+    ]
+}
