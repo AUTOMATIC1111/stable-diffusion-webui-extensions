@@ -29,7 +29,7 @@
             ],
             "full_name": "ArtVentureX/sd-webui-agent-scheduler",
             "github_description": null,
-            "stars": 478,
+            "stars": 479,
             "default_branch": "main",
             "created_at": "2023-05-16T04:35:16Z",
             "default_branch_commit_sha": "39159f2d52f53a5cf7ba0dfd1a0f085cff3e71e5",
@@ -46,7 +46,7 @@
             ],
             "full_name": "CiaraStrawberry/TemporalKit",
             "github_description": "An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension",
-            "stars": 1729,
+            "stars": 1733,
             "default_branch": "main",
             "created_at": "2023-04-12T20:58:28Z",
             "default_branch_commit_sha": "f46d255cfeb9c4b0c682bae5660a04ac7b7cd8dc",
@@ -127,7 +127,7 @@
             ],
             "full_name": "huchenlei/sd-webui-openpose-editor",
             "github_description": "Openpose editor for ControlNet. Full hand/face support.",
-            "stars": 453,
+            "stars": 455,
             "default_branch": "main",
             "created_at": "2023-04-29T20:17:34Z",
             "default_branch_commit_sha": "cebe13e092fa3c5d810f4afbd7a45987ba8275d0",
@@ -144,7 +144,7 @@
             ],
             "full_name": "continue-revolution/sd-webui-segment-anything",
             "github_description": "Segment Anything for Stable Diffusion WebUI",
-            "stars": 2901,
+            "stars": 2907,
             "default_branch": "master",
             "created_at": "2023-04-10T13:52:55Z",
             "default_branch_commit_sha": "d80220ecd2151cebfb00a5829be8ec1c05118000",
@@ -214,7 +214,7 @@
             ],
             "full_name": "Maurdekye/training-picker",
             "github_description": "Extension for stable-diffusion-webui that allows the user to mux through the keyframes of a video, and automatically pick and export training examples from individual keyframes.",
-            "stars": 105,
+            "stars": 106,
             "default_branch": "master",
             "created_at": "2022-10-31T19:05:32Z",
             "default_branch_commit_sha": "33a77cd286e891a5eaf32d7355c7ef6ba3d1c771",
@@ -321,23 +321,6 @@
             "created_at": "2022-11-06T07:36:50Z",
             "default_branch_commit_sha": "c8f290230f9360729abc3a3a57fe1befc2d43b23",
             "commit_time": "2022-12-04T04:55:54Z"
-        },
-        {
-            "name": "embedding-inspector",
-            "url": "https://github.com/tkalayci71/embedding-inspector.git",
-            "description": "Inspect any token(a word) or Textual-Inversion embeddings and find out which embeddings are similar. You can mix, modify, or create the embeddings in seconds.",
-            "added": "2022-12-06",
-            "tags": [
-                "tab",
-                "models"
-            ],
-            "full_name": "tkalayci71/embedding-inspector",
-            "github_description": "Embedding-inspector extension for AUTOMATIC1111/stable-diffusion-webui ",
-            "stars": 163,
-            "default_branch": "main",
-            "created_at": "2022-12-04T00:07:42Z",
-            "default_branch_commit_sha": "448b6d06859557c446fa3f53df5e732a11608537",
-            "commit_time": "2023-03-18T12:01:18Z"
         },
         {
             "name": "Merge Board",
@@ -4593,6 +4576,27 @@
                 "query"
             ],
             "added": "2024-01-04"
+        },
+        {
+            "name": "Characteristic Guidance Web UI",
+            "url": "https://github.com/scraed/CharacteristicGuidanceWebUI.git",
+            "description": "New guidance method providing large CFG scale correction for classifier-free guidance. Compatible with existing sampling methods.",
+            "tags": [
+                "dropdown",
+                "manipulations",
+                "science"
+            ],
+            "added": "2024-01-04"
+        },
+        {
+            "name": "embedding-inspector",
+            "url": "https://github.com/w-e-w/embedding-inspector.git",
+            "description": "Inspect any token(a word) or Textual-Inversion embeddings and find out which embeddings are similar. You can mix, modify, or create the embeddings in seconds.",
+            "added": "2022-12-06",
+            "tags": [
+                "tab",
+                "models"
+            ]
         }
     ]
 }
