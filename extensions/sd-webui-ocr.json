@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-ocr",
+    "url": "https://github.com/SpenserCai/sd-webui-ocr",
+    "description": "PaddleOCR's sd-webui extensions (pytorch implementation)",
+    "tags": [
+        "tab",
+        "query"
+    ],
+    "added": "2024-01-04"
+}
