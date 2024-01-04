@@ -17,18 +17,18 @@ def get_github_api(url: str):
         with urlopen(req) as response:
             data = response.read().decode()
             if response.getcode() == 200:
-                return True, json.loads(data)
+                return response.getcode(), json.loads(data)
             else:
-                print(f'::error::{url} Code : {response.getcode()} : {data}')
-                return False, None
+                print(f'::warning::{url} Code : {response.getcode()} : {data}')
+                return response.getcode(), None
     except Exception as e:
         print(f"::error::{url} : {e}")
         return False, None
 
 
 def get_github_api_limit():
-    success, rate_limit = get_github_api('https://api.github.com/rate_limit')
-    if success:
+    response_code, rate_limit = get_github_api('https://api.github.com/rate_limit')
+    if response_code == 200:
         core_limit = rate_limit.get('resources').get('core')
         print(f'::notice::core: {core_limit}')
         return(core_limit)
@@ -44,8 +44,8 @@ def get_github_metadata(extension: dict):
             print(f"::warning::skip: {extension['url']}")
             return
         print(extension['url'])
-        success, responce_json = get_github_api(f'https://api.github.com/repos/{github_repo.group(1)}')
-        if success:
+        response_code, responce_json = get_github_api(f'https://api.github.com/repos/{github_repo.group(1)}')
+        if response_code == 200:
             extension["full_name"] = responce_json.get("full_name")
             extension["github_description"] = responce_json.get("description")
             extension["stars"] = responce_json.get("stargazers_count")
@@ -54,12 +54,14 @@ def get_github_metadata(extension: dict):
 
             # get metadata of default branch
             if responce_json.get("default_branch"):
-                success, responce_json = get_github_api(f'https://api.github.com/repos/{github_repo.group(1)}/branches/{responce_json.get("default_branch")}')
-                if success:
+                response_code, responce_json = get_github_api(f'https://api.github.com/repos/{github_repo.group(1)}/branches/{responce_json.get("default_branch")}')
+                if response_code == 200:
                     extension["default_branch_commit_sha"] = responce_json.get("commit").get("sha")
                     extension["commit_time"] = responce_json.get("commit").get("commit").get("author").get("date")
                 else:
                     get_github_api_call_failed = True
+        elif response_code == 404:
+            pass
         else:
             get_github_api_call_failed = True
 
