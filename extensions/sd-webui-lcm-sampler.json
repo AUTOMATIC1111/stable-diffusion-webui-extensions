@@ -1,0 +1,9 @@
+{
+    "name": "LCM Sampler",
+    "url": "https://github.com/light-and-ray/sd-webui-lcm-sampler.git",
+    "description": "Sampler for lcm-loras, sdxl-turbo and sd_2.1_turbo models",
+    "tags": [
+        "dropdown",
+        "manipulations"
+    ]
+}
