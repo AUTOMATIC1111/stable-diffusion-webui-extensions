@@ -1,0 +1,19 @@
+{
+    "name": "Kohya_SS integration",
+    "url": "https://github.com/Eugeniusz-Gienek/kohya-with-automatic1111.git",
+    "description": "The unification of Kohya_SS and Automatic1111 Stable Diffusion WebUI.",
+    "tags": [
+        "script",
+        "tab",
+        "dropdown",
+        "training",
+        "models",
+        "UI related",
+        "prompting",
+        "editing",
+        "manipulations",
+        "query",
+        "science",
+        "extras"
+    ]
+}
