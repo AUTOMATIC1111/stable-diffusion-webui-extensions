@@ -1,0 +1,11 @@
+{
+    "name": "Thumbnailizer",
+    "url": "https://github.com/MNeMoNiCuZ/sd-webui-thumbnailizer.git",
+    "description": "A thumbnail gallery and set management tool. Generate and switch between different thumbnail sets for your checkpoints.",
+    "tags": [
+        "thumbnail",
+        "gallery",
+        "generate",
+        "tab"
+    ]
+}
