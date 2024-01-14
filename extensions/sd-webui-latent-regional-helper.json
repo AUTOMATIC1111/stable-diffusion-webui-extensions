@@ -1,0 +1,10 @@
+{
+    "name": "Latent Regional Helper",
+    "url": "https://github.com/safubuki/sd-webui-latent-regional-helper.git",
+    "description": "Simplify the region division settings for Latent Couple and Regional Prompter. Simply select from the drop-down list to output the setting values.",
+    "tags": [
+        "script",
+        "tab"
+    ],
+    "added": "2024-01-14"
+}
