@@ -2731,6 +2731,16 @@
                 "UI related"
             ],
             "added": "2024-01-14"
+        },
+        {
+            "name": "GPT-4 Vision Image Captioner",
+            "url": "https://github.com/SleeeepyZhou/sd-webui-GPT4V-Image-Captioner.git",
+            "description": "This extension utilizes the power of GPT-4 Vision API to provide image captioning capabilities through the Stable Diffusion Web UI. Requires a paid subscription to OpenAI.",
+            "tags": [
+                "tab",
+                "online"
+            ],
+            "added": "2024-01-14"
         }
     ]
 }
