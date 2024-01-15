@@ -2613,10 +2613,11 @@
         {
             "name": "Replacer - fast inpaint",
             "url": "https://github.com/light-and-ray/sd-webui-replacer.git",
-            "description": "Adds a tab for fast inpaint image by detection prompt. Requires sd-webui-segment-anything",
+            "description": "Adds a tab for fast inpaint image by detection prompt. Requires sd-webui-segment-anything. It also useful for batch inpaint, and inpaint in video with stable diffusion",
             "tags": [
                 "tab",
-                "editing"
+                "editing",
+                "animation"
             ],
             "added": "2023-12-06"
         },
