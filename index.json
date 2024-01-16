@@ -2684,7 +2684,7 @@
         {
             "name": "Characteristic Guidance Web UI",
             "url": "https://github.com/scraed/CharacteristicGuidanceWebUI.git",
-            "description": "New guidance method providing large CFG scale correction for classifier-free guidance. Compatible with existing sampling methods.",
+            "description": "New guidance method improving classifier-free guidance, providing enhanced sample quality at large CFG scale. Compatible with existing sampling methods.",
             "tags": [
                 "dropdown",
                 "manipulations",
