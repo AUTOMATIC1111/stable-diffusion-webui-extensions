@@ -4,6 +4,7 @@
     "description": "Use rembg to generate an inpaint mask. Adds a new operation mode.",
     "tags": [
         "tab",
-        "UI related"
+        "UI related",
+        "manipulations"
     ]
 }
