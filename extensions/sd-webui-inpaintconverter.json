@@ -1,0 +1,8 @@
+{
+    "name": "Inpaint Model Converter",
+    "url": "https://github.com/groinge/sd-webui-inpaintconverter.git",
+    "description": "Automatically converts any SD v1.5 checkpoint in to a temporary inpainting model",
+    "tags": [
+        "models"
+    ]
+}
