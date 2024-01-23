@@ -1,0 +1,12 @@
+{
+    "name": "Video in Extras tab",
+    "url": "https://github.com/light-and-ray/sd-webui-video-extras-tab.git",
+    "description": "This extension is needed to process video frame by frame inside extras tab.",
+    "tags": [
+        "tab",
+        "editing",
+        "animation",
+        "extras"
+    ],
+    "added": "2024-01-23"
+}
