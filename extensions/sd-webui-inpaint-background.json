@@ -1,0 +1,11 @@
+{
+    "name": "Inpaint background",
+    "url": "https://github.com/John-WL/sd-webui-inpaint-background.git",
+    "description": "Use rembg to generate an inpaint mask. Adds a new operation mode.",
+    "tags": [
+        "tab",
+        "UI related",
+        "manipulations"
+    ],
+    "added": "2024-01-23"
+}
