@@ -1,0 +1,9 @@
+{
+    "name": "Stable Diffusion Database Manager",
+    "url": "https://github.com/nicholas-ooi/stable-diffusion-database-manager.git",
+    "description": "Supports generating of images individually or in batches and insert them into one or multiple databases.",
+    "tags": [
+        "script"
+    ],
+    "added": "2024-02-06"
+}
