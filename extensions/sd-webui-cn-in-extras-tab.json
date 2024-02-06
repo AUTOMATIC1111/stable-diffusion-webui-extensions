@@ -1,0 +1,12 @@
+{
+    "name": "ControlNet Preprocessor in extras tab",
+    "url": "https://github.com/light-and-ray/sd-webui-cn-in-extras-tab.git",
+    "description": "Adds controlnet preprocessing feature into Extras tab",
+    "tags": [
+        "script",
+        "dropdown",
+        "editing",
+        "extras"
+    ],
+    "added": "2024-02-06"
+}
