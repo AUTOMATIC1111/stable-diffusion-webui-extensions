@@ -2604,7 +2604,7 @@
         {
             "name": "Replacer - fast inpaint",
             "url": "https://github.com/light-and-ray/sd-webui-replacer.git",
-            "description": "Adds a tab for fast inpaint image by detection prompt. Requires sd-webui-segment-anything. It also useful for batch inpaint, and inpaint in video with stable diffusion",
+            "description": "Adds a tab for fast inpaint image by detection prompt. Requires sd-webui-segment-anything. It also useful for batch inpaint, and inpaint in video with stable diffusion. Or you can just draw your own mask and use powerful hiresfix, or convenient controlnet inpainting",
             "tags": [
                 "tab",
                 "editing",
