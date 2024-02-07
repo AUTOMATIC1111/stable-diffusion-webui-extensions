@@ -1,0 +1,12 @@
+{
+    "name": "RPG-DiffusionMaster",
+    "url": "https://github.com/zydxt/sd-webui-rpg-diffusionmaster",
+    "description": "Implementation of WebUI extension for RPG-DiffusionMaster. Utilizing the capabilities of the LLM model to generate Regional Prompts for better generation results.",
+    "tags": [
+        "script",
+        "dropdown",
+        "prompting",
+        "online"
+    ],
+    "added": "2024-02-07"
+}
