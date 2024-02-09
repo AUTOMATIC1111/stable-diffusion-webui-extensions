@@ -1,0 +1,9 @@
+{
+    "name": "Workflow",
+    "url": "https://github.com/Inzaniak/sd-webui-workflow",
+    "description": "Add a new panel in the img2img tab to streamline your image processing workflow.",
+    "tags": [
+        "script"
+    ],
+    "added": "2024-02-09"
+}
