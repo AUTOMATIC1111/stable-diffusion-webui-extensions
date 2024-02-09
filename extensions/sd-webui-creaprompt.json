@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-creaprompt",
+    "url": "https://github.com/tritant/sd-webui-creaprompt.git",
+    "description": "This extension for A1111 generates wonderful prompts randomly",
+    "tags": [
+        "UI related",
+        "prompting"
+    ],
+    "added": "2024-02-09"
+}
