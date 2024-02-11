@@ -1,0 +1,8 @@
+{
+    "name": "QIC Console",
+    "url": "https://github.com/SenshiSentou/sd-webui-qic-console",
+    "description": "Adds a console tab to allow for quick testing of Python and Javascript snippets ",
+    "tags": [
+        "tab"
+    ]
+}
