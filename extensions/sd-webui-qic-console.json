@@ -1,0 +1,9 @@
+{
+    "name": "QIC Console",
+    "url": "https://github.com/SenshiSentou/sd-webui-qic-console",
+    "description": "Adds a console tab to allow for quick testing of Python and Javascript snippets. !!! WARNING DO NOT install this extension unless you are a developer !!!",
+    "tags": [
+        "tab"
+    ],
+    "added": "2024-02-11"
+}
