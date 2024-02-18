@@ -1,0 +1,9 @@
+{
+    "name": "Custom AutoLaunch",
+    "url": "https://github.com/w-e-w/sd-webui-custom-autolaunch.git",
+    "description": "AutoLaunch WebUI in non-default browser",
+    "tags": [
+        "script"
+    ],
+    "added": "2024-02-18"
+}
