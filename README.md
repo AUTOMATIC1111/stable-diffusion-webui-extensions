@@ -40,7 +40,7 @@ A list of available `tags` and their description can be found at in `tags.json`
 
 - An extension will need to be functioning for it to be included.
 
-- If extension is no longer functional and or not maintained, we might redirect it to a fork or remove it form the index.
+- If extension is no longer functional and or not maintained, we might redirect it to a fork or remove it from the index.
 
 - Not all extensions will be accepted, we will review the extension and make an assessment.
 
