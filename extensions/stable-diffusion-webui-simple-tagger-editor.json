@@ -1,0 +1,11 @@
+{
+    "name": "SimpleTaggerEditor",
+    "url": "https://github.com/davidkingzyb/SimpleTaggerEditor.git",
+    "description": "edit tagger from auto generated caption one by one",
+    "tags": [
+        "tab",
+        "editing",
+        "extras"
+    ],
+    "added": "2024-03-06"
+}
