@@ -1,0 +1,8 @@
+{
+    "name": "Diffusion Color Grading",
+    "url": "https://github.com/Haoming02/sd-webui-diffusion-cg.git",
+    "description": "performs color grading based on the latent tensor value range",
+    "tags": [
+        "manipulations"
+    ]
+}

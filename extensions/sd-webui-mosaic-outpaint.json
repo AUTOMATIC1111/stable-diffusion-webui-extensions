@@ -1,0 +1,8 @@
+{
+    "name": "Mosaic Outpaint",
+    "url": "https://github.com/Haoming02/sd-webui-mosaic-outpaint.git",
+    "description": "Outpainting without ControlNet",
+    "tags": [
+        "tab"
+    ]
+}
