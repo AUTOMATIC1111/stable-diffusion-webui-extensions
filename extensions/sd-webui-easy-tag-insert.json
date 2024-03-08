@@ -1,0 +1,8 @@
+{
+    "name": "Easy Tag Insert",
+    "url": "https://github.com/Haoming02/sd-webui-easy-tag-insert.git",
+    "description": "Button shortcuts for user-specified prompts",
+    "tags": [
+        "prompting"
+    ]
+}
