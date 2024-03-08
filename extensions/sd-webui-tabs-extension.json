@@ -1,0 +1,9 @@
+{
+    "name": "SD Webui Tabs Extension",
+    "url": "https://github.com/Haoming02/sd-webui-tabs-extension.git",
+    "description": "Reorganize extension accordion layout with tabs.",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2024-03-08"
+}

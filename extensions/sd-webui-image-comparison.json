@@ -1,0 +1,9 @@
+{
+    "name": "SD Webui Image Comparison",
+    "url": "https://github.com/Haoming02/sd-webui-image-comparison.git",
+    "description": "Easily compare img2img results within the Webui",
+    "tags": [
+        "tab"
+    ],
+    "added": "2024-03-08"
+}

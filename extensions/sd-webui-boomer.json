@@ -1,0 +1,9 @@
+{
+    "name": "SD Webui Boomer",
+    "url": "https://github.com/Haoming02/sd-webui-boomer.git",
+    "description": "An Extension that reverts some UI changes",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2024-03-08"
+}

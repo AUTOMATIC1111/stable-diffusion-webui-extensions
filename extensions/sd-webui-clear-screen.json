@@ -1,0 +1,9 @@
+{
+    "name": "Clear Screen",
+    "url": "https://github.com/Haoming02/sd-webui-clear-screen.git",
+    "description": "Adds a button 🆑 to clear the console window",
+    "tags": [
+        "script"
+    ],
+    "added": "2024-03-08"
+}

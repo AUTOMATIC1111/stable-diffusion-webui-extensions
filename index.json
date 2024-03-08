@@ -2846,6 +2846,96 @@
                 "extras"
             ],
             "added": "2024-03-06"
+        },
+        {
+            "name": "ReSharpen",
+            "url": "https://github.com/Haoming02/sd-webui-resharpen.git",
+            "description": "Increases/decreases the details of images",
+            "tags": [
+                "manipulations"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "Clear Screen",
+            "url": "https://github.com/Haoming02/sd-webui-clear-screen.git",
+            "description": "Adds a button 🆑 to clear the console window",
+            "tags": [
+                "script"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "SD Webui Image Comparison",
+            "url": "https://github.com/Haoming02/sd-webui-image-comparison.git",
+            "description": "Easily compare img2img results within the Webui",
+            "tags": [
+                "tab"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "SD Webui Tabs Extension",
+            "url": "https://github.com/Haoming02/sd-webui-tabs-extension.git",
+            "description": "Reorganize extension accordion layout with tabs.",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "Mosaic Outpaint",
+            "url": "https://github.com/Haoming02/sd-webui-mosaic-outpaint.git",
+            "description": "Outpainting without ControlNet",
+            "tags": [
+                "tab"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "SD Webui Boomer",
+            "url": "https://github.com/Haoming02/sd-webui-boomer.git",
+            "description": "An Extension that reverts some UI changes",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "Diffusion Color Grading",
+            "url": "https://github.com/Haoming02/sd-webui-diffusion-cg.git",
+            "description": "performs color grading based on the latent tensor value range",
+            "tags": [
+                "manipulations"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "Moar Generate Button",
+            "url": "https://github.com/Haoming02/sd-webui-moar-generate.git",
+            "description": "Adds a 2nd Generate button",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "Old Photo Restoration",
+            "url": "https://github.com/Haoming02/sd-webui-old-photo-restoration.git",
+            "description": "Bringing Old Photo Back to Life",
+            "tags": [
+                "tab"
+            ],
+            "added": "2024-03-08"
+        },
+        {
+            "name": "Mobile friendly UI tweaks",
+            "url": "https://github.com/Haoming02/sd-webui-mobile-friendly.git",
+            "description": "UI tweaks to makes the web interface easier to use on mobile (portrait)",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-03-08"
         }
     ]
 }

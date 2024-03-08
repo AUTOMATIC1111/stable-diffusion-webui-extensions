@@ -1,0 +1,9 @@
+{
+    "name": "Moar Generate Button",
+    "url": "https://github.com/Haoming02/sd-webui-moar-generate.git",
+    "description": "Adds a 2nd Generate button",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2024-03-08"
+}

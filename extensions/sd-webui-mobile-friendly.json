@@ -1,0 +1,9 @@
+{
+    "name": "Mobile friendly UI tweaks",
+    "url": "https://github.com/Haoming02/sd-webui-mobile-friendly.git",
+    "description": "UI tweaks to makes the web interface easier to use on mobile (portrait)",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2024-03-08"
+}

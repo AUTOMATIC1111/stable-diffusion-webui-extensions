@@ -1,0 +1,9 @@
+{
+    "name": "ReSharpen",
+    "url": "https://github.com/Haoming02/sd-webui-resharpen.git",
+    "description": "Increases/decreases the details of images",
+    "tags": [
+        "manipulations"
+    ],
+    "added": "2024-03-08"
+}
