@@ -1,0 +1,10 @@
+{
+    "name": "Token Downsampling",
+    "url": "https://github.com/feffy380/sd-webui-token-downsampling.git",
+    "description": "ToDo implements an improved version of token merging (ToMe) to speed up inference with less quality loss",
+    "tags": [
+        "script",
+        "manipulations"
+    ],
+    "added": "2024-03-10"
+}
