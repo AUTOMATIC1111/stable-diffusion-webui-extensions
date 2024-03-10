@@ -20,21 +20,21 @@ jobs:
 
         steps:
         - name: Checkout extensions
-          uses: actions/checkout@v3
+          uses: actions/checkout@v4
           with:
             fetch-depth: 2
             ref: 'extensions'
             path: extensions
 
         - name: Checkout master
-          uses: actions/checkout@v3
+          uses: actions/checkout@v4
           with:
             fetch-depth: 2
             ref: 'master'
             path: master
 
         - name: Setup python
-          uses: actions/setup-python@v4
+          uses: actions/setup-python@v5
           with:
             python-version: '3.11'
 
@@ -50,7 +50,7 @@ jobs:
           run: echo "msg=$(git -C master log -1 --pretty=%s)" >> $GITHUB_OUTPUT
 
         - name: Commit - master
-          uses: stefanzweifel/git-auto-commit-action@v4
+          uses: stefanzweifel/git-auto-commit-action@v5
           with:
             commit_message: ${{ steps.last-commit-message-master.outputs.msg }}
             commit_options: '--amend --no-edit'
@@ -60,7 +60,7 @@ jobs:
             repository: master
 
         - name: Commit - extensions
-          uses: stefanzweifel/git-auto-commit-action@v4
+          uses: stefanzweifel/git-auto-commit-action@v5
           with:
             commit_message: ${{ steps.last-commit-message-extensions.outputs.msg }}
             commit_options: '--amend --no-edit'
