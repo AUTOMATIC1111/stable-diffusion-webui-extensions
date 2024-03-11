@@ -1,0 +1,9 @@
+{
+    "name": "Aspect Ratio Resolutions selector-xhox",
+    "url": "https://github.com/xhoxye/sd-webui-ar_xhox.git",
+    "description": "Extension for stable-diffusion-webui adding image aspect ratio resolutions selector buttons.",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2024-03-11"
+}
