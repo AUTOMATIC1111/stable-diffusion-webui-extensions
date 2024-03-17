@@ -1,0 +1,10 @@
+{
+    "name": "Simple Manga Maker",
+    "url": "https://github.com/new-sankaku/stable-diffusion-webui-simple-manga-maker.git",
+    "description": "With simple operations, an extension that enables the creation and application of manga-style images.",
+    "tags": [
+        "tab",
+        "editing"
+    ],
+    "added": "2024-03-17"
+}
