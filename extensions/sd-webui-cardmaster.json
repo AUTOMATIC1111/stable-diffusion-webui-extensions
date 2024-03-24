@@ -1,0 +1,9 @@
+{
+    "name": "Card Master",
+    "url": "https://github.com/SenshiSentou/sd-webui-cardmaster.git",
+    "description": "Adds powerful tools to the \"extra network\" cards (esp. LoRAs), including detail views, easy application of activation texts to the negative prompt, partial application of activation texts that contain multiple sections, and automatic prompt cleanup when removing a LoRA. This extension was previously known as tinycards. Please remove the old version if you still have it installed.",
+    "tags": [
+        "UI related"
+    ],
+    "added": "2023-11-25"
+}
