@@ -1,0 +1,7 @@
+{
+    "name": "cli-interruption",
+    "url": "https://github.com/light-and-ray/sd-webui-cli-interruption.git",
+    "description": "Interrupt generation on SIGINT signal (Ctrl+C), instead of closing the server.",
+    "tags": [],
+    "added": "2024-03-26"
+}
