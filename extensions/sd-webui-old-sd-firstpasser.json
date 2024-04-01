@@ -1,0 +1,9 @@
+{
+    "name": "Old SD firstpasser",
+    "url": "https://github.com/light-and-ray/sd-webui-old-sd-firstpasser.git",
+    "description": "Firstpass generation with old SD model, Loras, embedding, etc ",
+    "tags": [
+        "script",
+        "manipulations"
+    ]
+}
