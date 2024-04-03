@@ -111,7 +111,7 @@
             ],
             "full_name": "jtydhr88/sd-webui-txt-img-to-3d-model",
             "github_description": "A custom extension for sd-webui that allow you to generate 3D model from txt or image, basing on OpenAI Shap-E.",
-            "stars": 247,
+            "stars": 248,
             "default_branch": "master",
             "created_at": "2023-06-09T04:11:02Z",
             "default_branch_commit_sha": "70b29e47ae61d1e5b2df88cf0bd14bdb159f7745",
@@ -144,7 +144,7 @@
             ],
             "full_name": "continue-revolution/sd-webui-segment-anything",
             "github_description": "Segment Anything for Stable Diffusion WebUI",
-            "stars": 3143,
+            "stars": 3144,
             "default_branch": "master",
             "created_at": "2023-04-10T13:52:55Z",
             "default_branch_commit_sha": "982138cfb505de61a3cbb257b2fa9d461d9b5493",
@@ -350,7 +350,7 @@
             ],
             "full_name": "Akegarasu/sd-webui-model-converter",
             "github_description": "model convert extension for stable-diffusion-webui. supports convert fp16/bf16 no-ema/ema-only safetensors",
-            "stars": 293,
+            "stars": 294,
             "default_branch": "main",
             "created_at": "2023-01-05T03:50:13Z",
             "default_branch_commit_sha": "ae33f5cf687d5b15d1625886e162677c6d05237e",
@@ -366,7 +366,7 @@
             ],
             "full_name": "kohya-ss/sd-webui-additional-networks",
             "github_description": null,
-            "stars": 1696,
+            "stars": 1697,
             "default_branch": "main",
             "created_at": "2022-12-27T09:03:08Z",
             "default_branch_commit_sha": "e9f3d622b5a98650008a685ea23b27eb810da35a",
@@ -418,11 +418,11 @@
             ],
             "full_name": "hako-mikan/sd-webui-supermerger",
             "github_description": "model merge extention for stable diffusion web ui",
-            "stars": 649,
+            "stars": 650,
             "default_branch": "main",
             "created_at": "2023-01-18T13:20:58Z",
-            "default_branch_commit_sha": "aa6e19567f984763466d10ef6bcdbed15314fe12",
-            "commit_time": "2024-02-23T03:50:00Z"
+            "default_branch_commit_sha": "2c858160f43cd370bc4ca658f31b60c5abefdfd3",
+            "commit_time": "2024-04-02T15:27:09Z"
         },
         {
             "name": "LoRA Block Weight",
@@ -451,7 +451,7 @@
             ],
             "full_name": "AlUlkesh/stable-diffusion-webui-images-browser",
             "github_description": "an images browse for stable-diffusion-webui",
-            "stars": 566,
+            "stars": 567,
             "default_branch": "main",
             "created_at": "2023-01-14T16:20:37Z",
             "default_branch_commit_sha": "3d2d0f4c7b0599f88df99a9ea66c21bcbec49bda",
@@ -468,7 +468,7 @@
             ],
             "full_name": "zanllp/sd-webui-infinite-image-browsing",
             "github_description": "A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
-            "stars": 804,
+            "stars": 805,
             "default_branch": "main",
             "created_at": "2023-03-07T18:26:27Z",
             "default_branch_commit_sha": "8194b8093b8bc18105ab8edb21db92ec6da5b7dd",
@@ -554,8 +554,8 @@
             "stars": 237,
             "default_branch": "main",
             "created_at": "2022-12-13T07:05:08Z",
-            "default_branch_commit_sha": "45782006d4e7f211656d7168cff37f1bb997b834",
-            "commit_time": "2024-03-29T04:33:17Z"
+            "default_branch_commit_sha": "ca6e8888c9f84c25150ce3b3454fbdaaa680603a",
+            "commit_time": "2024-04-02T18:07:43Z"
         },
         {
             "name": "Preset Utilities",
@@ -683,7 +683,7 @@
             ],
             "full_name": "adieyal/sd-dynamic-prompts",
             "github_description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
-            "stars": 1835,
+            "stars": 1838,
             "default_branch": "main",
             "created_at": "2022-10-08T17:58:22Z",
             "default_branch_commit_sha": "e8326b5eee92c78f3bc2aa424d5ea4a91bed2c38",
@@ -700,7 +700,7 @@
             ],
             "full_name": "ThereforeGames/unprompted",
             "github_description": "Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.",
-            "stars": 736,
+            "stars": 737,
             "default_branch": "main",
             "created_at": "2022-10-31T03:02:21Z",
             "default_branch_commit_sha": "b732c46f76c95f1eeb3b5a682806ec94e02a31bf",
@@ -732,7 +732,7 @@
             ],
             "full_name": "DominikDoom/a1111-sd-webui-tagcomplete",
             "github_description": "Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
-            "stars": 2376,
+            "stars": 2377,
             "default_branch": "main",
             "created_at": "2022-10-11T17:33:14Z",
             "default_branch_commit_sha": "bec567fe261dc9576ea92dfae9fc2836e6dd4e24",
@@ -816,8 +816,8 @@
             "stars": 221,
             "default_branch": "main",
             "created_at": "2022-12-01T03:07:53Z",
-            "default_branch_commit_sha": "b3de707129bff54949b3a4d209b8c0dabfad68e0",
-            "commit_time": "2024-04-02T00:00:46Z"
+            "default_branch_commit_sha": "615c589b9aad741465e66f55798115b26645647f",
+            "commit_time": "2024-04-03T00:01:27Z"
         },
         {
             "name": "Prompt Generator",
@@ -882,7 +882,7 @@
             ],
             "full_name": "butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
             "github_description": "This extension can translate prompt from your native language into English, so you can write prompt with your native language",
-            "stars": 246,
+            "stars": 247,
             "default_branch": "main",
             "created_at": "2023-02-09T10:20:30Z",
             "default_branch_commit_sha": "8169f9430b54bbac2a7ee2a752e6566570cafce1",
@@ -899,7 +899,7 @@
             ],
             "full_name": "deforum-art/sd-webui-deforum",
             "github_description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
-            "stars": 2519,
+            "stars": 2522,
             "default_branch": "automatic1111-webui",
             "created_at": "2022-10-14T22:29:12Z",
             "default_branch_commit_sha": "322426851408ebca2cd49492bfeb1ec86e1dc869",
@@ -996,7 +996,7 @@
             ],
             "full_name": "Kahsolt/stable-diffusion-webui-prompt-travel",
             "github_description": "Travel between prompts in the latent space to make pseudo-animation, extension script for AUTOMATIC1111/stable-diffusion-webui.",
-            "stars": 237,
+            "stars": 238,
             "default_branch": "main",
             "created_at": "2022-11-10T14:01:14Z",
             "default_branch_commit_sha": "9c532f3487c69d533ae6637bae331f92ebb7b69f",
@@ -5128,6 +5128,27 @@
             "created_at": "2024-03-26T07:44:09Z",
             "default_branch_commit_sha": "ff75241b4632456309779cb916f441dd4a23a571",
             "commit_time": "2024-03-28T21:50:04Z"
+        },
+        {
+            "name": "DemoFusion",
+            "url": "https://github.com/sebaxakerhtc/sd-webui-demofusion.git",
+            "description": "DemoFusion as a tab for WebUI. DemoFusion: Democratising High-Resolution Image Generation With No 💰",
+            "tags": [
+                "script",
+                "tab",
+                "manipulations"
+            ],
+            "added": "2024-04-03"
+        },
+        {
+            "name": "Incantations",
+            "url": "https://github.com/v0xie/sd-webui-incantations.git",
+            "description": "Implements multiple novel guidance algorithms to improve image quality, reduce concept bleeding, and enhance prompt following!",
+            "tags": [
+                "dropdown",
+                "manipulations"
+            ],
+            "added": "2024-04-03"
         }
     ]
 }
