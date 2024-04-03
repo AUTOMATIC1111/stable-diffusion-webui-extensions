@@ -1,0 +1,11 @@
+{
+    "name": "DemoFusion",
+    "url": "https://github.com/sebaxakerhtc/sd-webui-demofusion.git",
+    "description": "DemoFusion as a tab for WebUI. DemoFusion: Democratising High-Resolution Image Generation With No 💰",
+    "tags": [
+        "script",
+        "tab",
+        "manipulations"
+    ],
+    "added": "2024-04-03"
+}
