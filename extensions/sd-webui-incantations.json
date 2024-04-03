@@ -1,0 +1,10 @@
+{
+    "name": "Incantations",
+    "url": "https://github.com/v0xie/sd-webui-incantations.git",
+    "description": "Implements multiple novel guidance algorithms to improve image quality, reduce concept bleeding, and enhance prompt following!",
+    "tags": [
+        "dropdown",
+        "manipulations"
+    ],
+    "added": "2024-04-03"
+}
