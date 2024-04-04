@@ -1,0 +1,10 @@
+{
+    "name": "Batchlinks Downloader",
+    "url": "https://github.com/etherealxx/batchlinks-webui.git",
+    "description": "Download several Huggingface, MEGA, and CivitAI links at once. SD webui extension. For colab.",
+    "tags": [
+        "script",
+        "tab",
+        "online"
+    ]
+}
