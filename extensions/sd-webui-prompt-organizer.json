@@ -1,0 +1,21 @@
+{
+    "name": "Prompt Organizer",
+    "url": "https://github.com/txt2any/sd-webui-prompt-organizer.git",
+    "description": "This is an extension for AUTOMATIC1111/stable-diffusion-webui that automatically saves your AI-generated images to cloud storage or a prompt organizer such as www.txt2any.com.",
+    "tags": [
+        "organize",
+        "organizer",
+        "storage",
+        "cloud",
+        "prompt",
+        "metadata",
+        "generation",
+        "data",
+        "civitai",
+        "image",
+        "upload",
+        "compare",
+        "analyze",
+        "analysis"
+    ]
+}
