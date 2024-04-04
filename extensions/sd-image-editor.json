@@ -1,0 +1,9 @@
+{
+    "name": "SD Image Editor",
+    "url": "https://github.com/sontungdo/sd-image-editor.git",
+    "description": "A fast and easy-to-use image editor for Stable Diffusion Web UI",
+    "tags": [
+        "tab",
+        "editing"
+    ]
+}
