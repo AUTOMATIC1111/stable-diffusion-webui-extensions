@@ -29,7 +29,7 @@
             ],
             "full_name": "ArtVentureX/sd-webui-agent-scheduler",
             "github_description": null,
-            "stars": 554,
+            "stars": 556,
             "default_branch": "main",
             "created_at": "2023-05-16T04:35:16Z",
             "default_branch_commit_sha": "721a36f59507e625c9982397c22edd7c14a0f62a",
@@ -180,7 +180,7 @@
             ],
             "full_name": "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
             "github_description": "Aesthetic gradients extension for web ui",
-            "stars": 412,
+            "stars": 413,
             "default_branch": "master",
             "created_at": "2022-10-22T09:22:04Z",
             "default_branch_commit_sha": "2624e5dd4902cb731287b426ad483e741ece85bb",
@@ -197,7 +197,7 @@
             ],
             "full_name": "d8ahazard/sd_dreambooth_extension",
             "github_description": null,
-            "stars": 1801,
+            "stars": 1802,
             "default_branch": "main",
             "created_at": "2022-11-06T02:40:44Z",
             "default_branch_commit_sha": "45a12fe5950bf93205b6ef2b7511eb94052a241f",
@@ -418,11 +418,11 @@
             ],
             "full_name": "hako-mikan/sd-webui-supermerger",
             "github_description": "model merge extention for stable diffusion web ui",
-            "stars": 650,
+            "stars": 651,
             "default_branch": "main",
             "created_at": "2023-01-18T13:20:58Z",
-            "default_branch_commit_sha": "a21344786bc7eab81a301c5859a0086e735c115e",
-            "commit_time": "2024-04-04T03:15:58Z"
+            "default_branch_commit_sha": "9b7e3e003c6d24a9848de4d6b9ebaa25192d29c9",
+            "commit_time": "2024-04-04T11:27:55Z"
         },
         {
             "name": "LoRA Block Weight",
@@ -468,7 +468,7 @@
             ],
             "full_name": "zanllp/sd-webui-infinite-image-browsing",
             "github_description": "A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
-            "stars": 805,
+            "stars": 806,
             "default_branch": "main",
             "created_at": "2023-03-07T18:26:27Z",
             "default_branch_commit_sha": "8194b8093b8bc18105ab8edb21db92ec6da5b7dd",
@@ -485,7 +485,7 @@
             ],
             "full_name": "yfszzx/stable-diffusion-webui-inspiration",
             "github_description": null,
-            "stars": 113,
+            "stars": 114,
             "default_branch": "main",
             "created_at": "2022-10-20T14:21:15Z",
             "default_branch_commit_sha": "0f3f699decfadcf88d7483d214877fbf96f1f488",
@@ -551,7 +551,7 @@
             ],
             "full_name": "Zyin055/Config-Presets",
             "github_description": "Extension for Automatic1111",
-            "stars": 237,
+            "stars": 238,
             "default_branch": "main",
             "created_at": "2022-12-13T07:05:08Z",
             "default_branch_commit_sha": "99a8476c37cb512c6f51e124e0a9a0223bf57962",
@@ -650,7 +650,7 @@
             ],
             "full_name": "catppuccin/stable-diffusion-webui",
             "github_description": "🧑‍🎨 Soothing pastel theme for Stable Diffusion WebUI",
-            "stars": 279,
+            "stars": 280,
             "default_branch": "main",
             "created_at": "2022-12-29T20:58:40Z",
             "default_branch_commit_sha": "6f1eebbec4dc1c191899e285ec19d319e34d213c",
@@ -683,7 +683,7 @@
             ],
             "full_name": "adieyal/sd-dynamic-prompts",
             "github_description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
-            "stars": 1839,
+            "stars": 1844,
             "default_branch": "main",
             "created_at": "2022-10-08T17:58:22Z",
             "default_branch_commit_sha": "e8326b5eee92c78f3bc2aa424d5ea4a91bed2c38",
@@ -716,7 +716,7 @@
             ],
             "full_name": "some9000/StylePile",
             "github_description": "A prompt generation helper script for AUTOMATIC1111/stable-diffusion-webui and compatible forks",
-            "stars": 565,
+            "stars": 566,
             "default_branch": "main",
             "created_at": "2022-10-18T13:48:02Z",
             "default_branch_commit_sha": "85b549a10ff6c5b1604e980cd2107253b088e832",
@@ -732,7 +732,7 @@
             ],
             "full_name": "DominikDoom/a1111-sd-webui-tagcomplete",
             "github_description": "Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI",
-            "stars": 2378,
+            "stars": 2379,
             "default_branch": "main",
             "created_at": "2022-10-11T17:33:14Z",
             "default_branch_commit_sha": "bec567fe261dc9576ea92dfae9fc2836e6dd4e24",
@@ -816,8 +816,8 @@
             "stars": 222,
             "default_branch": "main",
             "created_at": "2022-12-01T03:07:53Z",
-            "default_branch_commit_sha": "63c93ae5bca0a50726776f449ecc7af79ad1318f",
-            "commit_time": "2024-04-03T18:00:34Z"
+            "default_branch_commit_sha": "1c5f75bbfefe4ca77f1ae08fdbab3c6ef4267809",
+            "commit_time": "2024-04-04T18:00:34Z"
         },
         {
             "name": "Prompt Generator",
@@ -847,7 +847,7 @@
             ],
             "full_name": "AUTOMATIC1111/stable-diffusion-webui-promptgen",
             "github_description": "stable-diffusion-webui-promptgen",
-            "stars": 428,
+            "stars": 429,
             "default_branch": "master",
             "created_at": "2023-01-18T09:50:34Z",
             "default_branch_commit_sha": "84e58b5d655c6e6b140af2c3fd2f49a398e666f2",
@@ -899,7 +899,7 @@
             ],
             "full_name": "deforum-art/sd-webui-deforum",
             "github_description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
-            "stars": 2523,
+            "stars": 2524,
             "default_branch": "automatic1111-webui",
             "created_at": "2022-10-14T22:29:12Z",
             "default_branch_commit_sha": "322426851408ebca2cd49492bfeb1ec86e1dc869",
@@ -996,7 +996,7 @@
             ],
             "full_name": "Kahsolt/stable-diffusion-webui-prompt-travel",
             "github_description": "Travel between prompts in the latent space to make pseudo-animation, extension script for AUTOMATIC1111/stable-diffusion-webui.",
-            "stars": 238,
+            "stars": 239,
             "default_branch": "main",
             "created_at": "2022-11-10T14:01:14Z",
             "default_branch_commit_sha": "9c532f3487c69d533ae6637bae331f92ebb7b69f",
@@ -5149,6 +5149,26 @@
                 "manipulations"
             ],
             "added": "2024-04-03"
+        },
+        {
+            "name": "Old SD firstpasser",
+            "url": "https://github.com/light-and-ray/sd-webui-old-sd-firstpasser.git",
+            "description": "Firstpass generation with old SD model, Loras, embedding, etc ",
+            "tags": [
+                "script",
+                "manipulations"
+            ],
+            "added": "2024-04-05"
+        },
+        {
+            "name": "SD Image Editor",
+            "url": "https://github.com/sontungdo/sd-image-editor.git",
+            "description": "A fast and easy-to-use image editor for Stable Diffusion Web UI",
+            "tags": [
+                "tab",
+                "editing"
+            ],
+            "added": "2024-04-05"
         }
     ]
 }
