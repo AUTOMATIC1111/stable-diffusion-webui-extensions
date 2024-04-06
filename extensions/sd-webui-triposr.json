@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-triposr",
+    "url": "https://github.com/AlbedoFire/sd-webui-triposr.git",
+    "description": "can trasfrom your images to 3d models",
+    "tags": [
+        "script",
+        "tab",
+        "models",
+        "extras"
+    ]
+}
