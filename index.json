@@ -29,7 +29,7 @@
             ],
             "full_name": "ArtVentureX/sd-webui-agent-scheduler",
             "github_description": null,
-            "stars": 556,
+            "stars": 557,
             "default_branch": "main",
             "created_at": "2023-05-16T04:35:16Z",
             "default_branch_commit_sha": "721a36f59507e625c9982397c22edd7c14a0f62a",
@@ -46,7 +46,7 @@
             ],
             "full_name": "CiaraStrawberry/TemporalKit",
             "github_description": "An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension",
-            "stars": 1842,
+            "stars": 1845,
             "default_branch": "main",
             "created_at": "2023-04-12T20:58:28Z",
             "default_branch_commit_sha": "f46d255cfeb9c4b0c682bae5660a04ac7b7cd8dc",
@@ -127,7 +127,7 @@
             ],
             "full_name": "huchenlei/sd-webui-openpose-editor",
             "github_description": "Openpose editor for ControlNet. Full hand/face support.",
-            "stars": 550,
+            "stars": 554,
             "default_branch": "main",
             "created_at": "2023-04-29T20:17:34Z",
             "default_branch_commit_sha": "cebe13e092fa3c5d810f4afbd7a45987ba8275d0",
@@ -144,7 +144,7 @@
             ],
             "full_name": "continue-revolution/sd-webui-segment-anything",
             "github_description": "Segment Anything for Stable Diffusion WebUI",
-            "stars": 3148,
+            "stars": 3149,
             "default_branch": "master",
             "created_at": "2023-04-10T13:52:55Z",
             "default_branch_commit_sha": "982138cfb505de61a3cbb257b2fa9d461d9b5493",
@@ -165,8 +165,8 @@
             "stars": 132,
             "default_branch": "main",
             "created_at": "2023-05-04T04:23:40Z",
-            "default_branch_commit_sha": "bb9edb0dbfe9d4072f91e2a4af023300325ca1bd",
-            "commit_time": "2024-03-28T10:10:00Z"
+            "default_branch_commit_sha": "2cd17b5ccb9f0d6c34284b6448f73d222196f14d",
+            "commit_time": "2024-04-08T00:50:58Z"
         },
         {
             "name": "Aesthetic Gradients",
@@ -197,7 +197,7 @@
             ],
             "full_name": "d8ahazard/sd_dreambooth_extension",
             "github_description": null,
-            "stars": 1806,
+            "stars": 1808,
             "default_branch": "main",
             "created_at": "2022-11-06T02:40:44Z",
             "default_branch_commit_sha": "45a12fe5950bf93205b6ef2b7511eb94052a241f",
@@ -366,7 +366,7 @@
             ],
             "full_name": "kohya-ss/sd-webui-additional-networks",
             "github_description": null,
-            "stars": 1699,
+            "stars": 1701,
             "default_branch": "main",
             "created_at": "2022-12-27T09:03:08Z",
             "default_branch_commit_sha": "e9f3d622b5a98650008a685ea23b27eb810da35a",
@@ -418,7 +418,7 @@
             ],
             "full_name": "hako-mikan/sd-webui-supermerger",
             "github_description": "model merge extention for stable diffusion web ui",
-            "stars": 652,
+            "stars": 653,
             "default_branch": "main",
             "created_at": "2023-01-18T13:20:58Z",
             "default_branch_commit_sha": "6f191f36baf36b17065d49baa551f7308f1b9d4e",
@@ -468,11 +468,11 @@
             ],
             "full_name": "zanllp/sd-webui-infinite-image-browsing",
             "github_description": "A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalone operation.",
-            "stars": 809,
+            "stars": 812,
             "default_branch": "main",
             "created_at": "2023-03-07T18:26:27Z",
-            "default_branch_commit_sha": "8194b8093b8bc18105ab8edb21db92ec6da5b7dd",
-            "commit_time": "2024-03-30T02:55:51Z"
+            "default_branch_commit_sha": "bc9550683fb291ad3c31d52b4f5be12b47d8ee13",
+            "commit_time": "2024-04-07T06:48:07Z"
         },
         {
             "name": "Inspiration",
@@ -538,8 +538,8 @@
             "stars": 168,
             "default_branch": "master",
             "created_at": "2022-12-08T18:25:14Z",
-            "default_branch_commit_sha": "7cc11e666fa52856beb2051190fc163259ed8441",
-            "commit_time": "2024-02-10T17:49:16Z"
+            "default_branch_commit_sha": "a95d825b8f32c5341a0f6000ab4f6d6e8fd63708",
+            "commit_time": "2024-04-08T03:40:54Z"
         },
         {
             "name": "Config-Presets",
@@ -683,7 +683,7 @@
             ],
             "full_name": "adieyal/sd-dynamic-prompts",
             "github_description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
-            "stars": 1844,
+            "stars": 1845,
             "default_branch": "main",
             "created_at": "2022-10-08T17:58:22Z",
             "default_branch_commit_sha": "e8326b5eee92c78f3bc2aa424d5ea4a91bed2c38",
@@ -816,8 +816,8 @@
             "stars": 223,
             "default_branch": "main",
             "created_at": "2022-12-01T03:07:53Z",
-            "default_branch_commit_sha": "a8c5142acb0ccbe80657e0c67ccff71122f040bf",
-            "commit_time": "2024-04-07T00:00:46Z"
+            "default_branch_commit_sha": "0f444eab1f67e7830fa84e7afa8d818eafdd0b1d",
+            "commit_time": "2024-04-08T00:00:46Z"
         },
         {
             "name": "Prompt Generator",
@@ -899,7 +899,7 @@
             ],
             "full_name": "deforum-art/sd-webui-deforum",
             "github_description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
-            "stars": 2527,
+            "stars": 2530,
             "default_branch": "automatic1111-webui",
             "created_at": "2022-10-14T22:29:12Z",
             "default_branch_commit_sha": "322426851408ebca2cd49492bfeb1ec86e1dc869",
