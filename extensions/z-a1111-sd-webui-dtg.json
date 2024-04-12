@@ -1,0 +1,11 @@
+{
+    "name": "A1111 SD WebUI DTG",
+    "url": "https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg",
+    "description": "A sd-webui extension for utilizing DanTagGen to \"upsample prompts\".",
+    "tags": [
+        "script",
+        "dropdown",
+        "prompting"
+    ],
+    "added": "2024-04-12"
+}
