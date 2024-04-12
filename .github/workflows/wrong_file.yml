@@ -7,6 +7,7 @@ name: Warning wrong file
       - extensions
     paths-ignore:
       - 'extensions/**.json'
+      - 'removed**.json'
   pull_request:
     types:
       - opened
@@ -14,6 +15,7 @@ name: Warning wrong file
       - reopened
     paths-ignore:
       - 'extensions/**.json'
+      - 'removed**.json'
 
 jobs:
   wrong-file:
