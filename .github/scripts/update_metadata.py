@@ -1,6 +1,7 @@
 from concurrent.futures import ThreadPoolExecutor, wait
 from urllib.request import Request, urlopen
 from argparse import ArgumentParser
+from urllib.error import HTTPError
 from pathlib import Path
 import json
 import re
@@ -16,11 +17,14 @@ def get_github_api(url: str):
         req = Request(url, headers=headers)
         with urlopen(req) as response:
             data = response.read().decode()
-            if response.getcode() == 200:
-                return response.getcode(), json.loads(data)
+            if (response_code := response.getcode()) == 200:
+                return response_code, json.loads(data)
             else:
-                print(f'::warning::{url} Code : {response.getcode()} : {data}')
-                return response.getcode(), None
+                print(f'::warning::{url} Code : {response_code} : {data}')
+                return response_code, None
+    except HTTPError as e:
+        print(f"::error::{url} : {e}")
+        return e.code, None
     except Exception as e:
         print(f"::error::{url} : {e}")
         return False, None
@@ -58,6 +62,8 @@ def get_github_metadata(extension: dict):
                 if response_code == 200:
                     extension["default_branch_commit_sha"] = responce_json.get("commit").get("sha")
                     extension["commit_time"] = responce_json.get("commit").get("commit").get("author").get("date")
+                elif response_code == 404:
+                    pass
                 else:
                     get_github_api_call_failed = True
         elif response_code == 404:
