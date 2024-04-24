@@ -3047,14 +3047,11 @@
             "added": "2024-04-12"
         },
         {
-            "name": "sd-webui-triposr",
+            "name": "TripoSR",
             "url": "https://github.com/AlbedoFire/sd-webui-triposr.git",
-            "description": "can trasfrom your images to 3d models",
+            "description": "TripoSR image to 3D model",
             "tags": [
-                "script",
-                "tab",
-                "models",
-                "extras"
+                "tab"
             ],
             "added": "2024-04-24"
         }
