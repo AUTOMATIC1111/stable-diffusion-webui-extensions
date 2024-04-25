@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-prompt-from-text-or-tagger",
+    "url": "https://github.com/GiusTex/sd-webui-prompt-from-text-or-tagger.git",
+    "description": "Like the prompt-from-file-or-textbox script, but with built-in grid-maker and auto-tagger option. Useful to make random images and test prompts based on other images, automatically",
+    "tags": [
+        "script",
+        "prompting",
+        "editing",
+        "query"
+    ]
+}

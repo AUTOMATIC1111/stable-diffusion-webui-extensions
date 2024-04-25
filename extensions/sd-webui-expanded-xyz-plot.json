@@ -1,0 +1,8 @@
+{
+    "name": "sd-webui-expanded-xyz-plot",
+    "url": "https://github.com/GiusTex/sd-webui-expanded-xyz-plot.git",
+    "description": "Updated version of yspacedevyspacedev Expanded-XY-grid. Adds more features to the standard xyz grid, such as putting multiple parameters in an axis row. Useful if you want to test more than 3 parameters at a time",
+    "tags": [
+        "script"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "sd-webui-clipboard",
+    "url": "https://github.com/GiusTex/sd-webui-clipboard.git",
+    "description": "Extension that adds a textfield where to store notes, prompt parts, parameters etc between sessions. Useful if you want to store prompt parts and parameters while testing",
+    "tags": [
+        "script"
+    ]
+}
