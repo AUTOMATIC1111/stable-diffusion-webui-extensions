@@ -1,0 +1,9 @@
+{
+    "name": "Readme browser",
+    "url": "https://github.com/light-and-ray/sd-webui-readme-browser.git",
+    "description": "This extension allows user to view readme files of extensions locally right inside sd-webui",
+    "tags": [
+        "dropdown",
+        "UI related"
+    ]
+}
