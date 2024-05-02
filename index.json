@@ -535,16 +535,6 @@
             ]
         },
         {
-            "name": "Animator",
-            "url": "https://github.com/Animator-Anon/animator_extension.git",
-            "description": "A basic img2img script that will dump frames and build a video file. Suitable for creating interesting zoom-in warping movies. This is intended to be a versatile toolset to help you automate some img2img tasks.",
-            "added": "2023-01-11",
-            "tags": [
-                "tab",
-                "animation"
-            ]
-        },
-        {
             "name": "gif2gif",
             "url": "https://github.com/LonicaMewinsky/gif2gif.git",
             "description": "A script for img2img that extract a gif frame by frame for img2img generation and recombine them back into an animated gif",
