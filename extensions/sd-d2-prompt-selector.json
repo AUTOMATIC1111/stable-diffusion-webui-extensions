@@ -3,7 +3,6 @@
   "url": "https://github.com/da2el-ai/sd-d2-prompt-selector.git",
   "description": "Insert prompts or random prompts on button click",
   "tags": [
-    "script",
-    "editing"
+    "prompting"
   ]
 }
