@@ -1,0 +1,9 @@
+{
+    "name": "SD-M2M-Animate",
+    "url": "https://github.com/chalcids/sd-m2m-animate.git",
+    "description": "Allows users to create videos from a base, generate test frames to ensure correct parameters, upscale videos to desired resolutions, while using SD and controlnet as the backbone. This is compatible with webui 1.8",
+    "tags": [
+        "tab",
+        "animation"
+    ]
+}
