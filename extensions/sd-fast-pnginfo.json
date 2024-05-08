@@ -1,7 +1,7 @@
 {
     "name": "Fast PNG Info",
-    "url": "https://github.com/NoCrypt/sd-fast-pnginfo.git",
-    "description": "Allows you to view PNG Info of an image without upload to webui's backend server, significantly faster when webui is hosted remotely like on Colab.",
+    "url": "https://github.com/gutris1/sd-fast-pnginfo.git",
+    "description": "Javascript version of webui PNG Info tab, significantly faster when running the webui on online services, such as Google Colab, Kaggle, SageMaker Studio Lab, etc.",
     "tags": [
         "tab"
     ],
