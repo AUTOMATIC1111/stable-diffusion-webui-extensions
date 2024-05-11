@@ -1,8 +1,7 @@
 {
-    "name": "UntitledMerger",
+    "name": "Untitled Merger",
     "url": "https://github.com/silveroxides/sd-webui-untitledmerger.git",
     "description": "Powerful merger that have very fast merge times and some novel merge modes.",
-    "added": "2024-05-11",
     "tags": [
         "tab",
         "models"
