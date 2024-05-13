@@ -4,6 +4,6 @@
     "description": "Control amount of detail/smoothness during generation by adjusting the sigmas schedule",
     "tags": [
         "editing",
-        "manipulations",
+        "manipulations"
     ]
 }
