@@ -1,0 +1,8 @@
+{
+    "name": "Hardware Info in metadata",
+    "url": "https://github.com/light-and-ray/sd-webui-hardware-info-in-metadata.git",
+    "description": "Adds hardware info (gpu name, vram, cpu name, ram) and taken time into generated images' metadata",
+    "tags": [
+        "script"
+    ]
+}
