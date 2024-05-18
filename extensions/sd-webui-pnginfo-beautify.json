@@ -1,0 +1,9 @@
+{
+    "name": "PNGINFO Beautify",
+    "url": "https://github.com/bluelovers/sd-webui-pnginfo-beautify.git",
+    "description": "Stable Diffusion PNGINFO Beautify extension",
+    "tags": [
+        "UI related",
+        "prompting"
+    ]
+}
