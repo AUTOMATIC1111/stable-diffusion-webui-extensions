@@ -3083,6 +3083,16 @@
                 "script"
             ],
             "added": "2024-05-18"
+        },
+        {
+            "name": "PNGINFO Beautify",
+            "url": "https://github.com/bluelovers/sd-webui-pnginfo-beautify.git",
+            "description": "Stable Diffusion PNGINFO Beautify extension",
+            "tags": [
+                "UI related",
+                "prompting"
+            ],
+            "added": "2024-05-19"
         }
     ]
 }
