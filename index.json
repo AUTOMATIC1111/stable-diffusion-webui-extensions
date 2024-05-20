@@ -3093,6 +3093,15 @@
                 "prompting"
             ],
             "added": "2024-05-19"
+        },
+        {
+            "name": "InputAccordion Highlight",
+            "url": "https://github.com/w-e-w/sd-webui-input-accordion-highlight.git",
+            "description": "Highlight InputAccordion when enabled",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-05-20"
         }
     ]
 }
