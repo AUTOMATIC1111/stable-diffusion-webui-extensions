@@ -1,0 +1,9 @@
+{
+    "name": "TweakWeights [m9]",
+    "url": "https://github.com/MarcusNyne/sd-tweak-weights-m9",
+    "description": "Creates prompt variations during image generation by modifying prompt weights matching specified keywords.  Helps to fine-tune your prompts.  Details in README.md",
+    "added": "2024-05-24",
+    "tags": [
+        "prompting"
+    ]
+}
