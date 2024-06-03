@@ -1,10 +1,23 @@
 {
-    "name": "Metadata_Utils",
-    "url": "https://github.com/Tzigo/Metadata_Utils.git",
-    "description": "Metadata_Utils can read/write metadata from/to .safetensor files",
+    "name": "Extension_Name",
+    "url": "https://github.com/OWNER/REPO.git",
+    "description": "Extension_Description",
     "tags": [
         "script",
+        "localization",
         "tab",
         "dropdown",
+        "ads",
+        "training",
+        "models",
+        "UI related",
+        "prompting",
+        "editing",
+        "manipulations",
+        "online",
+        "animation",
+        "query",
+        "science",
+        "extras"
     ]
 }
