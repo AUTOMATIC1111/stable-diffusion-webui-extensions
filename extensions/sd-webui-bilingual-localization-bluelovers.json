@@ -1,0 +1,9 @@
+{
+    "name": "Bilingual Localization Refactored Fork",
+    "url": "https://github.com/bluelovers/sd-webui-bilingual-localization.git",
+    "description": "Refactored from journey-ad Bilingual translation, rewritten in TypeScript for improved bug fixes and performance enhancements.",
+    "added": "2024-06-04",
+    "tags": [
+        "UI related"
+    ]
+}
