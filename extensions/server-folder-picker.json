@@ -1,1 +1,13 @@
-
+{
+    "name": "Server Folder Picker",
+    "url": "https://github.com/christianarrer/sd-webui-server-folder-picker.git",
+    "description": "Adds a Dropdown for Folder Browsing in Extras -> Batch Process. This can be helpfull whn working remotely.",
+    "tags": [
+        "script",
+        "dropdown",
+        "simple",
+        "folder",
+        "directory",
+        "extras"
+    ]
+}
