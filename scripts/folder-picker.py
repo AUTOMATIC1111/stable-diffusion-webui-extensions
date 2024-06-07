@@ -5,7 +5,7 @@ import logging
 
 from modules import script_callbacks
 
-root_path = "c:\\ai"
+root_path = "c:\\"
 root_path = os.path.abspath(root_path)
 
 def add_picker_dropdown(component, **kwargs):
