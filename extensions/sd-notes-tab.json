@@ -1,0 +1,10 @@
+{
+    "name": "Notes Tab",
+    "url": "https://github.com/DocWizard/sd-notes-tab.git",
+    "description": "Adds a simple notes tab.",
+    "tags": [
+        "script",
+        "tab",
+        "UI related",
+    ]
+}
