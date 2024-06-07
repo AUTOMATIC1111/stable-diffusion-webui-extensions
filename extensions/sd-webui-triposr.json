@@ -1,9 +1,0 @@
-{
-    "name": "TripoSR",
-    "url": "https://github.com/AlbedoFire/sd-webui-triposr.git",
-    "description": "TripoSR image to 3D model",
-    "tags": [
-        "tab"
-    ],
-    "added": "2024-04-24"
-}
