@@ -4,3 +4,4 @@ It will add a folder picker dropdown in "Extras" -> "Batch from Directory"
 <h1>Installation</h1>
 Change the root_path in scripts/folder-picker.py to your desired location.
 Copy the folder sd-webui-server-folder-picker to your stable diffusion extensions directory.
+<img src="preview.png">
