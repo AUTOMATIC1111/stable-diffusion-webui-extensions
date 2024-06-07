@@ -1,10 +1,8 @@
 {
-    "name": "metadata_utils",
+    "name": "Metadata Utils",
     "url": "https://github.com/Tzigo/metadata_utils.git",
-    "description": "metadata utils can read/write metadata from/to .safetensor files",
+    "description": "metadata utils can read/write metadata from/to .safetensor files",
     "tags": [
-        "script",
-        "tab",
-        "dropdown"
+        "tab"
     ]
 }
