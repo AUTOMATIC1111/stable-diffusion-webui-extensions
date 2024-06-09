@@ -3,8 +3,6 @@
     "url": "https://github.com/power88/webui-fooocus-prompt-expansion.git",
     "description": "a simple wrapper of fooocus prompt expansion engine in stable-diffusion-webui",
     "tags": [
-        "script",
-        "dropdown",
         "prompting"
     ]
 }
