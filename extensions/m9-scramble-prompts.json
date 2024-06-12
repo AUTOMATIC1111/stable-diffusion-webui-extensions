@@ -2,7 +2,6 @@
     "name": "ScramblePrompts [m9]",
     "url": "https://github.com/MarcusNyne/sd-scramble-prompts-m9",
     "description": "Creates prompt variations during image generation by reordering prompts, removing prompts, and modifying prompt weights.  Helps to fine-tune your prompts.  Details in README.md",
-    "added": "2024-05-24",
     "tags": [
         "prompting"
     ]
