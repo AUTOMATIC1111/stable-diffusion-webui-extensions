@@ -1,0 +1,9 @@
+{
+    "name": "SD-PPP",
+    "url": "https://github.com/zombieyang/sd-ppp.git",
+    "description": "'PPP' for Professional Photoshop transPorter. Get Image from Photoshop, send Image to Photoshop",
+    "tags": [
+        "script"
+    ],
+    "added": "2024-06-15"
+}
