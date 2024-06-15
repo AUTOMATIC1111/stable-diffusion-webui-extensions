@@ -1,0 +1,10 @@
+{
+    "name": "ControlNet preprocessor: Segment Anything",
+    "url": "https://github.com/light-and-ray/sd-webui-cn-sam-preprocessor.git",
+    "description": "Segment Anything preprocessor for ControlNet (requires sd-webui-segment-anything)",
+    "tags": [
+        "models",
+        "manipulations"
+    ],
+    "added": "2024-06-15"
+}
