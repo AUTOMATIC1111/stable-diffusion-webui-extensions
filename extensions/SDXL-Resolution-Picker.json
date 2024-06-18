@@ -1,0 +1,9 @@
+{
+    "name": "SDXL Resolution Picker",
+    "url": "https://github.com/gurralol/SDXL-Resolution-Picker.git",
+    "description": "Automatic1111 extension for quick input of SDXL resolutions in the txt2img tab.",
+    "tags": [
+        "script",
+        "dropdown",
+    ]
+}
