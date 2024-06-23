@@ -1,7 +1,7 @@
 {
     "name": "Aspect Ratio and Resolution Buttons (ar-plusplus)",
     "url": "https://github.com/altoiddealer/--sd-webui-ar-plusplus.git",
-    "description": "Fork of Aspect Ratio selector plus with advance resolution rounding",
+    "description": "Fork of Aspect Ratio selector plus with optimal resolution calculation and rounding",
     "tags": [
         "UI related"
     ]
