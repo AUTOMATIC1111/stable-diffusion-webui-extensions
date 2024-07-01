@@ -3177,6 +3177,15 @@
                 "prompting"
             ],
             "added": "2024-07-01"
+        },
+        {
+            "name": "Prevent interruption",
+            "url": "https://github.com/light-and-ray/sd-webui-prevent-interruption.git",
+            "description": "A switch in page footer to prevent user from accidental interrupting",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-07-01"
         }
     ]
 }
