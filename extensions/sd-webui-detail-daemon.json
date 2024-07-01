@@ -1,9 +1,8 @@
 {
     "name": "Detail Daemon",
-    "url": "https://github.com/muerrilla/sd-webui-detail-daemon",
+    "url": "https://github.com/muerrilla/sd-webui-detail-daemon.git",
     "description": "Control amount of detail/smoothness during generation by adjusting the sigmas schedule",
     "tags": [
-        "editing",
         "manipulations"
     ]
 }
