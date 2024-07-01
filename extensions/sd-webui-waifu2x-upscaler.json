@@ -3,7 +3,6 @@
     "url": "https://github.com/light-and-ray/sd-webui-waifu2x-upscaler.git",
     "description": "A fast open-source NN upscaler from 2015",
     "tags": [
-        "models",
         "editing",
         "extras"
     ]
