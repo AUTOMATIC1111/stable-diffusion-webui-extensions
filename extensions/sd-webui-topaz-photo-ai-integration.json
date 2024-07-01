@@ -1,0 +1,11 @@
+{
+    "name": "Topaz Photo AI integration",
+    "url": "https://github.com/light-and-ray/sd-webui-topaz-photo-ai-integration.git",
+    "description": "Integrates upscaling feature from Topaz's Photo AI paid software, so you can use it inside hires fix, upscaler_for_img2img or in extras tab. Also there is a script for Sharpen and other features inside extras tab",
+    "tags": [
+        "editing",
+        "script",
+        "extras"
+    ],
+    "added": "2024-07-01"
+}
