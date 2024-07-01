@@ -3186,6 +3186,16 @@
                 "UI related"
             ],
             "added": "2024-07-01"
+        },
+        {
+            "name": "Waifu2x Upscaler",
+            "url": "https://github.com/light-and-ray/sd-webui-waifu2x-upscaler.git",
+            "description": "A fast open-source NN upscaler from 2015",
+            "tags": [
+                "editing",
+                "extras"
+            ],
+            "added": "2024-07-01"
         }
     ]
 }
