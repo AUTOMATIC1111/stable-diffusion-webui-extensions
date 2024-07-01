@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-udav2",
+    "url": "https://github.com/MackinationsAi/sd-webui-udav2.git",
+    "description": "Integration of the Upgraded-Depth-Anything-V2 - UDAV2 models & UI into an a1111 extension.",
+    "tags": [
+        "tab",
+        "animation"
+    ],
+    "added": "2024-07-01"
+}
