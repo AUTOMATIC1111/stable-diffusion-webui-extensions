@@ -1,0 +1,10 @@
+{
+    "name": "Yandere Inpainting as masked content",
+    "url": "https://github.com/light-and-ray/sd-webui-yandere-inpaint-masked-content.git",
+    "description": "Integrates Yandere Inpainting ESRGAN model into Inpaint tab as masked content method. Fits for removing small objects or watermarks in anime art",
+    "tags": [
+        "UI related",
+        "manipulations"
+    ],
+    "added": "2024-07-02"
+}
