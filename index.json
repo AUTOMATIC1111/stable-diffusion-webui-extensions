@@ -3216,6 +3216,15 @@
                 "extras"
             ],
             "added": "2024-07-01"
+        },
+        {
+            "name": "Detail Daemon",
+            "url": "https://github.com/muerrilla/sd-webui-detail-daemon.git",
+            "description": "Control amount of detail/smoothness during generation by adjusting the sigmas schedule",
+            "tags": [
+                "manipulations"
+            ],
+            "added": "2024-07-02"
         }
     ]
 }
