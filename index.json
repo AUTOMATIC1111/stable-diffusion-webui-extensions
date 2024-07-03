@@ -2679,10 +2679,12 @@
         {
             "name": "Lama cleaner as masked content",
             "url": "https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content.git",
-            "description": "Use lama cleaner preprocessor from controlnet inside Inpaint tab. Reuires sd-webui-controlnet. Can be useful with removing objects in inpaint tab",
+            "description": "Adds new \"Masked content\" value in inpaint tab. It can be useful to remove objects. It uses lama cleaner preprocessor from controlnet, so requires sd-webui-controlnet\nAlso you can use lama cleaner with this extension with no stable diffusion in extras tab",
             "tags": [
                 "script",
-                "manipulations"
+                "editing",
+                "manipulations",
+                "extras"
             ],
             "added": "2024-01-14"
         },
