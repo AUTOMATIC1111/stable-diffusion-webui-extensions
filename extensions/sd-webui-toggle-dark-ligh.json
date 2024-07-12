@@ -1,0 +1,9 @@
+{
+    "name": "Toggle light dark",
+    "url": "https://github.com/light-and-ray/sd-webui-toggle-dark-light.git",
+    "description": "A little button in top-right which toggles UI theme",
+    "tags": [
+        "UI related"
+    ]
+}
+
