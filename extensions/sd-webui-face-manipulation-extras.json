@@ -1,0 +1,9 @@
+{
+    "name": "Face manipulations - extras",
+    "url": "https://github.com/light-and-ray/sd-webui-face-manipulation-extras.git",
+    "description": "Adds zerodim model zerodim-ffhq-x256 model into Extras tab. Changing of age, gender, ethnicity, hair, facial hair, glasses",
+    "tags": [
+        "manipulations",
+        "editing"
+    ]
+}
