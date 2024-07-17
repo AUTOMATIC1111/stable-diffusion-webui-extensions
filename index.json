@@ -3266,6 +3266,16 @@
                 "UI related"
             ],
             "added": "2024-07-17"
+        },
+        {
+            "name": "Manga Inpainting",
+            "url": "https://github.com/light-and-ray/sd-webui-manga-inpainting.git",
+            "description": "A network for removing something in manga. Requires controlnet and lama-cleaner-masked-content",
+            "tags": [
+                "manipulations",
+                "extras"
+            ],
+            "added": "2024-07-17"
         }
     ]
 }
