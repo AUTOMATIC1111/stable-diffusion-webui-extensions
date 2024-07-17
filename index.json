@@ -3247,6 +3247,16 @@
                 "prompting"
             ],
             "added": "2024-07-11"
+        },
+        {
+            "name": "Resynthesizer as masked content",
+            "url": "https://github.com/light-and-ray/sd-webui-resynthesizer-masked-content.git",
+            "description": "Integrates Resynthesizer old content-aware fill algorithm into Inpaint tab as masked content method",
+            "tags": [
+                "UI related",
+                "manipulations"
+            ],
+            "added": "2024-07-17"
         }
     ]
 }
