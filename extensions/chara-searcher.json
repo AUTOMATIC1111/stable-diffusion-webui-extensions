@@ -1,0 +1,10 @@
+{
+    "name": "chara-searcher",
+    "url": "https://github.com/NON906/chara-searcher.git",
+    "description": "This is a extension for 'character images search' from image and tags.\n- Extract characters from multiple images or videos (background is automatically removed).\n- You can search the extracted character images by image or tags.\n- Search results can be exported and used as is for learning Stable Diffusion's Lora, etc.",
+    "tags": [
+        "tab",
+        "editing",
+        "query"
+    ]
+}
