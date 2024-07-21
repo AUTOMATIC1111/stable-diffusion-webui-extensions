@@ -3,6 +3,6 @@
     "url": "https://github.com/nmygle/sd-queue.git",
     "description": "It is an extension that provides an API primarily for queuing tasks, using a simple task manager created with Pure Python's deque and threading.",
     "tags": [
-        "script",
+        "script"
     ]
 }
