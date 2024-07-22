@@ -1,0 +1,11 @@
+{
+    "name": "AMD FSR 1.0 integration",
+    "url": "https://github.com/AndreyRGW/sd-webui-fsr-integration.git",
+    "description": "Integrates upscaling feature from AMD FSR, so you can use it inside hires fix, upscaler_for_img2img or in extras tab.",
+    "tags": [
+        "editing",
+        "script",
+        "extras"
+    ],
+    "added": "2024-07-22"
+}
