@@ -3307,6 +3307,15 @@
                 "extras"
             ],
             "added": "2024-07-22"
+        },
+        {
+            "name": "stupid-nsfw-card-blur-a1111",
+            "url": "https://github.com/CurtisDS/stupid-nsfw-card-blur-a1111.git",
+            "description": "Blurs or hides card thumbnails if the path to the preview thumbnail contains the string 'nsfw'",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-07-24"
         }
     ]
 }
