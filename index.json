@@ -3316,6 +3316,15 @@
                 "UI related"
             ],
             "added": "2024-07-24"
+        },
+        {
+            "name": "extra-network-side-panel-for-a1111",
+            "url": "https://github.com/CurtisDS/extra-network-side-panel-for-a1111.git",
+            "description": "Adds a toggle to move the extra network cards to the side of the screen ",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-07-25"
         }
     ]
 }
