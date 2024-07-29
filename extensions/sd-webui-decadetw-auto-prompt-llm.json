@@ -1,0 +1,12 @@
+{
+    "name": "sd-webui-decadetw-auto-prompt-llm",
+    "url": "https://github.com/xlinx/sd-webui-decadetw-auto-prompt-llm",
+    "description": "Auto Prompt with LLM",
+    "tags": [
+        "prompting",
+        "editing",
+        "manipulations",
+        "query",
+        "extras"
+    ]
+}
