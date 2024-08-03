@@ -1,6 +1,6 @@
 {
     "name": "sd-all-prompt-wildcards",
-    "url": "https://github.com/MackinationsAi/sd-all-prompt-wildcards",
+    "url": "https://github.com/MackinationsAi/stable-diffusion-webui-wildcards",
     "description": "Allows the user to use wildcards in both the positive & negative prompt.",
     "added": "2024-08-03",
     "tags": [
