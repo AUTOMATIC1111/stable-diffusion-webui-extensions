@@ -1,0 +1,11 @@
+{
+    "name": "GeekyRemB",
+    "url": "https://github.com/GeekyGhost/Automatic1111-Geeky-Remb.git",
+    "description": "Advanced Background Removal for Automatic1111 Web UI. Offers multiple AI models, flexible background options, chroma key support, alpha matting, and more for professional-quality image editing.",
+    "added": "2024-08-03",
+    "tags": [
+        "editing",
+        "manipulations",
+        "tab"
+    ]
+}
