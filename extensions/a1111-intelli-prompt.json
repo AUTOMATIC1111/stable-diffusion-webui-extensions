@@ -1,7 +1,7 @@
 {
-    "name": "Intelli Prompt Assistant.",
+    "name": "Intelli Prompt.",
     "url": "https://github.com/quanghuyn94/a1111-intelli-prompt",
-    "description": "You're not good at English, or you don't know how to prompt correctly. Intelli prompt will help you.",
+    "description": "Displays a box suggesting keywords suggested by rule sets called `IntelliRule`. By default it will suggest you tags by danbooru. Caution: This extension will not work with `a1111-sd-webui-tagcomplete`.",
     "tags": [
         "prompting"
     ]
