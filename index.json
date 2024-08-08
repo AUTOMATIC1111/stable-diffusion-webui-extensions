@@ -3138,7 +3138,7 @@
         {
             "name": "SD-PPP",
             "url": "https://github.com/zombieyang/sd-ppp.git",
-            "description": "'PPP' for Professional Photoshop transPorter. Get Image from Photoshop, send Image to Photoshop",
+            "description": "getting/sending picture from/to Photoshop with a simple connection. Make Photoshop become the workspace of your sd-webui",
             "tags": [
                 "script"
             ],
