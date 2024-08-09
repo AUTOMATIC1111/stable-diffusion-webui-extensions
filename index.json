@@ -3345,6 +3345,15 @@
                 "UI related"
             ],
             "added": "2024-08-07"
+        },
+        {
+            "name": "sd-webui-decadetw-auto-prompt-llm",
+            "url": "https://github.com/xlinx/sd-webui-decadetw-auto-prompt-llm.git",
+            "description": "Auto Prompt with LLM. Read README.md, additional installation steps required",
+            "tags": [
+                "prompting"
+            ],
+            "added": "2024-08-09"
         }
     ]
 }
