@@ -1,0 +1,8 @@
+{
+    "name": "sd-webui-decadetw-auto-messaging-realtime",
+    "url": "https://github.com/xlinx/sd-webui-decadetw-auto-messaging-realtime.git",
+    "description": "Auto messaging you or group to mobile phone about sd-web-ui state in realtime.",
+    "tags": [
+        "script"
+    ]
+}
