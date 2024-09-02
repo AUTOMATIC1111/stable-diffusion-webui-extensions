@@ -1,7 +1,7 @@
 {
     "name": "img2img-hires-fix",
     "url": "https://github.com/Amadeus-AI/img2img-hires-fix.git",
-    "description": "Hires-Fix right after the img2img process, using its latent.",
+    "description": "Hires-Fix upscale right after the img2img process, using its latent.",
     "added": "2024-09-02",
     "tags": [
         "script",
