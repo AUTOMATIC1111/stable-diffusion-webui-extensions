@@ -1,0 +1,10 @@
+{
+    "name": "Photo Refiner",
+    "url": "https://github.com/Marc0ai/sd-webui-photo-refiner",
+    "description": "An extension that allows you to adjust the levels of some aspects of the generations (such as contrast, sharpness, lights, shadows, etc...) in the simplest way possible.",
+    "tags": [
+        "script",
+        "editing",
+        "manipulations",
+    ]
+}
