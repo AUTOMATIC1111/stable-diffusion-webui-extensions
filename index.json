@@ -3384,6 +3384,17 @@
                 "manipulations"
             ],
             "added": "2024-09-17"
+        },
+        {
+            "name": "sd-webui-live-portrait",
+            "url": "https://github.com/dimitribarbot/sd-webui-live-portrait.git",
+            "description": "This extension integrates LivePortrait into WebUI enabling efficient portrait animation with stitching and retargeting control.",
+            "tags": [
+                "script",
+                "tab",
+                "editing"
+            ],
+            "added": "2024-09-17"
         }
     ]
 }
