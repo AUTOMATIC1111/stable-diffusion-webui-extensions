@@ -3365,6 +3365,16 @@
                 "tab"
             ],
             "added": "2024-08-19"
+        },
+        {
+            "name": "img2img-hires-fix",
+            "url": "https://github.com/Amadeus-AI/img2img-hires-fix.git",
+            "description": "Hires-Fix upscale right after the img2img process, using its latent.",
+            "tags": [
+                "script",
+                "manipulations"
+            ],
+            "added": "2024-09-17"
         }
     ]
 }
