@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-birefnet",
+    "url": "https://github.com/dimitribarbot/sd-webui-birefnet.git",
+    "description": "This extension integrates BiRefNet background removal feature into WebUI.",
+    "tags": [
+        "script",
+        "editing",
+        "extras"
+    ]
+}
