@@ -3375,6 +3375,15 @@
                 "manipulations"
             ],
             "added": "2024-09-17"
+        },
+        {
+            "name": "Diffusion Cocktail (Ditail)",
+            "url": "https://github.com/MAPS-research/sd-webui-ditail.git",
+            "description": "'Diffusion Cocktail' (Ditail) offers a training-free method for novel image generations and fine-grained manipulations of content/style, enabling flexible integrations of existing pre-trained Diffusion models and LoRAs.",
+            "tags": [
+                "manipulations"
+            ],
+            "added": "2024-09-17"
         }
     ]
 }
