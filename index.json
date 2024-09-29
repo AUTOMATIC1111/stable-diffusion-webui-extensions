@@ -3031,17 +3031,6 @@
             "added": "2024-04-05"
         },
         {
-            "name": "A1111 SD WebUI DTG",
-            "url": "https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg",
-            "description": "A sd-webui extension for utilizing DanTagGen to \"upsample prompts\".",
-            "tags": [
-                "script",
-                "dropdown",
-                "prompting"
-            ],
-            "added": "2024-04-12"
-        },
-        {
             "name": "TripoSR",
             "url": "https://github.com/AlbedoFire/sd-webui-triposr.git",
             "description": "TripoSR image to 3D model",
@@ -3395,6 +3384,17 @@
                 "editing"
             ],
             "added": "2024-09-17"
+        },
+        {
+            "name": "TIPO/DanTagGen Extension",
+            "url": "https://github.com/KohakuBlueleaf/z-tipo-extension",
+            "description": "TIPO/DanTagGen extension for upsampling the input prompt.",
+            "tags": [
+                "script",
+                "dropdown",
+                "prompting"
+            ],
+            "added": "2024-09-29"
         }
     ]
 }
