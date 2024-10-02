@@ -1,0 +1,10 @@
+{
+    "name": "AuraSR V2 integration",
+    "url": "https://github.com/AndreyRGW/sd-webui-aurasr.git",
+    "description": "Integrates AuraSR V2 upscaling, so you can use it inside hires fix, upscaler_for_img2img or in extras tab.",
+    "tags": [
+        "editing",
+        "script",
+        "extras"
+    ]
+}
