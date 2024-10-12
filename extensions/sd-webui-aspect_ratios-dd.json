@@ -1,1 +1,11 @@
-
+{
+    "name": "sd-webui-aspect_ratios-dd",
+    "url": "https://github.com/zentrocdot/sd-webui-aspect_ratios-dd.git",
+    "description": "Extension for the Stable Diffusion Webui by adding selectable aspect ratios.",
+    "tags": [
+        "script",
+        "ads",
+        "UI related",
+        "extras"
+    ]
+}
