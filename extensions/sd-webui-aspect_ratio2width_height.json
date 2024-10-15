@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-aspect_ratio2width_height",
+    "url": "https://github.com/zentrocdot/sd-webui-aspect_ratio2width_height.git",
+    "description": "Calculates a suitable width and a suitable height from a given aspect ratio.",
+    "tags": [
+        "script",
+        "ads",
+        "UI related",
+        "extras"
+    ]
+}
