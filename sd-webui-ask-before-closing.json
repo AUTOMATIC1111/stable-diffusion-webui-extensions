@@ -1,0 +1,8 @@
+{
+    "name": "Ask before closing",
+    "url": "https://github.com/ruSauron/sd-webui-ask-before-closing.git",
+    "description": "This extension asks for confirmation that you really want to close or refresh the webui page.",
+    "tags": [
+        "UI related"
+    ]
+}
