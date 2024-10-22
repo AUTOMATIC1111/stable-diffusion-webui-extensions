@@ -1,0 +1,8 @@
+{
+    "name": "sd-webui-quickrecents",
+    "url": "https://github.com/MINENEMA/sd-webui-quickrecents.git",
+    "description": "View recent generations and get their generation parameters straight from the txt2img/img2img tabs",
+    "tags": [
+        "UI related"
+    ]
+}
