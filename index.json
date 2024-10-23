@@ -913,16 +913,6 @@
             ]
         },
         {
-            "name": "Stable Horde Client",
-            "url": "https://github.com/natanjunges/stable-diffusion-webui-stable-horde.git",
-            "description": "Stable Horde Client. Generate pictures using other user's PC. Useful if u have no GPU.",
-            "added": "2023-01-11",
-            "tags": [
-                "tab",
-                "online"
-            ]
-        },
-        {
             "name": "Discord Rich Presence",
             "url": "https://github.com/kabachuha/discord-rpc-for-automatic1111-webui.git",
             "description": "Provides connection to Discord RPC, showing a fancy table in the user profile.",
@@ -3405,6 +3395,16 @@
                 "UI related"
             ],
             "added": "2024-10-23"
+        },
+        {
+            "name": "Stable Horde Client",
+            "url": "https://github.com/w-e-w/stable-diffusion-webui-stable-horde.git",
+            "description": "Stable Horde Client. Generate pictures using other user's PC. Useful if u have no GPU.",
+            "added": "2023-01-11",
+            "tags": [
+                "tab",
+                "online"
+            ]
         }
     ]
 }
