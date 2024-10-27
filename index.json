@@ -3414,15 +3414,6 @@
                 "UI related"
             ],
             "added": "2024-10-24"
-        },
-        {
-            "name": "lora-keywords-finder",
-            "url": "https://github.com/Avaray/lora-keywords-finder",
-            "description": "Find trained keywords for LoRA models using CivitAI API",
-            "tags": [
-                "prompting"
-            ],
-            "added": "2024-10-27"
         }
     ]
 }
