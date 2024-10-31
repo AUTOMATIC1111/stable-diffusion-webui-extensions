@@ -1,8 +1,9 @@
 {
     "name": "LoRA Keywords Finder",
-    "url": "https://github.com/Avaray/lora-keywords-finder",
+    "url": "https://github.com/Avaray/lora-keywords-finder.git",
     "description": "Find trained keywords for LoRA models using CivitAI API",
     "tags": [
-        "prompting"
+        "prompting",
+        "online"
     ]
 }
