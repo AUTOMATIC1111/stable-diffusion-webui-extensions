@@ -1,0 +1,9 @@
+{
+    "name": "Photo Refiner",
+    "url": "https://github.com/Marc0ai/sd-webui-photo-refiner",
+    "description": "A simple extension that allows you to give an extra touch of quality to the generations, adding various filters and photographic effects capable of making the images cooler",
+    "tags": [
+        "editing",
+        "manipulations"
+    ]
+}
