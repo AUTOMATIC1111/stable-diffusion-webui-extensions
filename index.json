@@ -2518,9 +2518,9 @@
             "added": "2023-11-23"
         },
         {
-            "name": "µ Detection Detailer",
+            "name": "\u00b5 Detection Detailer",
             "url": "https://github.com/wkpark/uddetailer.git",
-            "description": "µ Detection Detailer. Fork of ddetailer. Supports bbox/segment object detection, auto-mask and inpainting using mmdetection, mediapipe and ultralytics. also supports ControlNet.",
+            "description": "\u00b5 Detection Detailer. Fork of ddetailer. Supports bbox/segment object detection, auto-mask and inpainting using mmdetection, mediapipe and ultralytics. also supports ControlNet.",
             "tags": [
                 "editing",
                 "manipulations"
@@ -2835,7 +2835,7 @@
         {
             "name": "Clear Screen",
             "url": "https://github.com/Haoming02/sd-webui-clear-screen.git",
-            "description": "Adds a button 🆑 to clear the console window",
+            "description": "Adds a button \ud83c\udd91 to clear the console window",
             "tags": [
                 "script"
             ],
@@ -2982,7 +2982,7 @@
         {
             "name": "DemoFusion",
             "url": "https://github.com/sebaxakerhtc/sd-webui-demofusion.git",
-            "description": "DemoFusion as a tab for WebUI. DemoFusion: Democratising High-Resolution Image Generation With No 💰",
+            "description": "DemoFusion as a tab for WebUI. DemoFusion: Democratising High-Resolution Image Generation With No \ud83d\udcb0",
             "tags": [
                 "script",
                 "tab",
@@ -3424,6 +3424,11 @@
                 "online"
             ],
             "added": "2024-11-02"
+        },
+        {
+            "name": "VFS",
+            "url": "https://github.com/babydjac/VFS",
+            "description": "An advanced video and keyframe processing extension for Stable Diffusion."
         }
     ]
 }
