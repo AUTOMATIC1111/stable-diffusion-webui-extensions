@@ -1,0 +1,9 @@
+{
+    "name": "VFS Extension",
+    "url": "https://github.com/babydjac/VFS-Extension.git",
+    "description": "A feature-rich Stable Diffusion WebUI extension for extracting keyframes, generating masks, and creating paths for stylized video production using advanced video-to-image-to-video workflows.",
+    "tags": [
+        "tab",
+        "UI related",
+    ]
+}
