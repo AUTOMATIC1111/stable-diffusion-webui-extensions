@@ -1,0 +1,9 @@
+{
+  "name": "Extension_Name",
+  "url": "https://github.com/babydjac/vfx_workflow.git",
+  "description": "The VFX Workflow Extension streamlines video-to-frame processing with tools for frame extraction, mask creation, keyframe management, and seamless integration with Img2Img. It supports precise FPS handling, dynamic folder organization, file renaming, and ZIP generation, making it ideal for VFX artists and stylization workflows",
+  "tags": [
+    "tab",
+    "UI related"
+  ]
+}
