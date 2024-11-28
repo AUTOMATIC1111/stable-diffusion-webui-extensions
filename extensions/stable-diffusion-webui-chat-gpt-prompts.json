@@ -1,0 +1,9 @@
+{
+    "name": "stable-diffusion-webui-chat-gpt-prompts",
+    "url": "https://github.com/ilian6806/stable-diffusion-webui-chat-gpt-prompts",
+    "description": "Generates SD prompt variations with ChatGPT and DeepL",
+    "tags": [
+        "prompting",
+        "online"
+    ]
+}
