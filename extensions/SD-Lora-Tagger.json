@@ -1,0 +1,11 @@
+{
+    "name": "SD Lora Tagger",
+    "url": "https://github.com/corbin-hayden13/SD-Lora-Tagger.git",
+    "description": "Enables searching extra networks (Lycos, Loras, Embeddings, Checkpoints, Hypernetworks) through tags that can be edited in the added Tag Editor",
+    "tags": [
+        "script",
+        "UI related",
+        "tab",
+        "online"
+    ]
+}
