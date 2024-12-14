@@ -1,0 +1,9 @@
+{
+    "name": "Perchance",
+    "url": "https://github.com/ouoertheo/sd-webui-perchance.git",
+    "description": "Insert text from Perchance.org generators. Requires NodeJS (sorry, no way around that).",
+    "tags": [
+        "script",
+        "prompting"
+    ]
+}
