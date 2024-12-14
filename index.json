@@ -3424,6 +3424,16 @@
                 "online"
             ],
             "added": "2024-11-02"
+        },
+        {
+            "name": "Perchance",
+            "url": "https://github.com/ouoertheo/sd-webui-perchance.git",
+            "description": "Insert text from Perchance.org generators. Requires NodeJS (sorry, no way around that).",
+            "tags": [
+                "prompting",
+                "script"
+            ],
+            "added": "2024-12-14"
         }
     ]
 }
