@@ -4,6 +4,6 @@
     "description": "Finds a random post from Gelbooru and takes tags from it according to filters.",
     "tags": [
         "prompting",
-        "online",
+        "online"
     ]
 }
