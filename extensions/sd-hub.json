@@ -1,0 +1,10 @@
+{
+    "name": "SD Hub",
+    "url": "https://github.com/gutris1/sd-hub.git",
+    "description": "an Extension for Stable Diffusion WebUI and Forge. You can Download, Upload, Archive files and that's it.",
+    "tags": [
+        "script",
+        "tab",
+        "online"
+    ]
+}
