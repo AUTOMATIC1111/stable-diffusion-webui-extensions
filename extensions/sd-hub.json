@@ -1,7 +1,7 @@
 {
     "name": "SD Hub",
     "url": "https://github.com/gutris1/sd-hub.git",
-    "description": "an Extension for Stable Diffusion WebUI and Forge. You can Download, Upload, Archive files and that's it.",
+    "description": "An extension for Stable Diffusion WebUI, designed to streamline your collection.\nIt lets you download files from sites like Civitai, Hugging Face, GitHub, and Google Drive, whether individually or in batch.\nYou can also upload files or entire folders to the Hugging Face model repository (with a WRITE token, of course), making sharing and access easier.\nThe extension also has functionality to archive and extract files in formats like tar.lz4, tar.gz, and zip.",
     "tags": [
         "script",
         "tab",
