@@ -1,7 +1,7 @@
 {
     "name": "SD Simple Dimension Preset",
     "url": "https://github.com/gutris1/sd-simple-dimension-preset.git",
-    "description": "since SDXL, aspect ratios are less relevant due to the weird dimensions used in the models. This extension simply inserts those weird width and height values without thinking about what kind of aspect ratio that is.",
+    "description": "since SDXL, aspect ratios are less relevant due to the weird dimensions used in the models. This extension simply inserts those weird width and height values without thinking about what kind of aspect ratio that is. Usage: Click any button to insert the corresponding values. To add more weird width and height values, edit the simple-preset.txt file.",
     "tags": [
         "script"
     ]
