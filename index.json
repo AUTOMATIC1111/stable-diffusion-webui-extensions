@@ -3444,6 +3444,17 @@
                 "online"
             ],
             "added": "2024-12-22"
+        },
+        {
+            "name": "SD Hub",
+            "url": "https://github.com/gutris1/sd-hub.git",
+            "description": "An extension to download files individually or in batch from various sources, upload to Hugging Face model repositories, and archive/extract files in multiple formats.",
+            "tags": [
+                "script",
+                "tab",
+                "online"
+            ],
+            "added": "2024-12-25"
         }
     ]
 }
