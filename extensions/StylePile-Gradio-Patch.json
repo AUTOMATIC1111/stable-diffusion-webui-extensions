@@ -1,0 +1,9 @@
+{
+    "name": "StylePile-Gradio-Patch",
+    "url": "https://github.com/samfisherirl/StylePile-Gradio-Patch.git",
+    "description": "Fork of StylePile with updated syntax for Gradio to ensure future compatibility. ",
+    "added": "2024-02-13",
+    "tags": [
+        "prompting"
+    ]
+}
