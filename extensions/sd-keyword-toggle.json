@@ -1,0 +1,9 @@
+        {
+            "name": "SD Keyword Toggle",
+            "url": "https://github.com/pietrosperoni/sd-keyword-toggle.git",
+            "description": "Toggle keywords between positive and negative prompts with simple wildcards format text files",
+            "tags": [
+                "prompting"
+            ],
+            "added": "2025-03-19"
+        }
