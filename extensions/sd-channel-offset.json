@@ -1,0 +1,10 @@
+{
+  "name": "sd-channel-offset",
+  "url": "https://github.com/valkymaera/sd-channel-offset.git",
+  "description": "Adds offset to individual noise channels before generation via simple sliders.",
+  "added": "2025-03-24",
+  "tags": [    
+    "manipulations",
+    "science"
+  ]
+}
