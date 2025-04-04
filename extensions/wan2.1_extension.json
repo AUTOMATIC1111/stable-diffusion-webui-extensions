@@ -1,0 +1,15 @@
+{
+    "name": "sd-webui-wanvideo",
+    "url": "https://github.com/spawner1145/sd-webui-wanvideo.git",
+    "description": "generate videos via wan2.1,support t2v,i2v,v2v",
+    "tags": [
+        "script",
+        "tab",
+        "training",
+        "models",
+        "manipulations",
+        "animation",
+        "science",
+        "extras"
+    ]
+}
