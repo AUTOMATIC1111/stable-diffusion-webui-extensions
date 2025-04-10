@@ -1,0 +1,10 @@
+{
+    "name": "VAE Tools (in extras tab)",
+    "url": "https://github.com/light-and-ray/sd-webui-vae-tools.git",
+    "description": "You can encode, decode images using VAE models inside Extras tab",
+    "tags": [
+        "script",
+        "editing",
+        "extras"
+    ]
+}
