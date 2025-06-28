@@ -1,0 +1,10 @@
+{
+  "name": "SD WebUI Watermark Extension",
+  "url": "https://github.com/RegulusAlpha/sd-webui-watermark.git",
+  "description": "Adds a customizable text or image watermark to saved generations. Includes font, size, opacity, and placement options. Supports Quicksettings toggling.",
+  "tags": [
+    "script",
+    "editing",
+    "UI related"
+  ]
+}
