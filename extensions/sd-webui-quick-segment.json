@@ -1,0 +1,10 @@
+{
+    "name": "sd-webui-quick-segment",
+    "url": "https://github.com/dmikey/sd-webui-quick-segment.git",
+    "description": "Simplified fork of Segment Anything. Focuses on one-click object detection and mask generation using SAM and GroundingDINO. Features presets for body parts, clothing, and faces, with easy integration into img2img inpainting.",
+    "tags": [
+        "script",
+        "dropdown",
+        "UI related"
+    ]
+}
