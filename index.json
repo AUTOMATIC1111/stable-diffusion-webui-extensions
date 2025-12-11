@@ -816,8 +816,8 @@
             "stars": 266,
             "default_branch": "main",
             "created_at": "2022-12-01T03:07:53Z",
-            "default_branch_commit_sha": "dc82ae8e15ea5d496f27187aeafbc9b873406158",
-            "commit_time": "2025-12-09T18:02:44Z"
+            "default_branch_commit_sha": "1d51922d841a5d2ce8d442235d4cad3280f77dca",
+            "commit_time": "2025-12-10T18:01:00Z"
         },
         {
             "name": "Prompt Generator",
@@ -1272,7 +1272,7 @@
             ],
             "full_name": "mcmonkeyprojects/sd-dynamic-thresholding",
             "github_description": "Dynamic Thresholding (CFG Scale Fix) for Stable Diffusion (SwarmUI, ComfyUI, and Auto WebUI)",
-            "stars": 1228,
+            "stars": 1229,
             "default_branch": "master",
             "created_at": "2023-01-27T02:23:12Z",
             "default_branch_commit_sha": "73e4e04565aa86237d66764ac58ffae1f7e40e48",
@@ -1873,7 +1873,7 @@
             ],
             "full_name": "AUTOMATIC1111/stable-diffusion-webui-rembg",
             "github_description": "Removes backgrounds from pictures. Extension for webui.",
-            "stars": 1343,
+            "stars": 1342,
             "default_branch": "master",
             "created_at": "2023-03-12T15:32:44Z",
             "default_branch_commit_sha": "a4c07b857e73f3035f759876797fa6de986def3d",
@@ -2502,7 +2502,7 @@
             ],
             "full_name": "Physton/sd-webui-prompt-all-in-one",
             "github_description": "This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。",
-            "stars": 3190,
+            "stars": 3191,
             "default_branch": "main",
             "created_at": "2023-05-08T12:23:21Z",
             "default_branch_commit_sha": "596a931725209a9ee271e6a2bd6d95a1cdb33778",
@@ -3022,7 +3022,7 @@
             "added": "2023-07-07",
             "full_name": "OpenTalker/SadTalker",
             "github_description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
-            "stars": 13417,
+            "stars": 13421,
             "default_branch": "main",
             "created_at": "2022-11-23T02:18:18Z",
             "default_branch_commit_sha": "cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8",
@@ -3898,8 +3898,8 @@
             "stars": 100,
             "default_branch": "mod",
             "created_at": "2023-02-08T13:37:20Z",
-            "default_branch_commit_sha": "b03b2c6212a9e3f0d4de844cd878738e2ffa42d4",
-            "commit_time": "2025-11-29T04:22:21Z"
+            "default_branch_commit_sha": "e4fff8b398309cb507bee21525386e2ed52ce0d0",
+            "commit_time": "2025-12-11T03:42:08Z"
         },
         {
             "name": "NSFW Blurrer-NSFWJS",
@@ -3928,7 +3928,7 @@
             "added": "2023-10-17",
             "full_name": "hako-mikan/sd-webui-negpip",
             "github_description": "Extension for Stable Diffusion web-ui enables negative prompt in prompt",
-            "stars": 242,
+            "stars": 243,
             "default_branch": "main",
             "created_at": "2023-07-26T15:58:03Z",
             "default_branch_commit_sha": "dc75fd2c0110dc27c8dea31221fcdf9090dbaf55",
