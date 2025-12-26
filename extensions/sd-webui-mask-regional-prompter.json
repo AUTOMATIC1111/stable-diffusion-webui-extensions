@@ -1,0 +1,10 @@
+{
+    "name": "Mask Regional Prompter",
+    "url": "https://github.com/Matthew-X/sd-webui-mask-regional-prompter.git",
+    "description": "A Stable Diffusion WebUI extension for region-based prompting with a focus on using color-coded masks.",
+    "added": "2025-12-27",
+    "tags": [
+        "prompting",
+        "manipulations"
+    ]
+}
