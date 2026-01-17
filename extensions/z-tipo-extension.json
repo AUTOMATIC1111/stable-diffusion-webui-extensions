@@ -1,0 +1,11 @@
+{
+    "name": "TIPO/DanTagGen Extension",
+    "url": "https://github.com/KohakuBlueleaf/z-tipo-extension",
+    "description": "TIPO/DanTagGen extension for upsampling the input prompt.",
+    "tags": [
+        "script",
+        "dropdown",
+        "prompting"
+    ],
+    "added": "2024-09-29"
+}

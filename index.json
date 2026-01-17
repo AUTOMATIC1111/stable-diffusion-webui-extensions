@@ -913,16 +913,6 @@
             ]
         },
         {
-            "name": "Stable Horde Client",
-            "url": "https://github.com/natanjunges/stable-diffusion-webui-stable-horde.git",
-            "description": "Stable Horde Client. Generate pictures using other user's PC. Useful if u have no GPU.",
-            "added": "2023-01-11",
-            "tags": [
-                "tab",
-                "online"
-            ]
-        },
-        {
             "name": "Discord Rich Presence",
             "url": "https://github.com/kabachuha/discord-rpc-for-automatic1111-webui.git",
             "description": "Provides connection to Discord RPC, showing a fancy table in the user profile.",
@@ -3031,17 +3021,6 @@
             "added": "2024-04-05"
         },
         {
-            "name": "A1111 SD WebUI DTG",
-            "url": "https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg",
-            "description": "A sd-webui extension for utilizing DanTagGen to \"upsample prompts\".",
-            "tags": [
-                "script",
-                "dropdown",
-                "prompting"
-            ],
-            "added": "2024-04-12"
-        },
-        {
             "name": "TripoSR",
             "url": "https://github.com/AlbedoFire/sd-webui-triposr.git",
             "description": "TripoSR image to 3D model",
@@ -3395,6 +3374,96 @@
                 "editing"
             ],
             "added": "2024-09-17"
+        },
+        {
+            "name": "TIPO/DanTagGen Extension",
+            "url": "https://github.com/KohakuBlueleaf/z-tipo-extension",
+            "description": "TIPO/DanTagGen extension for upsampling the input prompt.",
+            "tags": [
+                "script",
+                "dropdown",
+                "prompting"
+            ],
+            "added": "2024-09-29"
+        },
+        {
+            "name": "SD Web UI UX",
+            "url": "https://github.com/anapnoe/sd-webui-ux.git",
+            "description": "A bespoke, highly adaptable, blazing fast user interface that offers unmatched optimization and flexibility.",
+            "tags": [
+                "tab",
+                "UI related"
+            ],
+            "added": "2024-10-23"
+        },
+        {
+            "name": "Stable Horde Client",
+            "url": "https://github.com/w-e-w/stable-diffusion-webui-stable-horde.git",
+            "description": "Stable Horde Client. Generate pictures using other user's PC. Useful if u have no GPU.",
+            "added": "2023-01-11",
+            "tags": [
+                "tab",
+                "online"
+            ]
+        },
+        {
+            "name": "sd-webui-quickrecents",
+            "url": "https://github.com/MINENEMA/sd-webui-quickrecents.git",
+            "description": "View recent generations and get their generation parameters straight from the txt2img/img2img tabs",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-10-24"
+        },
+        {
+            "name": "LoRA Keywords Finder",
+            "url": "https://github.com/Avaray/lora-keywords-finder.git",
+            "description": "Find trained keywords for LoRA models using CivitAI API",
+            "tags": [
+                "prompting",
+                "online"
+            ],
+            "added": "2024-11-02"
+        },
+        {
+            "name": "Gelbooru Prompt Randomizer",
+            "url": "https://github.com/RED1cat/Gelbooru-Prompt-Randomizer.git",
+            "description": "Finds a random post from Gelbooru and takes tags from it according to filters.",
+            "tags": [
+                "prompting",
+                "online"
+            ],
+            "added": "2024-12-21"
+        },
+        {
+            "name": "stable-diffusion-webui-chat-gpt-prompts",
+            "url": "https://github.com/ilian6806/stable-diffusion-webui-chat-gpt-prompts",
+            "description": "Generates SD prompt variations with ChatGPT and DeepL. Requires an OpenAI API key (paid subscription) and optionally a DeepL API key.",
+            "tags": [
+                "prompting",
+                "online"
+            ],
+            "added": "2024-12-22"
+        },
+        {
+            "name": "SD Hub",
+            "url": "https://github.com/gutris1/sd-hub.git",
+            "description": "An extension to download files individually or in batch from various sources, upload to Hugging Face model repositories, and archive/extract files in multiple formats.",
+            "tags": [
+                "script",
+                "tab",
+                "online"
+            ],
+            "added": "2024-12-25"
+        },
+        {
+            "name": "SD Simple Dimension Preset",
+            "url": "https://github.com/gutris1/sd-simple-dimension-preset.git",
+            "description": "a simple button to change width and height values under txt2img and img2img tab",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2024-12-25"
         }
     ]
 }

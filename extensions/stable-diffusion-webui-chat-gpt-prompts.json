@@ -1,0 +1,10 @@
+{
+    "name": "stable-diffusion-webui-chat-gpt-prompts",
+    "url": "https://github.com/ilian6806/stable-diffusion-webui-chat-gpt-prompts",
+    "description": "Generates SD prompt variations with ChatGPT and DeepL. Requires an OpenAI API key (paid subscription) and optionally a DeepL API key.",
+    "tags": [
+        "prompting",
+        "online"
+    ],
+    "added": "2024-12-22"
+}
