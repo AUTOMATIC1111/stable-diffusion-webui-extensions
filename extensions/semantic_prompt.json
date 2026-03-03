@@ -1,0 +1,6 @@
+{
+  "name": "Semantic Prompt (%%...%%)",
+  "url": "https://github.com/Kittensx/Semantic-Prompt",
+  "description": "Expand natural language inside %%...%% blocks into structured prompt tags using modular JSON packs and trigger logic.",
+  "tags": ["prompt", "workflow", "automation", "structured"]
+}
