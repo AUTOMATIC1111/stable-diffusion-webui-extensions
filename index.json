@@ -5935,6 +5935,16 @@
             "created_at": "2024-12-20T14:24:28Z",
             "default_branch_commit_sha": "dc1467cf4a08d4fe4732126ba20c690f3081889b",
             "commit_time": "2024-12-27T15:39:16Z"
+                {
+            "name": "Smart Img2Img Composer",
+            "url": "https://github.com/maitaka-st/smart-img2img-composer",
+            "description": "Randomly picks an image, injects perfectly matched prompts to img2img with automatic LoRA injection and flawless NSFW-ready WD14 Tagger integration.",
+            "tags": [
+                "script",
+                "tab",
+                "ui"
+            ]
         }
+}
     ]
 }
