@@ -3464,6 +3464,15 @@
                 "UI related"
             ],
             "added": "2024-12-25"
+        },
+        {
+            "name": "Style Organizer",
+            "url": "https://github.com/KazeKaze93/sd-webui-style-organizer.git",
+            "description": "A grid/gallery-based style selector extension for Stable Diffusion WebUI Forge.",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2026-04-03"
         }
     ]
 }
