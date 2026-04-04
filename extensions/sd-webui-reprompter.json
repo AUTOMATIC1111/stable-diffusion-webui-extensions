@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-reprompter",
+    "url": "https://github.com/ogoun/sd-webui-reprompter.git",
+    "description": "Translates and augments text to create a prompt using ollama api.",
+    "tags": [
+        "UI related",
+		"online",
+        "prompting",
+        "manipulations"
+    ]
+}
