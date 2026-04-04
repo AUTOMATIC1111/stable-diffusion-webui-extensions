@@ -1,0 +1,11 @@
+{
+  "name": "forge-iterator",
+  "url": "https://github.com/kelsjon3/forge_iterator.git",
+  "description": "An extension for Stable Diffusion WebUI (Forge/A1111) to generate a fixed number of images per checkpoint while preserving your prompts and remaining compatible with other Main scripts.",
+  "tags": [
+    "script",
+    "models",
+    "UI related",
+    "prompting"
+  ]
+}
