@@ -1,0 +1,9 @@
+{
+    "name": "sd-comic-ext",
+    "url": "https://github.com/Graceus777/sd-comic-ext.git",
+    "description": "Generate multi-page comics from structured JSON scripts. Supports 12 page layouts, multi-candidate panel scoring, img2img chaining for continuity, character LoRA integration, and PDF/CBZ export.",
+    "tags": [
+        "tab",
+        "script"
+    ]
+}
