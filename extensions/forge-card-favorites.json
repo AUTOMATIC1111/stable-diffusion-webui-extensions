@@ -1,0 +1,6 @@
+{
+  "name": "Forge Card Favorites",
+  "url": "https://github.com/Merueru/forge-card-favorites.git",
+  "description": "Adds favorite buttons and a favorites-only filter for Extra Networks cards in Stable Diffusion WebUI Forge.",
+  "tags": ["UI related"]
+}
