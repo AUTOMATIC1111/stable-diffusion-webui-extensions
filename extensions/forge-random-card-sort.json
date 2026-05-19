@@ -1,0 +1,6 @@
+{
+  "name": "Forge Random Card Sort",
+  "url": "https://github.com/Merueru/forge-random-card-sort.git",
+  "description": "Adds a random shuffle button for Extra Networks cards in Stable Diffusion WebUI Forge.",
+  "tags": ["UI related"]
+}
