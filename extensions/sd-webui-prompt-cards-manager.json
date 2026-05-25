@@ -1,0 +1,10 @@
+{
+    "name": "Prompt Cards Manager",
+    "url": "https://github.com/knhcr/sd-webui-prompt-cards-manager",
+    "description": "Manage prompt snippets using card-based GUI",
+    "tags": [
+        "UI related",
+        "prompting",
+        "editing"
+    ]
+}
