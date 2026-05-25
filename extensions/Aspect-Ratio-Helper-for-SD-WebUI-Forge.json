@@ -1,0 +1,6 @@
+{
+    "name": "Aspect Ratio Helper for SD WebUI & Forge",
+    "url": "https://github.com/wwwroot/sd-webui-forge-aspect-ratio-helper",
+    "description": "Enhanced aspect ratio controls with presets, smart scaling, and compatibility with both SD WebUI and Forge",
+    "tags": ["UI", "aspect ratio", "image size"]
+}
