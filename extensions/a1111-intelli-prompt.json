@@ -1,0 +1,8 @@
+{
+    "name": "Intelli Prompt.",
+    "url": "https://github.com/quanghuyn94/a1111-intelli-prompt",
+    "description": "Displays a box suggesting keywords suggested by rule sets called `IntelliRule`. By default it will suggest you tags by danbooru. Caution: This extension will not work with `a1111-sd-webui-tagcomplete`.",
+    "tags": [
+        "prompting"
+    ]
+}
