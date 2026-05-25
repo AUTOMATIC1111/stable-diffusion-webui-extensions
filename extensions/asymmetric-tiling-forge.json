@@ -1,0 +1,9 @@
+{
+    "name": "Asymmetric Tiling (Forge-compatible)",
+    "url": "https://github.com/Dragynrain/asymmetric-tiling-sd-webui.git",
+    "description": "Seamless image tiling configurable independently for X and Y axes. Fork of tjm35/asymmetric-tiling-sd-webui rewritten for Forge compatibility (also works with A1111).",
+    "tags": [
+        "script",
+        "manipulations"
+    ]
+}
