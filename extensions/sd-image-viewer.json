@@ -1,0 +1,8 @@
+{
+    "name": "SD Image Viewer",
+    "url": "https://github.com/gutris1/sd-image-viewer.git",
+    "description": "Interactive Image Viewer with mouse wheel/pinch zoom and drag-to-pan using mouse/touch gestures for txt2img and img2img image viewer.",
+    "tags": [
+        "UI related"
+    ]
+}
