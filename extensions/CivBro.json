@@ -1,0 +1,11 @@
+{
+    "name": "CivBro",
+    "url": "https://github.com/empulse75/CivBro.git",
+    "description": "CivitAI model browser with visual parity to civitai.com. Browse, search, filter, and download models directly from the WebUI. Version selector, model details popup, and local model management.",
+    "tags": [
+        "tab",
+        "models",
+        "online",
+        "UI related"
+    ]
+}
