@@ -1,0 +1,9 @@
+{
+    "name": "Forge Simple Queue",
+    "url": "https://github.com/Merueru/forge-simple-queue.git",
+    "description": "Adds a compact queue manager for txt2img and img2img jobs in Stable Diffusion WebUI Forge.",
+    "tags": [
+        "UI related",
+        "extras"
+    ]
+}

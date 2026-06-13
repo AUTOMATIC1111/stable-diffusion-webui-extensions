@@ -1,0 +1,10 @@
+{
+    "name": "Forge Better Cards",
+    "url": "https://github.com/Merueru/forge-better-cards.git",
+    "description": "Adds set fields, folder filters, local preview images, and lightweight editing tools to Extra Networks cards.",
+    "tags": [
+        "UI related",
+        "models",
+        "extras"
+    ]
+}
