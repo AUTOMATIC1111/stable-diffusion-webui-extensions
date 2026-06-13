@@ -95,17 +95,6 @@
             ]
         },
         {
-            "name": "Stable Diffusion AWS Extension",
-            "url": "https://github.com/awslabs/stable-diffusion-aws-extension.git",
-            "description": "Allow user to migrate existing workloads including ckpt merge, model training, model inferencing onto AWS",
-            "added": "2023-06-01",
-            "tags": [
-                "tab",
-                "training",
-                "online"
-            ]
-        },
-        {
             "name": "Aesthetic Gradients",
             "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git",
             "description": "Allows training an embedding from one or few pictures, specifically meant for applying styles. Also, allows use of these specific embeddings to generated images.",
@@ -1664,15 +1653,6 @@
             ]
         },
         {
-            "name": "Danbooru Prompt",
-            "url": "https://github.com/EnsignMK/danbooru-prompt.git",
-            "description": "Fetch tags from Danbooru images link",
-            "tags": [
-                "online"
-            ],
-            "added": "2023-06-25"
-        },
-        {
             "name": "Pixel art",
             "url": "https://github.com/mrreplicart/sd-webui-pixelart.git",
             "description": "Extension that provides basic functionality for pixel art: downscaling, palette limiting, grayscale, black&white, ability to change image colors with custom color palette",
@@ -2320,16 +2300,6 @@
             "description": "Adds API routes for uploading, removing, syncing models and etc",
             "tags": [
                 "script"
-            ],
-            "added": "2023-10-17"
-        },
-        {
-            "name": "ReActor",
-            "url": "https://github.com/Gourieff/sd-webui-reactor.git",
-            "description": "Fast and Simple FaceSwap Extension with a lot of improvements. Read README.md, additional installation steps required",
-            "tags": [
-                "editing",
-                "manipulations"
             ],
             "added": "2023-10-17"
         },
