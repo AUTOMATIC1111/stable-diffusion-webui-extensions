@@ -1,0 +1,10 @@
+{
+    "name": "Forge Prompt Sets",
+    "url": "https://github.com/Merueru/forge-prompt-sets.git",
+    "description": "Save and reuse prompt sets as searchable Extra Networks cards.",
+    "tags": [
+        "UI related",
+        "prompting",
+        "extras"
+    ]
+}

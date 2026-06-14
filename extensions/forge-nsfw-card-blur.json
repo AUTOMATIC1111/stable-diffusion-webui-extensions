@@ -1,0 +1,6 @@
+{
+  "name": "Forge NSFW Card Blur",
+  "url": "https://github.com/Merueru/forge-nsfw-card-blur.git",
+  "description": "A small Stable Diffusion WebUI Forge / A1111 Extra Networks extension for blurring or hiding selected card thumbnails.",
+  "tags": ["UI related"]
+}

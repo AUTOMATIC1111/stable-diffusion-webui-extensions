@@ -1,0 +1,9 @@
+{
+    "name": "Forge Model Compat Badges",
+    "url": "https://github.com/Merueru/forge-model-compat-badges.git",
+    "description": "Adds model-family compatibility badges to Extra Networks cards and compares them with the current checkpoint.",
+    "tags": [
+        "UI related",
+        "models"
+    ]
+}
