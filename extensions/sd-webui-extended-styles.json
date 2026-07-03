@@ -1,0 +1,9 @@
+{
+    "name": "Extended Styles",
+    "url": "https://github.com/SilentLuxRay/sd-webui-extended-styles",
+    "description": "Styles with multiple, named placeholders ({prompt_face}, {prompt_haircolor}, ...). Auto-generated labeled fields, one-click translation to English, write-to-main-prompt, and create/edit styles saved to CSV.",
+    "tags": [
+        "prompting",
+        "online"
+    ]
+}
