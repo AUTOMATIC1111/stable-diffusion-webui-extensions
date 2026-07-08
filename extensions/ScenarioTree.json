@@ -1,0 +1,9 @@
+{
+    "name": "Scenario Tree",
+    "url": "https://github.com/immolas/sd-scenario-tree.git",
+    "description": "Allows multi-image scenes to be defined as a tree",
+    "tags": [
+        "script",
+        "prompting"
+    ]
+}
