@@ -1,7 +1,7 @@
 {
     "name": "Backblaze B2 Cloud Storage",
     "url": "https://github.com/mikesibiu/stable-diffusion-webui-b2-storage.git",
-    "description": "Automatically uploads generated images in the background to Backblaze B2 or any S3-compatible storage (AWS S3, Cloudflare R2, MinIO, Wasabi), with optional local disk cleanup after upload.",
+    "description": "Automatically uploads generated images in the background to Backblaze B2 or any S3-compatible storage, with optional local disk cleanup after upload.",
     "tags": [
         "script",
         "online"
