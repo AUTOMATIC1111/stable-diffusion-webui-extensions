@@ -1,0 +1,10 @@
+{
+    "name": "PromptMods",
+    "url": "https://github.com/HotChocut/PromptMods.git",
+    "description": "An AUTOMATIC1111 / Forge / reForge WebUI extension that adds text before and after prompts.",
+    "tags": [
+        "dropdown",
+        "prompting",
+        "manipulations"
+    ]
+}
