@@ -1,0 +1,11 @@
+{
+    "name": "Background Prompter",
+    "url": "https://github.com/ukr8b3g-cmyk/Background-Prompter.git",
+    "description": "Image-backed background prompt picker for Forge Neo and ReForge with 592 presets, search, favorites, a side panel, and editable hybrid tag and natural-language output.",
+    "tags": [
+        "script",
+        "tab",
+        "UI related",
+        "prompting"
+    ]
+}
