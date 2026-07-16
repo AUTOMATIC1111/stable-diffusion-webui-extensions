@@ -1,0 +1,10 @@
+{
+    "name": "Style Order Manager",
+    "url": "https://github.com/ukr8b3g-cmyk/Style-Order-Manager.git",
+    "description": "A lightweight tab for compact one-line style browsing, drag-and-drop reordering, editing, backup, and restore of styles.csv in Forge Neo and compatible WebUI forks.",
+    "tags": [
+        "tab",
+        "UI related",
+        "prompting"
+    ]
+}
