@@ -3454,6 +3454,15 @@
                 "extras"
             ],
             "added": "2026-04-03"
+        },
+        {
+            "name": "Forge Neo Resolution Presets",
+            "url": "https://github.com/ukr8b3g-cmyk/Forge-Neo-Resolution-Presets",
+            "description": "Compact model-family resolution presets for Forge Neo txt2img and img2img, with user presets, profile editing, randomization, and an aspect-ratio calculator.",
+            "tags": [
+                "UI related"
+            ],
+            "added": "2026-07-18"
         }
     ]
 }
