@@ -1,0 +1,9 @@
+{
+    "name": "INT8-ConvRot Loader",
+    "url": "https://github.com/Stable-yogi/sd-forge-int8-convrot.git",
+    "description": "Load INT8-ConvRot checkpoints in Forge Neo in one click - natively as int8 for better speed and lower VRAM, with no manual dtype selection.",
+    "tags": [
+        "script",
+        "models"
+    ]
+}
