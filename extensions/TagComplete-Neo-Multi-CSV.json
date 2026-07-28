@@ -1,0 +1,9 @@
+{
+    "name": "TagComplete Neo Multi-CSV",
+    "url": "https://github.com/ukr8b3g-cmyk/TagComplete-Neo-Multi-CSV.git",
+    "description": "Tag autocomplete for Forge Neo and reForge with multiple tag and translation CSVs, natural-language search, Japanese UI, and persistent server-side indexes.",
+    "tags": [
+        "UI related",
+        "prompting"
+    ]
+}
