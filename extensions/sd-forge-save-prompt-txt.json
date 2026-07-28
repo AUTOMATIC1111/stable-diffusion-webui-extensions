@@ -1,0 +1,9 @@
+{
+    "name": "Save Prompt TXT",
+    "url": "https://github.com/Stable-yogi/sd-forge-save-prompt-txt.git",
+    "description": "Adds a checkbox that saves only the positive prompt as a .txt file next to each generated image - no restart or settings needed. Handy for building LoRA and caption datasets. Works on Forge and AUTOMATIC1111.",
+    "tags": [
+        "script",
+        "UI related"
+    ]
+}
