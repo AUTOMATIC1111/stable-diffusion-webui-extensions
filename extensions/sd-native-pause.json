@@ -1,0 +1,9 @@
+{
+    "name": "Native Pause / Resume",
+    "url": "https://github.com/Stable-yogi/sd-native-pause.git",
+    "description": "Adds a real Pause / Resume to Forge's native generation - hold the current image between sampling steps and resume with no progress lost, even mid-batch (ADetailer / ControlNet / LoRA all still apply). Forge core only offers Interrupt and Skip. Zero dependencies.",
+    "tags": [
+        "script",
+        "UI related"
+    ]
+}
