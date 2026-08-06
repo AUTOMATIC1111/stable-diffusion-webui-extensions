@@ -1,0 +1,9 @@
+{
+    "name": "Free VRAM",
+    "url": "https://github.com/Stable-yogi/sd-forge-free-vram.git",
+    "description": "A one-click button that unloads all models and releases the GPU cache without restarting Forge - hand your VRAM back to another app (LLM, video, another UI), then press Generate to reload on demand. Shows live VRAM and how much it just freed. Uses Forge's own memory manager; zero dependencies.",
+    "tags": [
+        "script",
+        "UI related"
+    ]
+}
