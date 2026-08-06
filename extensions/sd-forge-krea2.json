@@ -1,0 +1,9 @@
+{
+    "name": "Krea 2 for Forge Neo",
+    "url": "https://github.com/Stable-yogi/sd-forge-krea2.git",
+    "description": "Run the Krea 2 model natively in Forge Neo, with one-click model download, presets, fp8 and full or piecewise loading.",
+    "tags": [
+        "script",
+        "models"
+    ]
+}

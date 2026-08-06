@@ -1,0 +1,9 @@
+{
+    "name": "StableYogi Tab Progress",
+    "url": "https://github.com/Stable-yogi/StableYogi-Tab-Progress.git",
+    "description": "Shows generation progress in the browser tab title (for example [45% ETA 12s]) so you can work in another tab and glance up, plus an optional one-click desktop notification when a run finishes while you are on another tab. Pure front-end; works on Forge, Forge Neo and AUTOMATIC1111.",
+    "tags": [
+        "script",
+        "UI related"
+    ]
+}
