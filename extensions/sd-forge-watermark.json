@@ -1,0 +1,1 @@
+{"name":"Watermark","url":"https://github.com/Stable-yogi/sd-forge-watermark.git","description":"An opt-in text watermark - stamp your handle on each image before it saves (position, opacity, size, soft shadow). Off by default; drawn with Pillow; never breaks saving.","tags":["script","editing"]}
