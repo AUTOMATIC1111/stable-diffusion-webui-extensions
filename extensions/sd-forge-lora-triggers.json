@@ -1,0 +1,1 @@
+{"name":"LoRA Triggers (offline)","url":"https://github.com/Stable-yogi/sd-forge-lora-triggers.git","description":"A tab that reads each LoRA\u0027s trigger words straight from the .safetensors file\u0027s own training metadata - works offline and for your locally-trained LoRAs, not just ones from a website. Read-only.","tags":["script","tab"]}

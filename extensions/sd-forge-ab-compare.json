@@ -1,0 +1,1 @@
+{"name":"A/B Compare","url":"https://github.com/Stable-yogi/sd-forge-ab-compare.git","description":"Drop two generated images and see exactly which settings differ (sampler, steps, CFG, seed, model...) - read from each PNG\u0027s own embedded parameters. Read-only tab.","tags":["script","tab","query"]}

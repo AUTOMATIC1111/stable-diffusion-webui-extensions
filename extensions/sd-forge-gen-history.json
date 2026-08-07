@@ -1,0 +1,1 @@
+{"name":"Generation History","url":"https://github.com/Stable-yogi/sd-forge-gen-history.git","description":"Logs each generation to a searchable JSON-lines file next to your outputs (time, filename, prompt, full settings) - find any past image\u0027s prompt and settings even after the PNG lost its metadata. Live on/off checkbox. Forge / A1111.","tags":["script","UI related"]}

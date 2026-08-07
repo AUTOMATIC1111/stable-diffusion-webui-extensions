@@ -1,0 +1,1 @@
+{"name":"Prompt Library","url":"https://github.com/Stable-yogi/sd-forge-prompt-library.git","description":"A tab to save the prompt bits you reuse (quality tags, a go-to negative, a style block) and copy them back any time. Persistent JSON, offline, never touches generation.","tags":["script","tab","prompting"]}

@@ -1,0 +1,1 @@
+{"name":"Blank-image Guard","url":"https://github.com/Stable-yogi/sd-forge-nan-guard.git","description":"Catches the silent black-image bug (a VAE NaN on fp8/half saves a pure black frame): detects the all-black frame and stamps a clear diagnosis onto it instead of a mystery black square. Only touches already-failed frames.","tags":["script","editing"]}
