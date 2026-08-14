@@ -1,0 +1,9 @@
+{
+    "name": "Anima LoRA 28→40 Converter",
+    "url": "https://github.com/R0smontis/sd-webui-anima-lora-28to40-converter.git",
+    "description": "Batch convert 28-layer Anima LoRAs to 40-layer key structure and save into models/Lora. Supports lora_unet_blocks_*, diffusion_model.blocks.* and net.blocks.* naming, with optional output key family conversion. Same mapping spec as the ComfyUI counterpart (insertion layers left empty).",
+    "tags": [
+        "tab",
+        "models"
+    ]
+}
