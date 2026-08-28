@@ -1,0 +1,10 @@
+{
+    "name": "Gelbooru Prompt",
+    "url": "https://github.com/MiHoSkA/Gelbooru_Prompt.git",
+    "description": "It finds a random post or a specific post by number or direct link to the post on Gelbooru and displays the post’s tags; it has a wide range of settings and functionality.",
+    "added": "2026-08-28",
+    "tags": [
+        "prompting",
+        "online"
+    ]
+}
