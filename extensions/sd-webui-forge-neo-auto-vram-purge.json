@@ -1,0 +1,8 @@
+{
+    "name": "Forge Neo Auto VRAM Purge",
+    "url": "https://github.com/ukr8b3g-cmyk/sd-webui-forge-neo-auto-vram-purge.git",
+    "description": "Generate Forever-aware GPU model unloading for Forge Neo that keeps models resident during continuous generation and returns VRAM after it stops.",
+    "tags": [
+        "script"
+    ]
+}
