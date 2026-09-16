@@ -1,0 +1,6 @@
+{
+    "name": "DLSS5 NR for Forge",
+    "url": "https://github.com/silvermoong/sd-webui-forge-dlss5-nr.git",
+    "description": "Forge-neo-only experimental, unofficial Neural Rendering for still images, with up to three independently configured passes before or after Hires. fix, presets and X/Y/Z comparisons. Requires Windows x64, Python 3.12 or 3.13, and a compatible NVIDIA GPU, driver and NR runtime. Other WebUI forks are not claimed compatible.",
+    "tags": ["script"]
+}
