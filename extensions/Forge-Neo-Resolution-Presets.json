@@ -1,0 +1,8 @@
+{
+    "name": "Forge Neo Resolution Presets",
+    "url": "https://github.com/ukr8b3g-cmyk/Forge-Neo-Resolution-Presets.git",
+    "description": "Compact one-click resolution profiles for Forge Neo and reForge txt2img/img2img, with user presets, profile editing, randomization, and an aspect-ratio calculator.",
+    "tags": [
+        "UI related"
+    ]
+}
