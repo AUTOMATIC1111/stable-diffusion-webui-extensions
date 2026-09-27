@@ -1,0 +1,8 @@
+{
+    "name": "Forge Neo Auto VRAM Purge",
+    "url": "https://github.com/ukr8b3g-cmyk/sd-webui-forge-neo-auto-vram-purge.git",
+    "description": "Forge Neo extension that unloads GPU-resident models after generation becomes idle, suspends unloading during Generate forever, and releases VRAM after continuous generation stops.",
+    "tags": [
+        "script"
+    ]
+}
