@@ -1,0 +1,9 @@
+{
+    "name": "Speech Bubble Comic Editor for Forge Neo",
+    "url": "https://github.com/ukr8b3g-cmyk/Speech-Bubble-Comic-Editor-for-Forge-Neo.git",
+    "description": "Forge Neo extension for local single-image, four-panel manga and comic layout editing. Adds speech bubbles, vertical text, SFX, crop, quick retouch, monochrome conversion, background removal and local image export. Requires Forge Neo; ComfyUI is not required.",
+    "tags": [
+        "UI related",
+        "editing"
+    ]
+}
