@@ -2,9 +2,24 @@ from collections import Counter
 from pathlib import Path
 import datetime
 import json
-import re
 
-git_url_pattern = re.compile(r'(https://[^ ]+?)(?:(?:\.git)$|$)')
+
+def normalize_git_url(url):
+    if not isinstance(url, str):
+        raise TypeError(f'URL must be a string: {url!r}')
+
+    normalized = url.strip()
+    if not normalized:
+        raise ValueError('URL is empty')
+
+    if not normalized.lower().startswith(('http://', 'https://')):
+        raise ValueError(f'invalid URL: "{url}"')
+
+    normalized = normalized.rstrip('/')
+    if normalized.lower().endswith('.git'):
+        normalized = normalized[:-4]
+
+    return normalized
 
 
 def validate_index(index_path: Path):
@@ -13,6 +28,7 @@ def validate_index(index_path: Path):
         assert "tags" in d
 
         tags = set(d["tags"].keys())
+        seen_urls = set()
 
         for extension in d["extensions"]:
             for required_key in [
@@ -23,6 +39,10 @@ def validate_index(index_path: Path):
                 "tags",
             ]:
                 assert required_key in extension, f"missing key: {required_key}"
+
+            extension['url'] = normalize_git_url(extension['url'])
+            assert extension['url'] not in seen_urls, f'duplicate extension: {extension["url"]}'
+            seen_urls.add(extension['url'])
 
             for tag in extension["tags"]:
                 assert tag in tags, f'{extension["url"]} tag: "{str(tag)}" is not a valid tag'
@@ -54,9 +74,9 @@ def validate_entry(file: Path):
             datetime.date.fromisoformat(extension.get('added'))
         except:
             assert False, f"{file} Incorrect added data format, YYYY-MM-DD"
-    git_url = git_url_pattern.match(extension['url'])
-    assert git_url, f'invalid URL: "{extension["url"]}"'
-    return git_url.group(1)
+    normalized_url = normalize_git_url(extension['url'])
+    extension['url'] = normalized_url
+    return normalized_url
 
 
 def validate_extension_entrys(ext_dir: Path):
