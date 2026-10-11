@@ -5,6 +5,11 @@ import json
 
 import validate
 
+
+def normalize_extension_url(url):
+    return validate.normalize_git_url(url)
+
+
 def read_extension(file: Path):
     with open(file, 'r', encoding='utf-8') as f:
         extension = json.load(f)
@@ -15,6 +20,8 @@ def read_extension(file: Path):
         "tags",
     ]:
         assert required_key in extension, f"{file} missing key: {required_key}"
+
+    extension['url'] = normalize_extension_url(extension['url'])
 
     for _tag in extension["tags"]:
         assert _tag in tags, f'{file} tag: "{str(_tag)}" is not a valid tag'
@@ -41,7 +48,7 @@ def read_extension_dir():
 def update_index(exts: dict, tags: dict):
     # update existing remove removed and add new extensions
     with open(build_index_path, 'r', encoding='utf-8') as f:
-        existing_extensions = {extension['url']: extension for extension in json.load(f)['extensions']}
+        existing_extensions = {normalize_extension_url(extension['url']): extension for extension in json.load(f)['extensions']}
 
     for extensions_url, extension in exts.items():
         if extensions_url in existing_extensions.keys():
@@ -59,9 +66,9 @@ def update_index(exts: dict, tags: dict):
 def update_master_index(index: dict):
     # add keys from master/index that are not in extensions/tags to extensions/tags as new master/index
     with open(deploy_index_path, 'r', encoding='utf-8') as f:
-        master_exts = {extension['url']: extension for extension in json.load(f)['extensions']}
+        master_exts = {normalize_extension_url(extension['url']): extension for extension in json.load(f)['extensions']}
 
-    index_ext = {extension['url']: extension for extension in index['extensions']}
+    index_ext = {normalize_extension_url(extension['url']): extension for extension in index['extensions']}
     index_ext_urls = index_ext.keys()
     for master_ext_url, master_ext in master_exts.items():
         if master_ext_url in index_ext_urls:
