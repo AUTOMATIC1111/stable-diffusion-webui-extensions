@@ -1,0 +1,10 @@
+{
+    "name": "Smart Img2Img Composer",
+    "url": "https://github.com/maitaka-st/smart-img2img-composer",
+    "description": "Randomly picks an image, injects perfectly matched prompts to img2img with automatic LoRA injection and flawless NSFW-ready WD14 Tagger integration.",
+    "tags": [
+        "script",
+        "tab",
+        "ui"
+    ]
+}
