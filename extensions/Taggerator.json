@@ -1,0 +1,9 @@
+{
+    "name": "Taggerator",
+    "url": "https://github.com/Marusame00/Taggerator.git",
+    "description": "Drag-and-drop tag separator: reorder comma-separated prompt tags as draggable chips, adjust tag and LoRA weights with Alt+scroll, delete tags with Alt+click.",
+    "tags": [
+        "prompting",
+        "UI related"
+    ]
+}
