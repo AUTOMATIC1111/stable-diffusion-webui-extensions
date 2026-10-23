@@ -1,0 +1,10 @@
+{
+    "name": "AutoExpress",
+    "url": "https://github.com/deepratna-awale/AutoExpress.git",
+    "description": "Generates up to 28 facial expressions of a character from one image by inpainting the face with ADetailer, with prompt sets for Danbooru, e621, Pony, Illustrious, SDXL and natural-language models, and builds a labelled sprite sheet.",
+    "tags": [
+        "tab",
+        "manipulations",
+        "prompting"
+    ]
+}
