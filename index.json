@@ -400,11 +400,11 @@
             ],
             "full_name": "hako-mikan/sd-webui-supermerger",
             "github_description": "model merge extention for stable diffusion web ui",
-            "stars": 838,
+            "stars": 837,
             "default_branch": "main",
             "created_at": "2023-01-18T13:20:58Z",
-            "default_branch_commit_sha": "33b37ce73d1f3e1ea622a09e9109dbd1e24559bd",
-            "commit_time": "2026-09-13T10:49:16Z"
+            "default_branch_commit_sha": "cad4f342d4e0f1a835a8d71e22a12c2bc7b26e99",
+            "commit_time": "2026-10-24T16:38:45Z"
         },
         {
             "name": "LoRA Block Weight",
@@ -416,11 +416,11 @@
             ],
             "full_name": "hako-mikan/sd-webui-lora-block-weight",
             "github_description": null,
-            "stars": 1166,
+            "stars": 1167,
             "default_branch": "main",
             "created_at": "2023-01-29T16:37:35Z",
-            "default_branch_commit_sha": "da39887cc7276b845096f5829f0373d3c24eba28",
-            "commit_time": "2026-09-04T11:32:02Z"
+            "default_branch_commit_sha": "d9a20b000a561c77e34c66fbe454f1ee8d8647b7",
+            "commit_time": "2026-10-24T16:29:59Z"
         },
         {
             "name": "Image browser",
@@ -453,8 +453,8 @@
             "stars": 1363,
             "default_branch": "main",
             "created_at": "2023-03-07T18:26:27Z",
-            "default_branch_commit_sha": "f183e3292bc4f9e8916921d4e0df5595f8aa000a",
-            "commit_time": "2026-10-19T18:31:05Z"
+            "default_branch_commit_sha": "d684dbae0ee3f0d205c11a7fd63ac2226d6cb07b",
+            "commit_time": "2026-10-24T14:11:15Z"
         },
         {
             "name": "Inspiration",
@@ -567,7 +567,7 @@
             ],
             "full_name": "zero01101/openOutpaint-webUI-extension",
             "github_description": "direct A1111 webUI extension for openOutpaint ",
-            "stars": 404,
+            "stars": 405,
             "default_branch": "main",
             "created_at": "2022-12-18T20:11:06Z",
             "default_branch_commit_sha": "3449ae8559c0f270d49ceb3ef7234f62feaac675",
@@ -648,7 +648,7 @@
             ],
             "full_name": "journey-ad/sd-webui-bilingual-localization",
             "github_description": "Stable Diffusion web UI bilingual localization extensions. SD WebUI双语对照翻译插件",
-            "stars": 908,
+            "stars": 907,
             "default_branch": "main",
             "created_at": "2023-02-26T07:26:55Z",
             "default_branch_commit_sha": "533b7757182ab45ea58e69c7799aa0082b7ba471",
@@ -1126,7 +1126,7 @@
             ],
             "full_name": "KohakuBlueleaf/a1111-sd-webui-haku-img",
             "github_description": "An Image utils extension for A1111's sd-webui",
-            "stars": 197,
+            "stars": 198,
             "default_branch": "main",
             "created_at": "2023-01-05T03:14:11Z",
             "default_branch_commit_sha": "ac80e1e9415e25109ae1e6193d4a3a33aaa86b13",
@@ -1286,7 +1286,7 @@
             ],
             "full_name": "Mikubill/sd-webui-controlnet",
             "github_description": "WebUI extension for ControlNet",
-            "stars": 17819,
+            "stars": 17822,
             "default_branch": "main",
             "created_at": "2023-02-12T16:26:27Z",
             "default_branch_commit_sha": "56cec5b2958edf3b1807b7e7b2b1b5186dbd2f81",
@@ -1774,7 +1774,7 @@
             ],
             "full_name": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
             "github_description": "Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0",
-            "stars": 4990,
+            "stars": 4991,
             "default_branch": "main",
             "created_at": "2023-02-27T14:23:49Z",
             "default_branch_commit_sha": "22798f6822bc9c8a905b51da8954ee313b973331",
@@ -1990,8 +1990,8 @@
             "stars": 1815,
             "default_branch": "main",
             "created_at": "2023-03-19T14:46:35Z",
-            "default_branch_commit_sha": "b10c496dbcb9c94be0d5d64edda8511460cc9d28",
-            "commit_time": "2026-09-04T14:10:14Z"
+            "default_branch_commit_sha": "9d6c1f445acaabff7ce8ac57109d1234de0cafa6",
+            "commit_time": "2026-10-24T16:35:30Z"
         },
         {
             "name": "Auto Translate",
@@ -2104,7 +2104,7 @@
             ],
             "full_name": "KohakuBlueleaf/a1111-sd-webui-lycoris",
             "github_description": "An extension for stable-diffusion-webui to load lycoris models. ",
-            "stars": 883,
+            "stars": 884,
             "default_branch": "main",
             "created_at": "2023-04-09T08:20:56Z",
             "default_branch_commit_sha": "47ddd4a06b4bd9eb5397763313af156e1e06be32",
@@ -2484,7 +2484,7 @@
             ],
             "full_name": "Physton/sd-webui-prompt-all-in-one",
             "github_description": "This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions.    这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。",
-            "stars": 3241,
+            "stars": 3242,
             "default_branch": "main",
             "created_at": "2023-05-08T12:23:21Z",
             "default_branch_commit_sha": "e66d417c37097e6383f81b78d4fd49fdb0081f10",
@@ -2988,7 +2988,7 @@
             "added": "2023-07-07",
             "full_name": "OpenTalker/SadTalker",
             "github_description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
-            "stars": 14151,
+            "stars": 14157,
             "default_branch": "main",
             "created_at": "2022-11-23T02:18:18Z",
             "default_branch_commit_sha": "cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8",
@@ -3004,7 +3004,7 @@
             "added": "2023-07-07",
             "full_name": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
             "github_description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.",
-            "stars": 7301,
+            "stars": 7304,
             "default_branch": "master",
             "created_at": "2022-12-20T20:09:54Z",
             "default_branch_commit_sha": "6f6d4907adf0b6a6e562d084238f02ed6b7503c1",
@@ -3787,7 +3787,7 @@
             "added": "2023-10-01",
             "full_name": "aigc-apps/sd-webui-EasyPhoto",
             "github_description": "📷 EasyPhoto | Your Smart AI Photo Generator.",
-            "stars": 5143,
+            "stars": 5144,
             "default_branch": "main",
             "created_at": "2023-08-28T10:46:27Z",
             "default_branch_commit_sha": "6c1f8959c4024b0f8a1187fae7c50c0c8f86a8df",
@@ -3897,8 +3897,8 @@
             "stars": 263,
             "default_branch": "main",
             "created_at": "2023-07-26T15:58:03Z",
-            "default_branch_commit_sha": "fb7151f327ae56195f08b30b70d459493dadedbb",
-            "commit_time": "2026-09-04T11:01:00Z"
+            "default_branch_commit_sha": "97140e4d6e3b5d6eb318337d246a96283ca3f218",
+            "commit_time": "2026-10-24T16:18:27Z"
         },
         {
             "name": "CD(Color/Detail) Tuner",
@@ -3913,8 +3913,8 @@
             "stars": 226,
             "default_branch": "main",
             "created_at": "2023-07-08T17:05:49Z",
-            "default_branch_commit_sha": "3685692b6a7001d3f34c5dfbec4756ac59884047",
-            "commit_time": "2026-09-05T06:23:42Z"
+            "default_branch_commit_sha": "aafdbdda88b8d4e717fdb9aa9abe9e6df4943d7a",
+            "commit_time": "2026-10-24T16:22:49Z"
         },
         {
             "name": "DevDark theme",
@@ -4351,7 +4351,7 @@
             "added": "2023-12-02",
             "full_name": "KohakuBlueleaf/Kohaku-NAI",
             "github_description": "A Novel-AI client with more utilities built in it",
-            "stars": 92,
+            "stars": 93,
             "default_branch": "main",
             "created_at": "2023-11-22T04:18:35Z",
             "default_branch_commit_sha": "c87b5db9cd0283e99c43cdc7354479531252fceb",
@@ -5293,7 +5293,7 @@
             "added": "2024-06-15",
             "full_name": "zombieyang/sd-ppp",
             "github_description": "A Photoshop AI plugin",
-            "stars": 2190,
+            "stars": 2191,
             "default_branch": "main",
             "created_at": "2024-03-29T13:26:05Z",
             "default_branch_commit_sha": "d965457928994ea2d0595fe56890ecc5bb60f42e",
@@ -5744,7 +5744,7 @@
             "added": "2024-09-29",
             "full_name": "KohakuBlueleaf/z-tipo-extension",
             "github_description": "A sd-webui extension for utilizing DanTagGen to \"upsample prompts\".",
-            "stars": 640,
+            "stars": 642,
             "default_branch": "main",
             "created_at": "2024-03-23T09:00:11Z",
             "default_branch_commit_sha": "549a43365a1fb5e1c545f8a253562627f782caaa",
@@ -5898,8 +5898,8 @@
             "stars": 40,
             "default_branch": "master",
             "created_at": "2026-02-14T12:26:40Z",
-            "default_branch_commit_sha": "e6f4b4787d0aa227e628a7fc009beb2ac3439fc2",
-            "commit_time": "2026-10-22T14:43:56Z"
+            "default_branch_commit_sha": "2bf242ff3535e22e870984c6a6e003dd7cb79b7a",
+            "commit_time": "2026-10-25T07:21:58Z"
         },
         {
             "name": "VAE Tools (in extras tab)",
