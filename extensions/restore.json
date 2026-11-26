@@ -1,0 +1,10 @@
+{
+    "name": "Restore",
+    "url": "https://github.com/flynbird-cyber/Restore.git",
+    "description": "Restore up to 2,000 saved PNG images and their generation metadata directly to the txt2img gallery after unexpected restarts or accidental new generations. Resume image selection, Hires. fix, and further processing without rebuilding the workflow.",
+    "tags": [
+        "script",
+        "dropdown",
+        "UI related"
+    ]
+}
