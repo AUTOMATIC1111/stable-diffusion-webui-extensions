@@ -1,0 +1,10 @@
+{
+    "name": "Guyanonymous' Prompt Studio",
+    "url": "https://github.com/Guyanonymous-x/guyanonymous_prompt_studio_sdwebui_extension.git",
+    "description": "Wildcard prompts with Guyanonymous' Prompt Studio: a txt2img/img2img panel that resolves Studio templates per image seed (__file__, nesting, {a|b}, weights, reusable picks), a Prompt Studio tab running the full Studio app with send-to-txt2img, and a generation queue. Made for Forge Neo.",
+    "tags": [
+        "tab",
+        "prompting",
+        "script"
+    ]
+}
