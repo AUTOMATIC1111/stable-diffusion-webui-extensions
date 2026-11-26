@@ -1,0 +1,9 @@
+{
+    "name": "Prompt Comment Inserter",
+    "url": "https://github.com/Guyanonymous-x/Guyanonymous-sd-webui-and-Forge-Neo-Metadata-Prompt-Comment-Inserter.git",
+    "description": "Adds your own # comment lines (a credit, note or link) to the prompt saved in generated images' metadata, without changing the generated image.",
+    "tags": [
+        "script",
+        "prompting"
+    ]
+}
