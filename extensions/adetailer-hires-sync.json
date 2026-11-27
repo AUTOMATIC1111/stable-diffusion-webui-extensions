@@ -1,0 +1,8 @@
+{
+    "name": "ADetailer Hires Sync",
+    "url": "https://github.com/KazeKaze93/adetailer-hires-sync.git",
+    "description": "Auto-enables ADetailer for the post-process hires fix in SD WebUI Forge / reForge, then turns it back off.",
+    "tags": [
+        "script"
+    ]
+}
